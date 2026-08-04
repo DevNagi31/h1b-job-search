@@ -139,6 +139,23 @@ def cmd_load_sponsors(args: argparse.Namespace) -> int:
     return 0 if total else 1
 
 
+def cmd_digest(args: argparse.Namespace) -> int:
+    """Print a markdown digest of recently-seen jobs (empty output = nothing new)."""
+    from .notify import digest_markdown, recent_jobs
+
+    profile = Profile.load(args.profile)
+    conn = db.connect(args.db)
+    jobs = recent_jobs(conn, args.hours, profile.min_score, args.limit)
+    text = digest_markdown(jobs, args.hours, args.dashboard_url)
+    if text:
+        if args.out_file:
+            Path(args.out_file).write_text(text, encoding="utf-8")
+        else:
+            print(text)
+    log.info("%d job(s) first seen in the last %dh", len(jobs), args.hours)
+    return 0
+
+
 def cmd_status(args: argparse.Namespace) -> int:
     conn = db.connect(args.db)
     ok = db.set_status(conn, args.fingerprint, args.new_status)
@@ -191,6 +208,13 @@ def main(argv: list[str] | None = None) -> int:
     ls.add_argument("paths", nargs="+")
     ls.add_argument("--fiscal-year", default="")
     ls.set_defaults(func=cmd_load_sponsors)
+
+    dg = sub.add_parser("digest", help="markdown digest of recently-added jobs")
+    dg.add_argument("--hours", type=int, default=24)
+    dg.add_argument("--limit", type=int, default=25)
+    dg.add_argument("--dashboard-url", default="")
+    dg.add_argument("--out-file", default="", help="write to a file instead of stdout")
+    dg.set_defaults(func=cmd_digest)
 
     st = sub.add_parser("status", help="mark a job applied/rejected/hidden")
     st.add_argument("fingerprint")

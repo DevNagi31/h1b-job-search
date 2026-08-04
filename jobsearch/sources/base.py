@@ -2,6 +2,7 @@
 
 from __future__ import annotations
 
+import html
 import logging
 import re
 import time
@@ -54,14 +55,13 @@ class Source:
         return None
 
 
-def strip_html(html: str | None) -> str:
-    if not html:
+def strip_html(raw: str | None) -> str:
+    if not raw:
         return ""
-    text = _TAG_RE.sub(" ", html)
-    for entity, char in (("&amp;", "&"), ("&lt;", "<"), ("&gt;", ">"),
-                         ("&nbsp;", " "), ("&#39;", "'"), ("&quot;", '"')):
-        text = text.replace(entity, char)
-    return _WS_RE.sub(" ", text).strip()
+    # unescape after tag removal so entity-encoded angle brackets don't become
+    # tags; html.unescape covers numeric refs like &#x27; that hand-rolled
+    # replacement tables always miss.
+    return _WS_RE.sub(" ", html.unescape(_TAG_RE.sub(" ", raw))).strip()
 
 
 def looks_remote(*fields: str | None) -> bool:

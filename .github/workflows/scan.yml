@@ -1,0 +1,114 @@
+name: Job scan
+
+on:
+  schedule:
+    # Every 3 hours during US working hours, weekdays. GitHub's scheduler is
+    # best-effort and can lag 5-20 min under load — this is as close to "ASAP"
+    # as cron gets without self-hosting.
+    - cron: "0 11,14,17,20,23 * * 1-5"
+    # Once on weekend mornings, since postings do go up Sunday night.
+    - cron: "0 14 * * 0,6"
+  workflow_dispatch:
+    inputs:
+      require_sponsor:
+        description: "Drop jobs with no H-1B evidence at all"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+  issues: write
+
+concurrency:
+  group: job-scan
+  cancel-in-progress: false
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - run: pip install -r requirements.txt
+
+      # The DB is the dedupe memory: it's what makes "new since last run" mean
+      # anything. It lives on a branch rather than in the Actions cache, because
+      # caches evict after 7 days of no hits and silently reset your history.
+      - name: Restore job database
+        run: |
+          git fetch origin state:state 2>/dev/null || true
+          if git cat-file -e state:jobs.db 2>/dev/null; then
+            mkdir -p data && git show state:jobs.db > data/jobs.db
+            echo "restored DB ($(du -h data/jobs.db | cut -f1))"
+          else
+            echo "no existing DB; first run"
+          fi
+
+      - name: Load H1B sponsor data
+        run: |
+          if [ -f data/sponsors.csv ]; then
+            python -m jobsearch.cli load-sponsors data/sponsors.csv
+          else
+            echo "::warning title=No sponsor data::data/sponsors.csv is missing, \
+            so every job shows 'no H-1B history'. Download a CSV from the USCIS \
+            H-1B Employer Data Hub and commit it as data/sponsors.csv."
+          fi
+
+      - name: Scan
+        env:
+          ADZUNA_APP_ID: ${{ secrets.ADZUNA_APP_ID }}
+          ADZUNA_APP_KEY: ${{ secrets.ADZUNA_APP_KEY }}
+          USAJOBS_API_KEY: ${{ secrets.USAJOBS_API_KEY }}
+          USAJOBS_EMAIL: ${{ secrets.USAJOBS_EMAIL }}
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: |
+          ARGS=""
+          [ -n "$ANTHROPIC_API_KEY" ] && ARGS="$ARGS --llm"
+          [ "${{ inputs.require_sponsor }}" = "true" ] && ARGS="$ARGS --require-sponsor"
+          python -m jobsearch.cli run $ARGS --out docs/index.html
+
+      - name: Build digest of new jobs
+        id: digest
+        run: |
+          python -m jobsearch.cli digest \
+            --hours 4 \
+            --dashboard-url "https://${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}/" \
+            --out-file digest.md
+          if [ -s digest.md ]; then echo "has_new=true" >> "$GITHUB_OUTPUT"; fi
+
+      # GitHub emails you on issue creation, so this is the notification path.
+      # Watch the repo (All Activity) or you won't get the mail.
+      - name: Notify
+        if: steps.digest.outputs.has_new == 'true'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh issue create \
+            --title "New H-1B matches — $(date -u '+%b %d, %H:%M UTC')" \
+            --body-file digest.md \
+            --label "job-alert" || echo "::warning::could not open issue"
+
+      - name: Publish dashboard
+        run: |
+          git config user.name  "job-scan-bot"
+          git config user.email "job-scan-bot@users.noreply.github.com"
+          git add docs/
+          git diff --staged --quiet || {
+            git commit -m "chore: job digest $(date -u +'%F %H:%M')"
+            git push origin HEAD:main
+          }
+
+      - name: Persist job database
+        run: |
+          git checkout --orphan state-tmp
+          git rm -rq --cached . || true
+          cp data/jobs.db ./jobs.db
+          git add -f jobs.db
+          git -c user.name=job-scan-bot -c user.email=job-scan-bot@users.noreply.github.com \
+            commit -qm "state: job db $(date -u +'%F %H:%M')"
+          git push -f origin state-tmp:state
