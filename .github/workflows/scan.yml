@@ -14,6 +14,10 @@ on:
         description: "Drop jobs with no H-1B evidence at all"
         type: boolean
         default: false
+      silence_backlog:
+        description: "Mark everything currently known as already-reported, no alert"
+        type: boolean
+        default: false
 
 permissions:
   contents: write
@@ -72,8 +76,18 @@ jobs:
           [ "${{ inputs.require_sponsor }}" = "true" ] && ARGS="$ARGS --require-sponsor"
           python -m jobsearch.cli run $ARGS --out docs/index.html
 
+      # One-shot escape hatch: the first scan finds hundreds of jobs that are
+      # "new" only because the DB was empty. Draining those 25-at-a-time buries
+      # genuinely new postings under days of alerts.
+      - name: Silence backlog
+        if: inputs.silence_backlog
+        run: |
+          python -m jobsearch.cli digest --mark --limit 100000 --out-file /dev/null
+          echo "backlog silenced; future runs alert only on genuinely new jobs"
+
       - name: Build digest of new jobs
         id: digest
+        if: ${{ !inputs.silence_backlog }}
         run: |
           python -m jobsearch.cli digest \
             --dashboard-url "https://${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}/" \
