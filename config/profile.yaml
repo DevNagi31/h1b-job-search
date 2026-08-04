@@ -1,0 +1,116 @@
+# Your profile. Everything downstream keys off this file — edit it first.
+
+identity:
+  name: "Your Name"
+  years_experience: 3
+  visa_status: "F-1 OPT"          # informational; used in LLM prompt
+  needs_sponsorship: true
+
+# Roles you actually want. Matching a title term is the single biggest score boost.
+titles:
+  include:
+    - software engineer
+    - backend engineer
+    - full stack engineer
+    - platform engineer
+    - data engineer
+  # Hard-block: any posting whose title matches these is dropped outright.
+  exclude:
+    - intern
+    - internship
+    - principal
+    - staff
+    - director
+    - manager
+    - vp
+    - contract
+    - clearance
+
+# Weighted skills. Weight is the score contribution when the term appears.
+skills:
+  must_have:                       # at least one of these must appear, or the job is dropped
+    - python
+    - java
+    - go
+    - typescript
+  strong:                          # weight 3 each
+    - kubernetes
+    - aws
+    - postgres
+    - distributed systems
+    - microservices
+    - terraform
+  nice:                            # weight 1 each
+    - react
+    - graphql
+    - kafka
+    - docker
+    - ci/cd
+    - grpc
+
+seniority:
+  # Postings demanding far more experience than you have get penalized.
+  max_years_required: 6
+
+location:
+  remote_ok: true
+  preferred:
+    - remote
+    - new york
+    - san francisco
+    - seattle
+    - austin
+    - boston
+  # Postings in these places are dropped (H1B-hostile or unworkable for you).
+  exclude:
+    - india
+    - canada
+    - united kingdom
+    - poland
+
+compensation:
+  min_salary: 110000
+  # Drop postings that explicitly list a max below min_salary.
+  drop_below_min: true
+
+sponsorship:
+  # Phrases that prove a posting will NOT sponsor. Hard-block.
+  blockers:
+    - "no sponsorship"
+    - "not able to sponsor"
+    - "unable to sponsor"
+    - "will not sponsor"
+    - "cannot sponsor"
+    - "without sponsorship"
+    - "no visa sponsorship"
+    - "us citizen"
+    - "u.s. citizen"
+    - "citizenship required"
+    - "security clearance"
+    - "green card holder"
+    - "gc holder"
+    - "must be authorized to work in the us without"
+  # Phrases that prove it WILL. Big boost.
+  boosters:
+    - "visa sponsorship available"
+    - "we sponsor"
+    - "will sponsor"
+    - "h-1b"
+    - "h1b"
+    - "sponsorship provided"
+    - "cap-exempt"
+
+scoring:
+  # Minimum score (0-1) to appear in the report.
+  min_score: 0.35
+  weights:
+    title_match: 5
+    skill_must: 4
+    skill_strong: 3
+    skill_nice: 1
+    sponsor_history: 6            # company appears in USCIS H1B data
+    sponsor_language: 5           # posting explicitly mentions sponsorship
+    location_pref: 2
+    salary_ok: 2
+    recent_posting: 2             # posted within `fresh_days`
+  fresh_days: 14

@@ -1,0 +1,65 @@
+# Which sources run, and how. `enabled: false` skips a source entirely.
+
+# Search terms sent to keyword-based sources (the ATS boards return everything,
+# so these don't apply there).
+queries:
+  - software engineer
+  - backend engineer
+  - full stack engineer
+  - data engineer
+  - platform engineer
+
+sources:
+  # --- ATS boards: highest signal, full job descriptions, no ToS problem -----
+  # Add board tokens from a company's careers URL:
+  #   boards.greenhouse.io/stripe        -> stripe
+  #   jobs.lever.co/netflix              -> netflix
+  #   jobs.ashbyhq.com/ramp              -> ramp
+  #   jobs.smartrecruiters.com/Visa      -> Visa
+  greenhouse:
+    enabled: true
+    boards: [stripe, databricks, airbnb, robinhood, doordash, coinbase,
+             gitlab, cloudflare, dropbox, brex, plaid, discord, reddit]
+  lever:
+    enabled: true
+    boards: [netflix, palantir, benchling, ro, mux, attentivemobile]
+  ashby:
+    enabled: true
+    boards: [ramp, vanta, linear, openai, anthropic, notion, deel]
+  smartrecruiters:
+    enabled: false        # slower: one extra request per posting
+    boards: [Visa, Bosch, McDonalds]
+
+  # --- Keyless aggregator APIs ---------------------------------------------
+  remoteok:
+    enabled: true
+  arbeitnow:
+    enabled: true
+    pages: 3
+  hackernews:
+    enabled: true
+
+  # --- Keyed APIs (free tiers; no key = silently skipped) -------------------
+  adzuna:               # ADZUNA_APP_ID / ADZUNA_APP_KEY
+    enabled: true
+    pages: 2
+    max_days_old: 21
+  usajobs:              # USAJOBS_API_KEY / USAJOBS_EMAIL
+    enabled: false
+
+  # --- Opt-in scrapers: violate LinkedIn/Indeed ToS, break often ------------
+  # See jobsearch/sources/optin.py for what you're signing up for.
+  linkedin:
+    enabled: false
+    location: United States
+    pages: 2
+    time_filter: r604800     # postings from the last 7 days
+    delay_seconds: 3
+  indeed:
+    enabled: false
+    location: United States
+    pages: 2
+    max_days_old: 7
+    # Needs INDEED_PROXY_URL (a template containing {url}) — Indeed blocks
+    # direct requests. Errors loudly instead of returning nothing.
+    proxy_url: ""
