@@ -28,7 +28,8 @@ CREATE TABLE IF NOT EXISTS jobs (
     llm_score        INTEGER,
     llm_reasoning    TEXT,
     first_seen       TEXT,
-    status           TEXT DEFAULT 'new'   -- new | seen | applied | rejected | hidden
+    status           TEXT DEFAULT 'new',  -- new | seen | applied | rejected | hidden
+    notified_at      TEXT                 -- set once a digest has reported it
 );
 CREATE INDEX IF NOT EXISTS idx_jobs_score ON jobs(score DESC);
 CREATE INDEX IF NOT EXISTS idx_jobs_status ON jobs(status);
@@ -63,7 +64,17 @@ def connect(path: str | Path) -> sqlite3.Connection:
     conn = sqlite3.connect(path)
     conn.row_factory = sqlite3.Row
     conn.executescript(SCHEMA)
+    _migrate(conn)
     return conn
+
+
+def _migrate(conn: sqlite3.Connection) -> None:
+    """Add columns introduced after a DB was first created."""
+    have = {r["name"] for r in conn.execute("PRAGMA table_info(jobs)")}
+    for column, ddl in (("notified_at", "TEXT"),):
+        if column not in have:
+            conn.execute(f"ALTER TABLE jobs ADD COLUMN {column} {ddl}")
+    conn.commit()
 
 
 def upsert_jobs(conn: sqlite3.Connection, jobs: list[Job]) -> int:

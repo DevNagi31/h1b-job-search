@@ -84,6 +84,27 @@ with tempfile.TemporaryDirectory() as tmp:
     db.set_status(conn, job().fingerprint, "hidden")
     check("hidden jobs excluded", len(db.load_jobs(conn, min_score=0.0)) == 0)
 
+print("\nnotification state")
+with tempfile.TemporaryDirectory() as tmp:
+    from jobsearch.notify import count_pending, mark_notified, unnotified_jobs
+    conn = db.connect(Path(tmp) / "n.db")
+    j = job(); j.score = 0.9
+    db.upsert_jobs(conn, [j])
+    first = unnotified_jobs(conn, 0.0)
+    check("new job is unreported", len(first) == 1)
+    mark_notified(conn, first)
+    check("not repeated after marking", len(unnotified_jobs(conn, 0.0)) == 0)
+    check("pending count drops to zero", count_pending(conn, 0.0) == 0)
+
+    # The bug this guards: re-running the scan re-upserts the same job. That
+    # must not resurrect it into the digest.
+    db.upsert_jobs(conn, [job()])
+    check("re-scan does not re-notify", len(unnotified_jobs(conn, 0.0)) == 0)
+
+    j2 = job(title="Data Engineer"); j2.score = 0.9
+    db.upsert_jobs(conn, [j2])
+    check("genuinely new job is reported", len(unnotified_jobs(conn, 0.0)) == 1)
+
 print("\nreport")
 with tempfile.TemporaryDirectory() as tmp:
     from jobsearch import report

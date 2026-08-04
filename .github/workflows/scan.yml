@@ -76,7 +76,6 @@ jobs:
         id: digest
         run: |
           python -m jobsearch.cli digest \
-            --hours 4 \
             --dashboard-url "https://${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}/" \
             --out-file digest.md
           if [ -s digest.md ]; then echo "has_new=true" >> "$GITHUB_OUTPUT"; fi
@@ -84,6 +83,7 @@ jobs:
       # GitHub emails you on issue creation, so this is the notification path.
       # Watch the repo (All Activity) or you won't get the mail.
       - name: Notify
+        id: notify
         if: steps.digest.outputs.has_new == 'true'
         env:
           GH_TOKEN: ${{ github.token }}
@@ -91,7 +91,14 @@ jobs:
           gh issue create \
             --title "New H-1B matches — $(date -u '+%b %d, %H:%M UTC')" \
             --body-file digest.md \
-            --label "job-alert" || echo "::warning::could not open issue"
+            --label "job-alert"
+
+      # Only stamp jobs as reported once the alert actually went out. If the
+      # issue failed to post, they stay pending and land in the next digest
+      # instead of disappearing unseen.
+      - name: Mark digested jobs as reported
+        if: steps.notify.outcome == 'success'
+        run: python -m jobsearch.cli digest --mark --out-file /dev/null
 
       - name: Publish dashboard
         run: |

@@ -122,6 +122,8 @@ jobsearch.cli run --only greenhouse ashby   # ignore `enabled`, run just these
 jobsearch.cli report --open            # regenerate from stored jobs, no fetching
 jobsearch.cli load-sponsors <csv...>   # import USCIS/DOL disclosure data
 jobsearch.cli sources                  # list sources and their on/off state
+jobsearch.cli digest                   # markdown list of jobs not yet reported
+jobsearch.cli digest --mark            # ...and stamp them so they don't repeat
 jobsearch.cli status <fingerprint> applied   # new|seen|applied|rejected|hidden
 ```
 
@@ -132,12 +134,33 @@ memory: it tracks what you've already seen and what you've applied to, and
 
 ## Automation
 
-`.github/workflows/daily.yml` runs the scan on weekday mornings, caches the DB
-between runs so the digest reflects genuinely new postings, and commits the
-report to `docs/` — enable GitHub Pages on that folder for a private daily
-dashboard. Add `ADZUNA_*` and `ANTHROPIC_API_KEY` as repo secrets to light up
-those paths; commit your sponsor CSV as `data/sponsors.csv` (it's gitignored by
-default, so force-add it).
+`.github/workflows/scan.yml` scans **every 3 hours on weekdays** (11:00–23:00
+UTC) plus once each weekend morning, and does two things with the results:
+
+- **Alerts you.** New matches are filed as a GitHub issue labeled `job-alert`,
+  which GitHub emails you about. This is the "ASAP" path.
+- **Publishes a dashboard.** The report is committed to `docs/` and served at
+  `https://<user>.github.io/<repo>/`.
+
+Dashboard: **https://devnagi31.github.io/h1b-job-search/**
+
+New-ness is tracked per job in `jobs.notified_at`, not by a time window — a
+window re-reports the same job on every run that overlaps it, which produces
+duplicate alerts whenever the schedule is tighter than the window. Jobs are only
+stamped as reported *after* the issue posts successfully, so a failed alert
+means they roll into the next digest rather than vanishing unseen. Each digest
+is capped at 25 jobs; the rest queue up and arrive next run.
+
+The dedupe DB lives on an orphan `state` branch rather than in the Actions
+cache, because caches evict after 7 days without a hit and would silently reset
+your history — making everything look new again.
+
+**Cadence caveat:** GitHub's cron is best-effort and can lag 5–20 minutes under
+load. Every 3 hours is about as tight as this gets before you'd want a real
+always-on host. Don't go below hourly; you'll burn Actions minutes for very
+little, since ATS boards don't refresh that fast.
+
+To trigger a scan by hand: `gh workflow run "Job scan"` — or the Actions tab.
 
 ## Tests
 

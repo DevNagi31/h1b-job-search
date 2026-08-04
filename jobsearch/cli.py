@@ -140,19 +140,25 @@ def cmd_load_sponsors(args: argparse.Namespace) -> int:
 
 
 def cmd_digest(args: argparse.Namespace) -> int:
-    """Print a markdown digest of recently-seen jobs (empty output = nothing new)."""
-    from .notify import digest_markdown, recent_jobs
+    """Digest of jobs not yet reported. Empty output means nothing new."""
+    from .notify import count_pending, digest_markdown, mark_notified, unnotified_jobs
 
     profile = Profile.load(args.profile)
     conn = db.connect(args.db)
-    jobs = recent_jobs(conn, args.hours, profile.min_score, args.limit)
-    text = digest_markdown(jobs, args.hours, args.dashboard_url)
+    pending = count_pending(conn, profile.min_score)
+    jobs = unnotified_jobs(conn, profile.min_score, args.limit)
+    text = digest_markdown(jobs, args.dashboard_url, pending)
+
     if text:
         if args.out_file:
             Path(args.out_file).write_text(text, encoding="utf-8")
         else:
             print(text)
-    log.info("%d job(s) first seen in the last %dh", len(jobs), args.hours)
+    # Only stamp after the digest is safely written, so a crash mid-write
+    # doesn't silently swallow jobs you were never shown.
+    if jobs and args.mark:
+        mark_notified(conn, jobs)
+    log.info("%d unreported job(s) (%d pending total)", len(jobs), pending)
     return 0
 
 
@@ -209,9 +215,10 @@ def main(argv: list[str] | None = None) -> int:
     ls.add_argument("--fiscal-year", default="")
     ls.set_defaults(func=cmd_load_sponsors)
 
-    dg = sub.add_parser("digest", help="markdown digest of recently-added jobs")
-    dg.add_argument("--hours", type=int, default=24)
+    dg = sub.add_parser("digest", help="markdown digest of not-yet-reported jobs")
     dg.add_argument("--limit", type=int, default=25)
+    dg.add_argument("--mark", action="store_true",
+                    help="stamp the listed jobs as reported so they don't repeat")
     dg.add_argument("--dashboard-url", default="")
     dg.add_argument("--out-file", default="", help="write to a file instead of stdout")
     dg.set_defaults(func=cmd_digest)
