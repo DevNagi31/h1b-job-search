@@ -11,7 +11,7 @@
 | 74 | [Senior Software Engineer, Core AI Infrastructure](https://www.coinbase.com/careers/positions/7847431?gh_jid=7847431) | coinbase | Remote - USA | — | greenhouse |
 | 74 | [Sr Software Engineer, Infrastructure](https://databricks.com/company/careers/open-positions/job?gh_jid=8493170002) | databricks | San Francisco, California | — | greenhouse |
 | 74 | [Senior Software Engineer - Infrastructure and Tools](https://databricks.com/company/careers/open-positions/job?gh_jid=6318503002) | databricks | San Francisco, California | — | greenhouse |
-| 74 | [Senior Software Engineer - Fullstack](https://databricks.com/company/careers/open-positions/job?gh_jid=5445641002) | databricks | Mountain View, California; San Francisco, California | — | greenhouse |
+| 74 | [Senior Software Engineer - Fullstack](https://databricks.com/company/careers/open-positions/job?gh_jid=7898766002) | databricks | Mountain View, California; San Francisco, California | — | greenhouse |
 | 74 | [Senior Software Engineer - Fullstack](https://databricks.com/company/careers/open-positions/job?gh_jid=6544403002) | databricks | Seattle, Washington | — | greenhouse |
 | 74 | [Software Engineer, Product Security Data Platforms](https://stripe.com/jobs/search?gh_jid=8039800) | stripe | Seattle | — | greenhouse |
 | 71 | [*Strello Health / Founding Software Engineer / Full-time / Hybrid Remote / Toron](https://news.ycombinator.com/item?id=49171072) | *Strello Health |  | — | hackernews |
@@ -21,6 +21,7 @@
 | 71 | [Software Engineer, Backend](https://boards.greenhouse.io/robinhood/jobs/7263592?t=gh_src=&gh_jid=7263592) | robinhood | Menlo Park, CA; New York, NY | — | greenhouse |
 | 71 | [Senior Software Engineer, Compute Infrastructure](https://databricks.com/company/careers/open-positions/job?gh_jid=8527117002) | databricks | Mountain View, California; San Francisco, California | — | greenhouse |
 | 71 | [Senior Software Engineer - Backend](https://databricks.com/company/careers/open-positions/job?gh_jid=4799387002) | databricks | San Francisco, California | — | greenhouse |
+| 68 | [Full Stack Engineer](https://www.arbeitnow.com/jobs/companies/clera/full-stack-engineer-munich-111111) | Clera | Munich | — | arbeitnow |
 | 68 | [Senior Full Stack Engineer / GraphPad](https://www.arbeitnow.co.uk/jobs/companies/dotmatics/senior-full-stack-engineer-graphpad-479989) | Dotmatics |  | — | arbeitnow |
 | 68 | [Phonely / San Francisco, CA / Full Time / Onsite (5 days/week) / Senior Full Sta](https://news.ycombinator.com/item?id=49166975) | Phonely |  | — | hackernews |
 | 68 | [Senior Platform Engineer](https://www.arbeitnow.com/jobs/companies/yazio/senior-platform-engineer-berlin-462052) | YAZIO | Berlin | — | arbeitnow |
@@ -43,4 +44,3 @@
 | 68 | [Fullstack Software Engineer, Notifications Lifecycle](https://job-boards.greenhouse.io/reddit/jobs/7895468) | reddit | Remote - United States | — | greenhouse |
 | 68 | [Senior Software Engineer, Safety Backend](https://job-boards.greenhouse.io/discord/jobs/8545675002) | discord | San Francisco Bay Area or Los Angeles Area | — | greenhouse |
 | 68 | [Senior Software Engineer, Core Infra Systems](https://www.coinbase.com/careers/positions/8026678?gh_jid=8026678) | coinbase | Remote - USA | — | greenhouse |
-| 68 | [Senior Software Engineer](https://www.coinbase.com/careers/positions/8021647?gh_jid=8021647) | coinbase | Remote - USA | — | greenhouse |
