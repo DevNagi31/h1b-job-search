@@ -17,10 +17,10 @@
 | 71 | [*Strello Health / Founding Software Engineer / Full-time / Hybrid Remote / Toron](https://news.ycombinator.com/item?id=49171072) | *Strello Health |  | — | hackernews |
 | 71 | [Senior Software Engineer, GenAI Platform](https://job-boards.greenhouse.io/reddit/jobs/7753480) | reddit | Remote - United States | — | greenhouse |
 | 71 | [Senior Software Engineer, Data Layer](https://www.coinbase.com/careers/positions/8064873?gh_jid=8064873) | coinbase | Remote - USA | — | greenhouse |
-| 71 | [Senior Software Engineer, Backend - Platform (Core AI Automation)](https://www.coinbase.com/careers/positions/8051871?gh_jid=8051871) | coinbase | Remote - USA | — | greenhouse |
 | 71 | [Software Engineer, Backend](https://boards.greenhouse.io/robinhood/jobs/7263592?t=gh_src=&gh_jid=7263592) | robinhood | Menlo Park, CA; New York, NY | — | greenhouse |
 | 71 | [Senior Software Engineer, Compute Infrastructure](https://databricks.com/company/careers/open-positions/job?gh_jid=8527117002) | databricks | Mountain View, California; San Francisco, California | — | greenhouse |
 | 71 | [Senior Software Engineer - Backend](https://databricks.com/company/careers/open-positions/job?gh_jid=4799387002) | databricks | San Francisco, California | — | greenhouse |
+| 68 | [Backend Engineer](https://www.arbeitnow.co.uk/jobs/companies/xai/backend-engineer-london-113867) | Xai | London | — | arbeitnow |
 | 68 | [(Junior) Data Engineer (m/w/d)](https://www.arbeitnow.com/jobs/companies/alexander-thamm-gmbh/junior-data-engineer-berlin-476263) | Alexander Thamm GmbH | Berlin | — | arbeitnow |
 | 68 | [Founding Software Engineer (Backend, Cloud & AI Infrastructure)](https://www.arbeitnow.com/jobs/companies/nextexai/founding-software-engineer-backend-cloud-ai-infrastructure-berlin-410693) | NextexAI | Berlin | — | arbeitnow |
 | 68 | [Backend Engineer  (m/w/d) – Python / Kundenportal & Ökosystem Wärmepumpe](https://www.arbeitnow.com/jobs/companies/octopus-energy-group/backend-engineer-python-kundenportal-okosystem-warmepumpe-berlin-de-479159) | Octopus Energy Group | Berlin (DE) | — | arbeitnow |
