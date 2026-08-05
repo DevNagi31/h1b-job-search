@@ -20,6 +20,7 @@
 | 71 | [Software Engineer, Backend](https://boards.greenhouse.io/robinhood/jobs/7263592?t=gh_src=&gh_jid=7263592) | robinhood | Menlo Park, CA; New York, NY | — | greenhouse |
 | 71 | [Senior Software Engineer, Compute Infrastructure](https://databricks.com/company/careers/open-positions/job?gh_jid=8527117002) | databricks | Mountain View, California; San Francisco, California | — | greenhouse |
 | 71 | [Senior Software Engineer - Backend](https://databricks.com/company/careers/open-positions/job?gh_jid=4799387002) | databricks | San Francisco, California | — | greenhouse |
+| 68 | [Senior Backend Engineer](https://www.arbeitnow.co.uk/jobs/companies/obsidiansecurity/senior-backend-engineer-cheltenham-417169) | Obsidiansecurity | Cheltenham | — | arbeitnow |
 | 68 | [Backend Engineer](https://www.arbeitnow.co.uk/jobs/companies/xai/backend-engineer-london-113867) | Xai | London | — | arbeitnow |
 | 68 | [(Junior) Data Engineer (m/w/d)](https://www.arbeitnow.com/jobs/companies/alexander-thamm-gmbh/junior-data-engineer-berlin-476263) | Alexander Thamm GmbH | Berlin | — | arbeitnow |
 | 68 | [Founding Software Engineer (Backend, Cloud & AI Infrastructure)](https://www.arbeitnow.com/jobs/companies/nextexai/founding-software-engineer-backend-cloud-ai-infrastructure-berlin-410693) | NextexAI | Berlin | — | arbeitnow |
@@ -43,4 +44,3 @@
 | 68 | [Software Engineer - Apollo Platform](https://jobs.lever.co/palantir/afea07a8-2721-45e6-a9ca-6580f3f9783c) | palantir | Seattle, WA | — | lever |
 | 68 | [Software Engineer - Apollo Platform](https://jobs.lever.co/palantir/8f308f3e-43d2-49c9-accd-cc7af0f1565c) | palantir | New York, NY | — | lever |
 | 68 | [Software Engineer, Ads](https://job-boards.greenhouse.io/reddit/jobs/6469397) | reddit | Remote - United States | — | greenhouse |
-| 68 | [Senior Software Engineer - DevX](https://job-boards.greenhouse.io/reddit/jobs/7950520) | reddit | Remote - United States | — | greenhouse |
