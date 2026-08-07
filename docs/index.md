@@ -12,7 +12,7 @@
 | 74 | [Senior Software Engineer, Release Infra ](https://www.brex.com/careers/8617115002?gh_jid=8617115002) | brex | New York, New York, United States | — | greenhouse |
 | 74 | [Sr Software Engineer, Infrastructure](https://databricks.com/company/careers/open-positions/job?gh_jid=8493170002) | databricks | San Francisco, California | — | greenhouse |
 | 74 | [Senior Software Engineer - Infrastructure and Tools](https://databricks.com/company/careers/open-positions/job?gh_jid=6318503002) | databricks | San Francisco, California | — | greenhouse |
-| 74 | [Senior Software Engineer - Fullstack](https://databricks.com/company/careers/open-positions/job?gh_jid=7898766002) | databricks | Mountain View, California; San Francisco, California | — | greenhouse |
+| 74 | [Senior Software Engineer - Fullstack](https://databricks.com/company/careers/open-positions/job?gh_jid=5445641002) | databricks | Mountain View, California; San Francisco, California | — | greenhouse |
 | 74 | [Senior Software Engineer - Fullstack](https://databricks.com/company/careers/open-positions/job?gh_jid=6544403002) | databricks | Seattle, Washington | — | greenhouse |
 | 74 | [Software Engineer, Product Security Data Platforms](https://stripe.com/jobs/search?gh_jid=8039800) | stripe | Seattle | — | greenhouse |
 | 71 | [*Strello Health / Founding Software Engineer / Full-time / Hybrid Remote / Toron](https://news.ycombinator.com/item?id=49171072) | *Strello Health |  | — | hackernews |
@@ -20,6 +20,8 @@
 | 71 | [Software Engineer, Backend](https://boards.greenhouse.io/robinhood/jobs/7263592?t=gh_src=&gh_jid=7263592) | robinhood | Menlo Park, CA; New York, NY | — | greenhouse |
 | 71 | [Senior Software Engineer, Compute Infrastructure](https://databricks.com/company/careers/open-positions/job?gh_jid=8527117002) | databricks | Mountain View, California; San Francisco, California | — | greenhouse |
 | 71 | [Senior Software Engineer - Backend](https://databricks.com/company/careers/open-positions/job?gh_jid=4799387002) | databricks | San Francisco, California | — | greenhouse |
+| 68 | [Software engineer, generative AI (UK)](https://www.arbeitnow.co.uk/jobs/companies/writer/software-engineer-generative-ai-uk-london-249213) | Writer | London, UK | — | arbeitnow |
+| 68 | [Software engineer, agents (UK)](https://www.arbeitnow.co.uk/jobs/companies/writer/software-engineer-agents-uk-london-476896) | Writer | London, UK | — | arbeitnow |
 | 68 | [Senior Software Engineer - Backend (m/w/d)](https://www.arbeitnow.com/jobs/companies/idealo-internet-gmbh/senior-software-engineer-backend-mwd-berlin-370067) | idealo internet GmbH | Berlin, Berlin, Deutschland | — | arbeitnow |
 | 68 | [Senior Software Engineer - k6 Core / United Kingdom / Remote](https://www.arbeitnow.co.uk/jobs/companies/grafanalabs/senior-software-engineer-k6-core-united-kingdom-remote-36418) | grafanalabs |  | — | arbeitnow |
 | 68 | [Software Engineer - Virtualization (Vehicle OS)](https://www.arbeitnow.com/jobs/companies/applied/software-engineer-virtualization-vehicle-os-munchen-271552) | Applied | Munich | — | arbeitnow |
@@ -42,5 +44,3 @@
 | 68 | [Software Engineer, Monetization Data Platform](https://jobs.ashbyhq.com/openai/d2aad13c-6ed0-4905-ae12-8ea2397b190c) | openai | Mountain View | — | ashby |
 | 68 | [Full Stack Software Engineer / San Francisco, CA / Full-time / ONSITE / $150K-$2](https://news.ycombinator.com/item?id=49163520) | Full Stack Software Engineer |  | — | hackernews |
 | 68 | [Well / Data Engineer / Python / SQL / Node.js / Terraform / Remote (USA, most st](https://news.ycombinator.com/item?id=49160256) | Well |  | — | hackernews |
-| 68 | [Senzing / Platform Engineer / Remote (USA) / Full-Time Senzing builds enterprise](https://news.ycombinator.com/item?id=49156737) | Senzing |  | — | hackernews |
-| 68 | [AI Platform Engineer (f/m/d)](https://www.arbeitnow.com/jobs/companies/munich-electrification/ai-platform-engineer-munich-80479) | Munich Electrification | Munich | — | arbeitnow |
