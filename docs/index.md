@@ -1,4 +1,4 @@
-# H1B job matches — 2026-08-06
+# H1B job matches — 2026-08-07
 
 500 matches. Top 40 below.
 
@@ -9,7 +9,6 @@
 | 74 | [Software Engineer, Data Platform](https://job-boards.greenhouse.io/discord/jobs/8396927002) | discord | San Francisco Bay Area | — | greenhouse |
 | 74 | [Senior Software Engineer, Release Infra ](https://www.brex.com/careers/8617113002?gh_jid=8617113002) | brex | San Francisco, California, United States | — | greenhouse |
 | 74 | [Senior Software Engineer, Release Infra ](https://www.brex.com/careers/8617115002?gh_jid=8617115002) | brex | New York, New York, United States | — | greenhouse |
-| 74 | [Senior Software Engineer, Core AI Infrastructure](https://www.coinbase.com/careers/positions/7847431?gh_jid=7847431) | coinbase | Remote - USA | — | greenhouse |
 | 74 | [Sr Software Engineer, Infrastructure](https://databricks.com/company/careers/open-positions/job?gh_jid=8493170002) | databricks | San Francisco, California | — | greenhouse |
 | 74 | [Senior Software Engineer - Infrastructure and Tools](https://databricks.com/company/careers/open-positions/job?gh_jid=6318503002) | databricks | San Francisco, California | — | greenhouse |
 | 74 | [Senior Software Engineer - Fullstack](https://databricks.com/company/careers/open-positions/job?gh_jid=7898766002) | databricks | Mountain View, California; San Francisco, California | — | greenhouse |
@@ -18,10 +17,11 @@
 | 71 | [Software Engineer](https://www.arbeitnow.com/jobs/companies/clera/software-engineer-berlin-491711) | Clera | Berlin | — | arbeitnow |
 | 71 | [*Strello Health / Founding Software Engineer / Full-time / Hybrid Remote / Toron](https://news.ycombinator.com/item?id=49171072) | *Strello Health |  | — | hackernews |
 | 71 | [Senior Software Engineer, GenAI Platform](https://job-boards.greenhouse.io/reddit/jobs/7753480) | reddit | Remote - United States | — | greenhouse |
-| 71 | [Senior Software Engineer, Data Layer](https://www.coinbase.com/careers/positions/8064873?gh_jid=8064873) | coinbase | Remote - USA | — | greenhouse |
 | 71 | [Software Engineer, Backend](https://boards.greenhouse.io/robinhood/jobs/7263592?t=gh_src=&gh_jid=7263592) | robinhood | Menlo Park, CA; New York, NY | — | greenhouse |
 | 71 | [Senior Software Engineer, Compute Infrastructure](https://databricks.com/company/careers/open-positions/job?gh_jid=8527117002) | databricks | Mountain View, California; San Francisco, California | — | greenhouse |
 | 71 | [Senior Software Engineer - Backend](https://databricks.com/company/careers/open-positions/job?gh_jid=4799387002) | databricks | San Francisco, California | — | greenhouse |
+| 68 | [Software Engineer - Virtualization (Vehicle OS)](https://www.arbeitnow.com/jobs/companies/applied/software-engineer-virtualization-vehicle-os-munchen-271552) | Applied | Munich | — | arbeitnow |
+| 68 | [Senior Software Engineer](https://www.arbeitnow.com/jobs/companies/wolt-english/senior-software-engineer-berlin-413146) | Wolt - English | Berlin, Berlin, Germany | — | arbeitnow |
 | 68 | [Senior Software Engineer](https://www.arbeitnow.co.uk/jobs/companies/geniussports/senior-software-engineer-london-241374) | Geniussports | London | — | arbeitnow |
 | 68 | [Backend Engineer](https://www.arbeitnow.co.uk/jobs/companies/augur/backend-engineer-london-69479) | Augur | London | — | arbeitnow |
 | 68 | [Senior Software Engineer (Node.js, TypeScript)](https://www.arbeitnow.co.uk/jobs/companies/diligentcorporation/senior-software-engineer-nodejs-typescript-london-196686) | diligentcorporation | London | — | arbeitnow |
