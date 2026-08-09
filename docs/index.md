@@ -1,4 +1,4 @@
-# H1B job matches — 2026-08-08
+# H1B job matches — 2026-08-09
 
 500 matches. Top 40 below.
 
@@ -19,6 +19,8 @@
 | 71 | [Senior Software Engineer, GenAI Platform](https://job-boards.greenhouse.io/reddit/jobs/7753480) | reddit | Remote - United States | — | greenhouse |
 | 71 | [Software Engineer, Backend](https://boards.greenhouse.io/robinhood/jobs/7263592?t=gh_src=&gh_jid=7263592) | robinhood | Menlo Park, CA; New York, NY | — | greenhouse |
 | 71 | [Senior Software Engineer, Compute Infrastructure](https://databricks.com/company/careers/open-positions/job?gh_jid=8527117002) | databricks | Mountain View, California; San Francisco, California | — | greenhouse |
+| 68 | [Data Engineer (all genders)](https://www.arbeitnow.com/jobs/companies/gropyus/data-engineer-all-genders-berlin-berlin-461780) | Gropyus | Berlin, Berlin | — | arbeitnow |
+| 68 | [AI & Backend Engineer](https://www.arbeitnow.com/jobs/companies/clera/ai-backend-engineer-munich-333562) | Clera | Munich | — | arbeitnow |
 | 68 | [Senior Full Stack Engineer](https://www.arbeitnow.co.uk/jobs/companies/quantum/senior-full-stack-engineer-london-449519) | Quantum | London (hybrid) | — | arbeitnow |
 | 68 | [Software Engineer - Operations](https://www.arbeitnow.co.uk/jobs/companies/onrunning/software-engineer-operations-london-235372) | onrunning | London | — | arbeitnow |
 | 68 | [Senior Backend Engineer: Machine Learning Infrastructure](https://www.arbeitnow.co.uk/jobs/companies/constructor/remote-senior-backend-engineer-machine-learning-infrastructure-169800) | Constructor | Remote - EMEA | — | arbeitnow |
@@ -39,8 +41,6 @@
 | 68 | [Founding Software Engineer (Backend, Cloud & AI Infrastructure)](https://www.arbeitnow.com/jobs/companies/nextexai/founding-software-engineer-backend-cloud-ai-infrastructure-berlin-410693) | NextexAI | Berlin | — | arbeitnow |
 | 68 | [Backend Engineer  (m/w/d) – Python / Kundenportal & Ökosystem Wärmepumpe](https://www.arbeitnow.com/jobs/companies/octopus-energy-group/backend-engineer-python-kundenportal-okosystem-warmepumpe-berlin-de-479159) | Octopus Energy Group | Berlin (DE) | — | arbeitnow |
 | 68 | [Senior Software Engineer](https://www.arbeitnow.co.uk/jobs/companies/prolific/remote-senior-software-engineer-414472) | prolific | Remote | — | arbeitnow |
-| 68 | [Full Stack Engineer](https://www.arbeitnow.com/jobs/companies/clera/full-stack-engineer-munich-111111) | Clera | Munich | — | arbeitnow |
+| 68 | [Full Stack Engineer](https://www.arbeitnow.com/jobs/companies/clera/full-stack-engineer-munich-291878) | Clera | Munich | — | arbeitnow |
 | 68 | [Senior Full Stack Engineer / GraphPad](https://www.arbeitnow.co.uk/jobs/companies/dotmatics/senior-full-stack-engineer-graphpad-479989) | Dotmatics |  | — | arbeitnow |
 | 68 | [Phonely / San Francisco, CA / Full Time / Onsite (5 days/week) / Senior Full Sta](https://news.ycombinator.com/item?id=49166975) | Phonely |  | — | hackernews |
-| 68 | [Senior Platform Engineer](https://www.arbeitnow.com/jobs/companies/yazio/senior-platform-engineer-berlin-462052) | YAZIO | Berlin | — | arbeitnow |
-| 68 | [Software Engineer, Monetization Data Platform](https://jobs.ashbyhq.com/openai/d2aad13c-6ed0-4905-ae12-8ea2397b190c) | openai | Mountain View | — | ashby |
