@@ -1,4 +1,4 @@
-# H1B job matches — 2026-08-10
+# H1B job matches — 2026-08-11
 
 500 matches. Top 40 below.
 
@@ -21,6 +21,7 @@
 | 71 | [Senior Software Engineer, GenAI Platform](https://job-boards.greenhouse.io/reddit/jobs/7753480) | reddit | Remote - United States | — | greenhouse |
 | 71 | [Software Engineer, Backend](https://boards.greenhouse.io/robinhood/jobs/7263592?t=gh_src=&gh_jid=7263592) | robinhood | Menlo Park, CA; New York, NY | — | greenhouse |
 | 71 | [Senior Software Engineer, Compute Infrastructure](https://databricks.com/company/careers/open-positions/job?gh_jid=8527117002) | databricks | Mountain View, California; San Francisco, California | — | greenhouse |
+| 68 | [Software Engineer](https://www.arbeitnow.co.uk/jobs/companies/sonymusicentertainment/software-engineer-london-249117) | sonymusicentertainment | London | — | arbeitnow |
 | 68 | [Backend Engineer - FinTech (M/F/D)](https://www.arbeitnow.com/jobs/companies/freenow/backend-engineer-fintech-berlin-317646) | freenow | Berlin | — | arbeitnow |
 | 68 | [Backend Engineer - FinTech (M/F/D)](https://www.arbeitnow.com/jobs/companies/freenow/backend-engineer-fintech-hamburg-484437) | freenow | Hamburg | — | arbeitnow |
 | 68 | [Agentic AI Software Engineer](https://www.arbeitnow.com/jobs/companies/machine-learning-reply/agentic-ai-software-engineer-munich-240120) | Machine Learning Reply | Munich, Bayern, Germany | — | arbeitnow |
@@ -43,4 +44,3 @@
 | 68 | [Senior Software Engineer](https://www.arbeitnow.co.uk/jobs/companies/geniussports/senior-software-engineer-london-241374) | Geniussports | London | — | arbeitnow |
 | 68 | [Backend Engineer](https://www.arbeitnow.co.uk/jobs/companies/augur/backend-engineer-london-69479) | Augur | London | — | arbeitnow |
 | 68 | [Senior Software Engineer (Node.js, TypeScript)](https://www.arbeitnow.co.uk/jobs/companies/diligentcorporation/senior-software-engineer-nodejs-typescript-london-196686) | diligentcorporation | London | — | arbeitnow |
-| 68 | [Software Engineer (NodeJS, Typescript)](https://www.arbeitnow.co.uk/jobs/companies/diligentcorporation/software-engineer-nodejs-typescript-london-400308) | diligentcorporation | London | — | arbeitnow |
