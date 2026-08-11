@@ -6,6 +6,7 @@
 |---:|---|---|---|---|---|
 | 82 | [Machine Learning Software Engineer, Research](https://www.arbeitnow.co.uk/jobs/companies/physicsx/machine-learning-software-engineer-research-london-181340) | Physicsx | London | — | arbeitnow |
 | 82 | [Senior Machine Learning Software Engineer, Research](https://www.arbeitnow.co.uk/jobs/companies/physicsx/senior-machine-learning-software-engineer-research-london-388806) | Physicsx | London | — | arbeitnow |
+| 79 | [Senior Software Engineer, Chem-Bio](https://www.arbeitnow.co.uk/jobs/companies/aisi/senior-software-engineer-chem-bio-london-485374) | Aisi | London | — | arbeitnow |
 | 79 | [Fusionbox / Python + TypeScript Engineers / United States / Full-time / REMOTE (](https://news.ycombinator.com/item?id=48764770) | Fusionbox |  | — | hackernews |
 | 74 | [Senior Software Engineer, Core Platform](https://www.arbeitnow.co.uk/jobs/companies/lightningai/senior-software-engineer-core-platform-london-new-york-new-york-united-states-san-francisco-california-united-states-44495) | Lightningai | London; New York, New York, United States; San Francisco, California, United States | — | arbeitnow |
 | 74 | [Senior Software Engineer - k6 Core / USA, EST only / Remote](https://www.arbeitnow.co.uk/jobs/companies/grafanalabs/senior-software-engineer-k6-core-usa-est-only-remote-283344) | grafanalabs | United States (Remote) | — | arbeitnow |
@@ -19,7 +20,6 @@
 | 71 | [Full Stack Engineer: Retail Media](https://www.arbeitnow.co.uk/jobs/companies/constructor/remote-full-stack-engineer-retail-media-84755) | Constructor | Remote - EMEA | — | arbeitnow |
 | 71 | [*Strello Health / Founding Software Engineer / Full-time / Hybrid Remote / Toron](https://news.ycombinator.com/item?id=49171072) | *Strello Health |  | — | hackernews |
 | 71 | [Senior Software Engineer, GenAI Platform](https://job-boards.greenhouse.io/reddit/jobs/7753480) | reddit | Remote - United States | — | greenhouse |
-| 71 | [Software Engineer, Backend](https://boards.greenhouse.io/robinhood/jobs/7263592?t=gh_src=&gh_jid=7263592) | robinhood | Menlo Park, CA; New York, NY | — | greenhouse |
 | 71 | [Senior Software Engineer, Compute Infrastructure](https://databricks.com/company/careers/open-positions/job?gh_jid=8527117002) | databricks | Mountain View, California; San Francisco, California | — | greenhouse |
 | 68 | [Software Engineer](https://www.arbeitnow.co.uk/jobs/companies/sonymusicentertainment/software-engineer-london-249117) | sonymusicentertainment | London | — | arbeitnow |
 | 68 | [Backend Engineer - FinTech (M/F/D)](https://www.arbeitnow.com/jobs/companies/freenow/backend-engineer-fintech-berlin-317646) | freenow | Berlin | — | arbeitnow |
