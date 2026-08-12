@@ -8,13 +8,14 @@
 | 82 | [Senior Machine Learning Software Engineer, Research](https://www.arbeitnow.co.uk/jobs/companies/physicsx/senior-machine-learning-software-engineer-research-london-388806) | Physicsx | London | — | arbeitnow |
 | 79 | [Senior Software Engineer, Chem-Bio](https://www.arbeitnow.co.uk/jobs/companies/aisi/senior-software-engineer-chem-bio-london-485374) | Aisi | London | — | arbeitnow |
 | 79 | [Fusionbox / Python + TypeScript Engineers / United States / Full-time / REMOTE (](https://news.ycombinator.com/item?id=48764770) | Fusionbox |  | — | hackernews |
+| 74 | [Senior Software Engineer (Rust/Go/Python)](https://www.arbeitnow.com/jobs/companies/berlitz/remote-senior-software-engineer-rust-go-python-41151) | Berlitz | Germany Remote | — | arbeitnow |
 | 74 | [Senior Software Engineer, Core Platform](https://www.arbeitnow.co.uk/jobs/companies/lightningai/senior-software-engineer-core-platform-london-new-york-new-york-united-states-san-francisco-california-united-states-44495) | Lightningai | London; New York, New York, United States; San Francisco, California, United States | — | arbeitnow |
 | 74 | [Senior Software Engineer - k6 Core / USA, EST only / Remote](https://www.arbeitnow.co.uk/jobs/companies/grafanalabs/senior-software-engineer-k6-core-usa-est-only-remote-283344) | grafanalabs | United States (Remote) | — | arbeitnow |
 | 74 | [Senior Software Engineer](https://www.arbeitnow.com/jobs/companies/workmotion/remote-senior-software-engineer-germany-225652) | Workmotion | Germany | — | arbeitnow |
 | 74 | [Software Engineer, Data Platform](https://job-boards.greenhouse.io/discord/jobs/8396927002) | discord | San Francisco Bay Area | — | greenhouse |
 | 74 | [Sr Software Engineer, Infrastructure](https://databricks.com/company/careers/open-positions/job?gh_jid=8493170002) | databricks | San Francisco, California | — | greenhouse |
 | 74 | [Senior Software Engineer - Infrastructure and Tools](https://databricks.com/company/careers/open-positions/job?gh_jid=6318503002) | databricks | San Francisco, California | — | greenhouse |
-| 74 | [Senior Software Engineer - Fullstack](https://databricks.com/company/careers/open-positions/job?gh_jid=5445641002) | databricks | Mountain View, California; San Francisco, California | — | greenhouse |
+| 74 | [Senior Software Engineer - Fullstack](https://databricks.com/company/careers/open-positions/job?gh_jid=7898766002) | databricks | Mountain View, California; San Francisco, California | — | greenhouse |
 | 74 | [Senior Software Engineer - Fullstack](https://databricks.com/company/careers/open-positions/job?gh_jid=6544403002) | databricks | Seattle, Washington | — | greenhouse |
 | 74 | [Software Engineer, Product Security Data Platforms](https://stripe.com/jobs/search?gh_jid=8039800) | stripe | Seattle | — | greenhouse |
 | 71 | [Senior Software Engineer, Agents](https://www.arbeitnow.co.uk/jobs/companies/lightningai/senior-software-engineer-agents-london-new-york-new-york-united-states-san-francisco-california-united-states-357130) | Lightningai | London; New York, New York, United States; San Francisco, California, United States | — | arbeitnow |
@@ -43,4 +44,3 @@
 | 68 | [Senior Backend Engineer: Machine Learning Infrastructure](https://www.arbeitnow.co.uk/jobs/companies/constructor/remote-senior-backend-engineer-machine-learning-infrastructure-169800) | Constructor | Remote - EMEA | — | arbeitnow |
 | 68 | [Software engineer, generative AI (UK)](https://www.arbeitnow.co.uk/jobs/companies/writer/software-engineer-generative-ai-uk-london-249213) | Writer | London, UK | — | arbeitnow |
 | 68 | [Software engineer, agents (UK)](https://www.arbeitnow.co.uk/jobs/companies/writer/software-engineer-agents-uk-london-476896) | Writer | London, UK | — | arbeitnow |
-| 68 | [Senior Software Engineer - Backend (m/w/d)](https://www.arbeitnow.com/jobs/companies/idealo-internet-gmbh/senior-software-engineer-backend-mwd-berlin-370067) | idealo internet GmbH | Berlin, Berlin, Deutschland | — | arbeitnow |
