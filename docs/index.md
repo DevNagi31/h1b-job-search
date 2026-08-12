@@ -26,6 +26,7 @@
 | 71 | [Senior Software Engineer, GenAI Platform](https://job-boards.greenhouse.io/reddit/jobs/7753480) | reddit | Remote - United States | — | greenhouse |
 | 71 | [Senior Software Engineer, Compute Infrastructure](https://databricks.com/company/careers/open-positions/job?gh_jid=8527117002) | databricks | Mountain View, California; San Francisco, California | — | greenhouse |
 | 71 | [Senior Software Engineer - Backend](https://databricks.com/company/careers/open-positions/job?gh_jid=4799387002) | databricks | San Francisco, California | — | greenhouse |
+| 68 | [Senior Software Engineer](https://www.arbeitnow.co.uk/jobs/companies/cloudbedsthirdpartyboard/senior-software-engineer-161981) | Cloudbedsthirdpartyboard |  | — | arbeitnow |
 | 68 | [Backend Software Engineer - Codex for Finance](https://jobs.ashbyhq.com/openai/a23bd45a-e192-460d-bd34-a0f6c4bc6865) | openai | San Francisco | — | ashby |
 | 68 | [Software Engineer](https://www.arbeitnow.co.uk/jobs/companies/sonymusicentertainment/software-engineer-london-249117) | sonymusicentertainment | London | — | arbeitnow |
 | 68 | [Backend Engineer - FinTech (M/F/D)](https://www.arbeitnow.com/jobs/companies/freenow/backend-engineer-fintech-berlin-317646) | freenow | Berlin | — | arbeitnow |
@@ -43,4 +44,3 @@
 | 68 | [Senior Backend Engineer: Machine Learning Infrastructure](https://www.arbeitnow.co.uk/jobs/companies/constructor/remote-senior-backend-engineer-machine-learning-infrastructure-169800) | Constructor | Remote - EMEA | — | arbeitnow |
 | 68 | [Software engineer, generative AI (UK)](https://www.arbeitnow.co.uk/jobs/companies/writer/software-engineer-generative-ai-uk-london-249213) | Writer | London, UK | — | arbeitnow |
 | 68 | [Software engineer, agents (UK)](https://www.arbeitnow.co.uk/jobs/companies/writer/software-engineer-agents-uk-london-476896) | Writer | London, UK | — | arbeitnow |
-| 68 | [Senior Software Engineer - Backend (m/w/d)](https://www.arbeitnow.com/jobs/companies/idealo-internet-gmbh/senior-software-engineer-backend-mwd-berlin-370067) | idealo internet GmbH | Berlin, Berlin, Deutschland | — | arbeitnow |
