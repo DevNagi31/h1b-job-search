@@ -15,7 +15,7 @@
 | 74 | [Software Engineer, Data Platform](https://job-boards.greenhouse.io/discord/jobs/8396927002) | discord | San Francisco Bay Area | — | greenhouse |
 | 74 | [Sr Software Engineer, Infrastructure](https://databricks.com/company/careers/open-positions/job?gh_jid=8493170002) | databricks | San Francisco, California | — | greenhouse |
 | 74 | [Senior Software Engineer - Infrastructure and Tools](https://databricks.com/company/careers/open-positions/job?gh_jid=6318503002) | databricks | San Francisco, California | — | greenhouse |
-| 74 | [Senior Software Engineer - Fullstack](https://databricks.com/company/careers/open-positions/job?gh_jid=7898766002) | databricks | Mountain View, California; San Francisco, California | — | greenhouse |
+| 74 | [Senior Software Engineer - Fullstack](https://databricks.com/company/careers/open-positions/job?gh_jid=5445641002) | databricks | Mountain View, California; San Francisco, California | — | greenhouse |
 | 74 | [Senior Software Engineer - Fullstack](https://databricks.com/company/careers/open-positions/job?gh_jid=6544403002) | databricks | Seattle, Washington | — | greenhouse |
 | 74 | [Software Engineer, Product Security Data Platforms](https://stripe.com/jobs/search?gh_jid=8039800) | stripe | Seattle | — | greenhouse |
 | 71 | [Senior Software Engineer, Agents](https://www.arbeitnow.co.uk/jobs/companies/lightningai/senior-software-engineer-agents-london-new-york-new-york-united-states-san-francisco-california-united-states-357130) | Lightningai | London; New York, New York, United States; San Francisco, California, United States | — | arbeitnow |
@@ -25,6 +25,9 @@
 | 71 | [Senior Software Engineer, GenAI Platform](https://job-boards.greenhouse.io/reddit/jobs/7753480) | reddit | Remote - United States | — | greenhouse |
 | 71 | [Senior Software Engineer, Compute Infrastructure](https://databricks.com/company/careers/open-positions/job?gh_jid=8527117002) | databricks | Mountain View, California; San Francisco, California | — | greenhouse |
 | 71 | [Senior Software Engineer - Backend](https://databricks.com/company/careers/open-positions/job?gh_jid=4799387002) | databricks | San Francisco, California | — | greenhouse |
+| 68 | [Senior Software Engineer (Front End)](https://www.arbeitnow.co.uk/jobs/companies/oni/senior-software-engineer-front-end-oxford-on-site-384590) | Oni | Oxford (On-site) | — | arbeitnow |
+| 68 | [Software Engineer, D2C](https://www.arbeitnow.co.uk/jobs/companies/sonymusicentertainment/software-engineer-d2c-london-33483) | Sonymusicentertainment | London | — | arbeitnow |
+| 68 | [Software Engineer, Backend Focused](https://www.arbeitnow.com/jobs/companies/onrunning/software-engineer-backend-focused-berlin-461416) | onrunning | Berlin | — | arbeitnow |
 | 68 | [Senior Full Stack Software Engineer](https://www.arbeitnow.com/jobs/companies/liveperson/senior-full-stack-software-engineer-berlin-436926) | liveperson | Berlin | — | arbeitnow |
 | 68 | [Software Engineer I - Trust Tech](https://www.arbeitnow.co.uk/jobs/companies/trustpilot/software-engineer-i-trust-tech-copenhagen-100773) | Trustpilot | Copenhagen | — | arbeitnow |
 | 68 | [Software Engineer I - Trust Tech](https://www.arbeitnow.co.uk/jobs/companies/trustpilot/software-engineer-i-trust-tech-edinburgh-175295) | Trustpilot | Edinburgh | — | arbeitnow |
@@ -41,6 +44,3 @@
 | 68 | [Cybersecurity (Senior) Software Engineer (m/w/d)](https://www.arbeitnow.com/jobs/companies/trusteq-gmbh/cybersecurity-senior-software-engineer-munchen-81729) | Trusteq Gmbh | München | — | arbeitnow |
 | 68 | [Full-Stack Software Engineer - AI Native Startup (m/f/d)](https://www.arbeitnow.com/jobs/companies/auxiliusai/full-stack-software-engineer-ai-native-startup-munich-453930) | Auxilius.ai | Munich | — | arbeitnow |
 | 68 | [Senior Simulation Data Engineer](https://www.arbeitnow.co.uk/jobs/companies/physicsx/senior-simulation-data-engineer-london-262149) | Physicsx | London | — | arbeitnow |
-| 68 | [Data Engineer (all genders)](https://www.arbeitnow.com/jobs/companies/gropyus/data-engineer-all-genders-berlin-berlin-461780) | Gropyus | Berlin, Berlin | — | arbeitnow |
-| 68 | [AI & Backend Engineer](https://www.arbeitnow.com/jobs/companies/clera/ai-backend-engineer-munich-89077) | Clera | Munich | — | arbeitnow |
-| 68 | [Senior Full Stack Engineer](https://www.arbeitnow.co.uk/jobs/companies/quantum/senior-full-stack-engineer-london-449519) | Quantum | London (hybrid) | — | arbeitnow |
