@@ -25,6 +25,7 @@
 | 71 | [Senior Software Engineer, GenAI Platform](https://job-boards.greenhouse.io/reddit/jobs/7753480) | reddit | Remote - United States | — | greenhouse |
 | 71 | [Senior Software Engineer, Compute Infrastructure](https://databricks.com/company/careers/open-positions/job?gh_jid=8527117002) | databricks | Mountain View, California; San Francisco, California | — | greenhouse |
 | 71 | [Senior Software Engineer - Backend](https://databricks.com/company/careers/open-positions/job?gh_jid=4799387002) | databricks | San Francisco, California | — | greenhouse |
+| 68 | [Senior Software Engineer](https://www.brex.com/careers/8706917002?gh_jid=8706917002) | brex | São Paulo, São Paulo, Brazil | — | greenhouse |
 | 68 | [Senior Software Engineer (Front End)](https://www.arbeitnow.co.uk/jobs/companies/oni/senior-software-engineer-front-end-oxford-on-site-384590) | Oni | Oxford (On-site) | — | arbeitnow |
 | 68 | [Software Engineer, D2C](https://www.arbeitnow.co.uk/jobs/companies/sonymusicentertainment/software-engineer-d2c-london-33483) | Sonymusicentertainment | London | — | arbeitnow |
 | 68 | [Software Engineer, Backend Focused](https://www.arbeitnow.com/jobs/companies/onrunning/software-engineer-backend-focused-berlin-461416) | onrunning | Berlin | — | arbeitnow |
@@ -43,4 +44,3 @@
 | 68 | [Software Engineer, Collections Infra](https://jobs.ashbyhq.com/notion/ca74504a-9b91-4ce3-b0df-97919b46e749) | notion | San Francisco, California | — | ashby |
 | 68 | [Cybersecurity (Senior) Software Engineer (m/w/d)](https://www.arbeitnow.com/jobs/companies/trusteq-gmbh/cybersecurity-senior-software-engineer-munchen-81729) | Trusteq Gmbh | München | — | arbeitnow |
 | 68 | [Full-Stack Software Engineer - AI Native Startup (m/f/d)](https://www.arbeitnow.com/jobs/companies/auxiliusai/full-stack-software-engineer-ai-native-startup-munich-453930) | Auxilius.ai | Munich | — | arbeitnow |
-| 68 | [Senior Simulation Data Engineer](https://www.arbeitnow.co.uk/jobs/companies/physicsx/senior-simulation-data-engineer-london-262149) | Physicsx | London | — | arbeitnow |
