@@ -1,4 +1,4 @@
-# H1B job matches — 2026-08-12
+# H1B job matches — 2026-08-13
 
 500 matches. Top 40 below.
 
@@ -25,6 +25,10 @@
 | 71 | [Senior Software Engineer, GenAI Platform](https://job-boards.greenhouse.io/reddit/jobs/7753480) | reddit | Remote - United States | — | greenhouse |
 | 71 | [Senior Software Engineer, Compute Infrastructure](https://databricks.com/company/careers/open-positions/job?gh_jid=8527117002) | databricks | Mountain View, California; San Francisco, California | — | greenhouse |
 | 71 | [Senior Software Engineer - Backend](https://databricks.com/company/careers/open-positions/job?gh_jid=4799387002) | databricks | San Francisco, California | — | greenhouse |
+| 68 | [Senior Full Stack Software Engineer](https://www.arbeitnow.com/jobs/companies/liveperson/senior-full-stack-software-engineer-berlin-436926) | liveperson | Berlin | — | arbeitnow |
+| 68 | [Software Engineer I - Trust Tech](https://www.arbeitnow.co.uk/jobs/companies/trustpilot/software-engineer-i-trust-tech-copenhagen-100773) | Trustpilot | Copenhagen | — | arbeitnow |
+| 68 | [Software Engineer I - Trust Tech](https://www.arbeitnow.co.uk/jobs/companies/trustpilot/software-engineer-i-trust-tech-edinburgh-175295) | Trustpilot | Edinburgh | — | arbeitnow |
+| 68 | [Software Engineer I - Trust Tech](https://www.arbeitnow.co.uk/jobs/companies/trustpilot/software-engineer-i-trust-tech-london-356527) | Trustpilot | London | — | arbeitnow |
 | 68 | [Senior Backend Software Engineer (Cloud Monetization Platform)](https://www.arbeitnow.co.uk/jobs/companies/nebius/senior-backend-software-engineer-cloud-monetization-platform-305899) | Nebius |  | — | arbeitnow |
 | 68 | [Senior Software Engineer](https://www.arbeitnow.co.uk/jobs/companies/cloudbedsthirdpartyboard/senior-software-engineer-161981) | Cloudbedsthirdpartyboard |  | — | arbeitnow |
 | 68 | [Backend Software Engineer - Codex for Finance](https://jobs.ashbyhq.com/openai/a23bd45a-e192-460d-bd34-a0f6c4bc6865) | openai | San Francisco | — | ashby |
@@ -40,7 +44,3 @@
 | 68 | [Data Engineer (all genders)](https://www.arbeitnow.com/jobs/companies/gropyus/data-engineer-all-genders-berlin-berlin-461780) | Gropyus | Berlin, Berlin | — | arbeitnow |
 | 68 | [AI & Backend Engineer](https://www.arbeitnow.com/jobs/companies/clera/ai-backend-engineer-munich-89077) | Clera | Munich | — | arbeitnow |
 | 68 | [Senior Full Stack Engineer](https://www.arbeitnow.co.uk/jobs/companies/quantum/senior-full-stack-engineer-london-449519) | Quantum | London (hybrid) | — | arbeitnow |
-| 68 | [Software Engineer - Operations](https://www.arbeitnow.co.uk/jobs/companies/onrunning/software-engineer-operations-london-235372) | onrunning | London | — | arbeitnow |
-| 68 | [Senior Backend Engineer: Machine Learning Infrastructure](https://www.arbeitnow.co.uk/jobs/companies/constructor/remote-senior-backend-engineer-machine-learning-infrastructure-169800) | Constructor | Remote - EMEA | — | arbeitnow |
-| 68 | [Software engineer, generative AI (UK)](https://www.arbeitnow.co.uk/jobs/companies/writer/software-engineer-generative-ai-uk-london-249213) | Writer | London, UK | — | arbeitnow |
-| 68 | [Software engineer, agents (UK)](https://www.arbeitnow.co.uk/jobs/companies/writer/software-engineer-agents-uk-london-476896) | Writer | London, UK | — | arbeitnow |
