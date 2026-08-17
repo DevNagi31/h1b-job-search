@@ -1,4 +1,4 @@
-# H1B job matches — 2026-08-16
+# H1B job matches — 2026-08-17
 
 500 matches. Top 40 below.
 
@@ -17,7 +17,7 @@
 | 74 | [Senior Software Engineer](https://www.arbeitnow.com/jobs/companies/workmotion/remote-senior-software-engineer-germany-225652) | Workmotion | Germany | — | arbeitnow |
 | 74 | [Sr Software Engineer, Infrastructure](https://databricks.com/company/careers/open-positions/job?gh_jid=8493170002) | databricks | San Francisco, California | — | greenhouse |
 | 74 | [Senior Software Engineer - Infrastructure and Tools](https://databricks.com/company/careers/open-positions/job?gh_jid=6318503002) | databricks | San Francisco, California | — | greenhouse |
-| 74 | [Senior Software Engineer - Fullstack](https://databricks.com/company/careers/open-positions/job?gh_jid=7898766002) | databricks | Mountain View, California; San Francisco, California | — | greenhouse |
+| 74 | [Senior Software Engineer - Fullstack](https://databricks.com/company/careers/open-positions/job?gh_jid=5445641002) | databricks | Mountain View, California; San Francisco, California | — | greenhouse |
 | 74 | [Senior Software Engineer - Fullstack](https://databricks.com/company/careers/open-positions/job?gh_jid=6544403002) | databricks | Seattle, Washington | — | greenhouse |
 | 74 | [Software Engineer, Product Security Data Platforms](https://stripe.com/jobs/search?gh_jid=8039800) | stripe | Seattle | — | greenhouse |
 | 71 | [Senior Software Engineer, Agents](https://www.arbeitnow.co.uk/jobs/companies/lightningai/senior-software-engineer-agents-london-new-york-new-york-united-states-san-francisco-california-united-states-357130) | Lightningai | London; New York, New York, United States; San Francisco, California, United States | — | arbeitnow |
@@ -27,6 +27,7 @@
 | 71 | [Senior Software Engineer, GenAI Platform](https://job-boards.greenhouse.io/reddit/jobs/7753480) | reddit | Remote - United States | — | greenhouse |
 | 71 | [Senior Software Engineer, Compute Infrastructure](https://databricks.com/company/careers/open-positions/job?gh_jid=8527117002) | databricks | Mountain View, California; San Francisco, California | — | greenhouse |
 | 71 | [Senior Software Engineer - Backend](https://databricks.com/company/careers/open-positions/job?gh_jid=4799387002) | databricks | San Francisco, California | — | greenhouse |
+| 68 | [Senior Backend Software Engineer (Cloud Monetization Platform)](https://www.arbeitnow.com/jobs/companies/nebius/senior-backend-software-engineer-cloud-monetization-platform-berlin-216266) | Nebius | Berlin | — | arbeitnow |
 | 68 | [Software Engineer II, Foundation](https://www.arbeitnow.co.uk/jobs/companies/chainalysis/software-engineer-ii-foundation-london-214029) | Chainalysis | London | — | arbeitnow |
 | 68 | [Senior Ruby Backend Engineer with affinity for observability (d/w/m)](https://www.arbeitnow.com/jobs/companies/hypofriend-gmbh/senior-ruby-backend-engineer-with-affinity-for-observability-berlin-497601) | Hypofriend GmbH | Berlin | — | arbeitnow |
 | 68 | [Platform Engineer - m/f/d](https://www.arbeitnow.com/jobs/companies/langdock/platform-engineer-berlin-230260) | Langdock | Berlin | — | arbeitnow |
@@ -43,4 +44,3 @@
 | 68 | [Senior Software Engineer](https://www.arbeitnow.co.uk/jobs/companies/cloudbedsthirdpartyboard/senior-software-engineer-161981) | Cloudbedsthirdpartyboard |  | — | arbeitnow |
 | 68 | [Backend Software Engineer - Codex for Finance](https://jobs.ashbyhq.com/openai/a23bd45a-e192-460d-bd34-a0f6c4bc6865) | openai | San Francisco | — | ashby |
 | 68 | [Software Engineer](https://www.arbeitnow.co.uk/jobs/companies/sonymusicentertainment/software-engineer-london-249117) | sonymusicentertainment | London | — | arbeitnow |
-| 68 | [Backend Engineer - FinTech (M/F/D)](https://www.arbeitnow.com/jobs/companies/freenow/backend-engineer-fintech-berlin-317646) | freenow | Berlin | — | arbeitnow |
