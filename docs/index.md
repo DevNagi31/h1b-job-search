@@ -27,6 +27,8 @@
 | 71 | [Senior Software Engineer, GenAI Platform](https://job-boards.greenhouse.io/reddit/jobs/7753480) | reddit | Remote - United States | — | greenhouse |
 | 71 | [Senior Software Engineer, Compute Infrastructure](https://databricks.com/company/careers/open-positions/job?gh_jid=8527117002) | databricks | Mountain View, California; San Francisco, California | — | greenhouse |
 | 71 | [Senior Software Engineer - Backend](https://databricks.com/company/careers/open-positions/job?gh_jid=4799387002) | databricks | San Francisco, California | — | greenhouse |
+| 68 | [(Senior) Backend Engineer, Maps](https://www.arbeitnow.co.uk/jobs/companies/wheely/senior-backend-engineer-maps-london-495117) | Wheely | London | — | arbeitnow |
+| 68 | [(Senior) Backend Engineer, Marketplace](https://www.arbeitnow.co.uk/jobs/companies/wheely/senior-backend-engineer-marketplace-london-297644) | Wheely | London | — | arbeitnow |
 | 68 | [Software Engineer, Model Deployment- ChatGPT Engineering](https://jobs.ashbyhq.com/openai/f8b84ae5-743b-41c9-8432-02dff9993d6b) | openai | London, UK | — | ashby |
 | 68 | [Founding Backend Engineer(Go)](https://www.arbeitnow.com/jobs/companies/techbiz-global-gmbh/founding-backend-engineergo-berlin-36030) | TechBiz Global GmbH | Berlin, Berlin, Germany | — | arbeitnow |
 | 68 | [Senior Backend Software Engineer (Cloud Monetization Platform)](https://www.arbeitnow.com/jobs/companies/nebius/senior-backend-software-engineer-cloud-monetization-platform-berlin-216266) | Nebius | Berlin | — | arbeitnow |
@@ -42,5 +44,3 @@
 | 68 | [Software Engineer I - Trust Tech](https://www.arbeitnow.co.uk/jobs/companies/trustpilot/software-engineer-i-trust-tech-copenhagen-100773) | Trustpilot | Copenhagen | — | arbeitnow |
 | 68 | [Software Engineer I - Trust Tech](https://www.arbeitnow.co.uk/jobs/companies/trustpilot/software-engineer-i-trust-tech-edinburgh-175295) | Trustpilot | Edinburgh | — | arbeitnow |
 | 68 | [Software Engineer I - Trust Tech](https://www.arbeitnow.co.uk/jobs/companies/trustpilot/software-engineer-i-trust-tech-london-356527) | Trustpilot | London | — | arbeitnow |
-| 68 | [Senior Backend Software Engineer (Cloud Monetization Platform)](https://www.arbeitnow.co.uk/jobs/companies/nebius/senior-backend-software-engineer-cloud-monetization-platform-305899) | Nebius |  | — | arbeitnow |
-| 68 | [Senior Software Engineer](https://www.arbeitnow.co.uk/jobs/companies/cloudbedsthirdpartyboard/senior-software-engineer-161981) | Cloudbedsthirdpartyboard |  | — | arbeitnow |
