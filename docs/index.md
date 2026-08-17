@@ -27,6 +27,7 @@
 | 71 | [Senior Software Engineer, GenAI Platform](https://job-boards.greenhouse.io/reddit/jobs/7753480) | reddit | Remote - United States | — | greenhouse |
 | 71 | [Senior Software Engineer, Compute Infrastructure](https://databricks.com/company/careers/open-positions/job?gh_jid=8527117002) | databricks | Mountain View, California; San Francisco, California | — | greenhouse |
 | 71 | [Senior Software Engineer - Backend](https://databricks.com/company/careers/open-positions/job?gh_jid=4799387002) | databricks | San Francisco, California | — | greenhouse |
+| 68 | [Founding Backend Engineer(Go)](https://www.arbeitnow.com/jobs/companies/techbiz-global-gmbh/founding-backend-engineergo-berlin-36030) | TechBiz Global GmbH | Berlin, Berlin, Germany | — | arbeitnow |
 | 68 | [Senior Backend Software Engineer (Cloud Monetization Platform)](https://www.arbeitnow.com/jobs/companies/nebius/senior-backend-software-engineer-cloud-monetization-platform-berlin-216266) | Nebius | Berlin | — | arbeitnow |
 | 68 | [Software Engineer II, Foundation](https://www.arbeitnow.co.uk/jobs/companies/chainalysis/software-engineer-ii-foundation-london-214029) | Chainalysis | London | — | arbeitnow |
 | 68 | [Senior Ruby Backend Engineer with affinity for observability (d/w/m)](https://www.arbeitnow.com/jobs/companies/hypofriend-gmbh/senior-ruby-backend-engineer-with-affinity-for-observability-berlin-497601) | Hypofriend GmbH | Berlin | — | arbeitnow |
@@ -43,4 +44,3 @@
 | 68 | [Senior Backend Software Engineer (Cloud Monetization Platform)](https://www.arbeitnow.co.uk/jobs/companies/nebius/senior-backend-software-engineer-cloud-monetization-platform-305899) | Nebius |  | — | arbeitnow |
 | 68 | [Senior Software Engineer](https://www.arbeitnow.co.uk/jobs/companies/cloudbedsthirdpartyboard/senior-software-engineer-161981) | Cloudbedsthirdpartyboard |  | — | arbeitnow |
 | 68 | [Backend Software Engineer - Codex for Finance](https://jobs.ashbyhq.com/openai/a23bd45a-e192-460d-bd34-a0f6c4bc6865) | openai | San Francisco | — | ashby |
-| 68 | [Software Engineer](https://www.arbeitnow.co.uk/jobs/companies/sonymusicentertainment/software-engineer-london-249117) | sonymusicentertainment | London | — | arbeitnow |
