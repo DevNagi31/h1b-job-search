@@ -28,6 +28,7 @@
 | 71 | [Senior Software Engineer, GenAI Platform](https://job-boards.greenhouse.io/reddit/jobs/7753480) | reddit | Remote - United States | — | greenhouse |
 | 71 | [Senior Software Engineer, Compute Infrastructure](https://databricks.com/company/careers/open-positions/job?gh_jid=8527117002) | databricks | Mountain View, California; San Francisco, California | — | greenhouse |
 | 71 | [Senior Software Engineer - Backend](https://databricks.com/company/careers/open-positions/job?gh_jid=4799387002) | databricks | San Francisco, California | — | greenhouse |
+| 68 | [Senior Software Engineer - Future Opportunities](https://www.arbeitnow.co.uk/jobs/companies/baringa/senior-software-engineer-future-opportunities-london-292728) | Baringa | London | — | arbeitnow |
 | 68 | [Senior Full Stack Engineer - (HawkAI)](https://www.arbeitnow.co.uk/jobs/companies/hawkeyeinnovations/senior-full-stack-engineer-hawkai-budapest-311397) | Hawkeyeinnovations | Budapest, Hungary | — | arbeitnow |
 | 68 | [Senior Software Engineer, Simple Trade Experience](https://www.coinbase.com/careers/positions/8103569?gh_jid=8103569) | coinbase | Remote - USA | — | greenhouse |
 | 68 | [Senior Software Engineer](https://www.arbeitnow.co.uk/jobs/companies/fanduel/senior-software-engineer-edinburgh-58395) | Fanduel | Edinburgh | — | arbeitnow |
@@ -43,4 +44,3 @@
 | 68 | [Senior Software Engineer, Accounting Engineering](https://www.brex.com/careers/8706917002?gh_jid=8706917002) | brex | São Paulo, São Paulo, Brazil | — | greenhouse |
 | 68 | [Senior Software Engineer](https://www.brex.com/careers/8706917002?gh_jid=8706917002) | brex | São Paulo, São Paulo, Brazil | — | greenhouse |
 | 68 | [Senior Software Engineer (Front End)](https://www.arbeitnow.co.uk/jobs/companies/oni/senior-software-engineer-front-end-oxford-on-site-384590) | Oni | Oxford (On-site) | — | arbeitnow |
-| 68 | [Software Engineer, D2C](https://www.arbeitnow.co.uk/jobs/companies/sonymusicentertainment/software-engineer-d2c-london-33483) | Sonymusicentertainment | London | — | arbeitnow |
