@@ -28,6 +28,7 @@
 | 71 | [Senior Software Engineer, GenAI Platform](https://job-boards.greenhouse.io/reddit/jobs/7753480) | reddit | Remote - United States | — | greenhouse |
 | 71 | [Senior Software Engineer, Compute Infrastructure](https://databricks.com/company/careers/open-positions/job?gh_jid=8527117002) | databricks | Mountain View, California; San Francisco, California | — | greenhouse |
 | 71 | [Senior Software Engineer - Backend](https://databricks.com/company/careers/open-positions/job?gh_jid=4799387002) | databricks | San Francisco, California | — | greenhouse |
+| 68 | [Senior Software Engineer, Simple Trade Experience](https://www.coinbase.com/careers/positions/8103569?gh_jid=8103569) | coinbase | Remote - USA | — | greenhouse |
 | 68 | [Senior Software Engineer](https://www.arbeitnow.co.uk/jobs/companies/fanduel/senior-software-engineer-edinburgh-58395) | Fanduel | Edinburgh | — | arbeitnow |
 | 68 | [Senior Software Engineer - Core Marketing Platforms](https://www.arbeitnow.co.uk/jobs/companies/fanduel/senior-software-engineer-core-marketing-platforms-edinburgh-284822) | Fanduel | Edinburgh | — | arbeitnow |
 | 68 | [(Senior) Backend Engineer, Maps](https://www.arbeitnow.co.uk/jobs/companies/wheely/senior-backend-engineer-maps-london-495117) | Wheely | London | — | arbeitnow |
@@ -43,4 +44,3 @@
 | 68 | [Senior Software Engineer (Front End)](https://www.arbeitnow.co.uk/jobs/companies/oni/senior-software-engineer-front-end-oxford-on-site-384590) | Oni | Oxford (On-site) | — | arbeitnow |
 | 68 | [Software Engineer, D2C](https://www.arbeitnow.co.uk/jobs/companies/sonymusicentertainment/software-engineer-d2c-london-33483) | Sonymusicentertainment | London | — | arbeitnow |
 | 68 | [Software Engineer, Backend Focused](https://www.arbeitnow.com/jobs/companies/onrunning/software-engineer-backend-focused-berlin-461416) | onrunning | Berlin | — | arbeitnow |
-| 68 | [Senior Full Stack Software Engineer](https://www.arbeitnow.com/jobs/companies/liveperson/senior-full-stack-software-engineer-berlin-436926) | liveperson | Berlin | — | arbeitnow |
