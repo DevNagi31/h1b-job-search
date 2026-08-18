@@ -21,6 +21,7 @@
 | 74 | [Senior Software Engineer - Fullstack](https://databricks.com/company/careers/open-positions/job?gh_jid=5445641002) | databricks | Mountain View, California; San Francisco, California | — | greenhouse |
 | 74 | [Senior Software Engineer - Fullstack](https://databricks.com/company/careers/open-positions/job?gh_jid=6544403002) | databricks | Seattle, Washington | — | greenhouse |
 | 74 | [Software Engineer, Product Security Data Platforms](https://stripe.com/jobs/search?gh_jid=8039800) | stripe | Seattle | — | greenhouse |
+| 71 | [Software Engineer, Content Platform](https://job-boards.greenhouse.io/reddit/jobs/8139781) | reddit | Remote - United States | — | greenhouse |
 | 71 | [Senior Software Engineer, Agents](https://www.arbeitnow.co.uk/jobs/companies/lightningai/senior-software-engineer-agents-london-new-york-new-york-united-states-san-francisco-california-united-states-357130) | Lightningai | London; New York, New York, United States; San Francisco, California, United States | — | arbeitnow |
 | 71 | [Senior Software Engineer, Training & Experimentation](https://www.arbeitnow.co.uk/jobs/companies/lightningai/senior-software-engineer-training-experimentation-london-new-york-new-york-united-states-san-francisco-california-united-states-207359) | Lightningai | London; New York, New York, United States; San Francisco, California, United States | — | arbeitnow |
 | 71 | [Full Stack Engineer: Retail Media](https://www.arbeitnow.co.uk/jobs/companies/constructor/remote-full-stack-engineer-retail-media-84755) | Constructor | Remote - EMEA | — | arbeitnow |
@@ -43,4 +44,3 @@
 | 68 | [Senior Software Engineer](https://www.brex.com/careers/8706917002?gh_jid=8706917002) | brex | São Paulo, São Paulo, Brazil | — | greenhouse |
 | 68 | [Senior Software Engineer (Front End)](https://www.arbeitnow.co.uk/jobs/companies/oni/senior-software-engineer-front-end-oxford-on-site-384590) | Oni | Oxford (On-site) | — | arbeitnow |
 | 68 | [Software Engineer, D2C](https://www.arbeitnow.co.uk/jobs/companies/sonymusicentertainment/software-engineer-d2c-london-33483) | Sonymusicentertainment | London | — | arbeitnow |
-| 68 | [Software Engineer, Backend Focused](https://www.arbeitnow.com/jobs/companies/onrunning/software-engineer-backend-focused-berlin-461416) | onrunning | Berlin | — | arbeitnow |
