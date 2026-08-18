@@ -1,4 +1,4 @@
-# H1B job matches — 2026-08-17
+# H1B job matches — 2026-08-18
 
 500 matches. Top 40 below.
 
@@ -8,6 +8,7 @@
 | 82 | [Senior Machine Learning Software Engineer, Research](https://www.arbeitnow.co.uk/jobs/companies/physicsx/senior-machine-learning-software-engineer-research-london-388806) | Physicsx | London | — | arbeitnow |
 | 79 | [Senior Software Engineer, Chem-Bio](https://www.arbeitnow.co.uk/jobs/companies/aisi/senior-software-engineer-chem-bio-london-485374) | Aisi | London | — | arbeitnow |
 | 79 | [Fusionbox / Python + TypeScript Engineers / United States / Full-time / REMOTE (](https://news.ycombinator.com/item?id=48764770) | Fusionbox |  | — | hackernews |
+| 74 | [Platform Boosters - Backend Engineer (m/w/d)](https://www.arbeitnow.com/jobs/companies/shopware-ag/remote-platform-boosters-backend-engineer-berlin-67421) | shopware AG | Homeoffice | — | arbeitnow |
 | 74 | [Senior Data & Python Software Engineer](https://www.arbeitnow.co.uk/jobs/companies/ceartas/remote-senior-data-python-software-engineer-235366) | Ceartas | Remote | — | arbeitnow |
 | 74 | [Fullstack Software Engineer (m/f/d) - Mid Level](https://www.arbeitnow.com/jobs/companies/beglaubigtde/fullstack-software-engineer-mid-level-munich-130496) | Beglaubigt.de | Munich | — | arbeitnow |
 | 74 | [Senior Backend Engineer, Compliance Engineering](https://job-boards.greenhouse.io/reddit/jobs/8128860) | reddit | Remote - United States | — | greenhouse |
@@ -27,6 +28,8 @@
 | 71 | [Senior Software Engineer, GenAI Platform](https://job-boards.greenhouse.io/reddit/jobs/7753480) | reddit | Remote - United States | — | greenhouse |
 | 71 | [Senior Software Engineer, Compute Infrastructure](https://databricks.com/company/careers/open-positions/job?gh_jid=8527117002) | databricks | Mountain View, California; San Francisco, California | — | greenhouse |
 | 71 | [Senior Software Engineer - Backend](https://databricks.com/company/careers/open-positions/job?gh_jid=4799387002) | databricks | San Francisco, California | — | greenhouse |
+| 68 | [Senior Software Engineer](https://www.arbeitnow.co.uk/jobs/companies/fanduel/senior-software-engineer-edinburgh-58395) | Fanduel | Edinburgh | — | arbeitnow |
+| 68 | [Senior Software Engineer - Core Marketing Platforms](https://www.arbeitnow.co.uk/jobs/companies/fanduel/senior-software-engineer-core-marketing-platforms-edinburgh-284822) | Fanduel | Edinburgh | — | arbeitnow |
 | 68 | [(Senior) Backend Engineer, Maps](https://www.arbeitnow.co.uk/jobs/companies/wheely/senior-backend-engineer-maps-london-495117) | Wheely | London | — | arbeitnow |
 | 68 | [(Senior) Backend Engineer, Marketplace](https://www.arbeitnow.co.uk/jobs/companies/wheely/senior-backend-engineer-marketplace-london-297644) | Wheely | London | — | arbeitnow |
 | 68 | [Software Engineer, Model Deployment- ChatGPT Engineering](https://jobs.ashbyhq.com/openai/f8b84ae5-743b-41c9-8432-02dff9993d6b) | openai | London, UK | — | ashby |
@@ -41,6 +44,3 @@
 | 68 | [Software Engineer, D2C](https://www.arbeitnow.co.uk/jobs/companies/sonymusicentertainment/software-engineer-d2c-london-33483) | Sonymusicentertainment | London | — | arbeitnow |
 | 68 | [Software Engineer, Backend Focused](https://www.arbeitnow.com/jobs/companies/onrunning/software-engineer-backend-focused-berlin-461416) | onrunning | Berlin | — | arbeitnow |
 | 68 | [Senior Full Stack Software Engineer](https://www.arbeitnow.com/jobs/companies/liveperson/senior-full-stack-software-engineer-berlin-436926) | liveperson | Berlin | — | arbeitnow |
-| 68 | [Software Engineer I - Trust Tech](https://www.arbeitnow.co.uk/jobs/companies/trustpilot/software-engineer-i-trust-tech-copenhagen-100773) | Trustpilot | Copenhagen | — | arbeitnow |
-| 68 | [Software Engineer I - Trust Tech](https://www.arbeitnow.co.uk/jobs/companies/trustpilot/software-engineer-i-trust-tech-edinburgh-175295) | Trustpilot | Edinburgh | — | arbeitnow |
-| 68 | [Software Engineer I - Trust Tech](https://www.arbeitnow.co.uk/jobs/companies/trustpilot/software-engineer-i-trust-tech-london-356527) | Trustpilot | London | — | arbeitnow |
