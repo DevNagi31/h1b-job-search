@@ -29,6 +29,7 @@
 | 71 | [Software Engineer, Backend](https://boards.greenhouse.io/robinhood/jobs/7263592?t=gh_src=&gh_jid=7263592) | robinhood | Menlo Park, CA; New York, NY | — | greenhouse |
 | 71 | [Senior Software Engineer, Compute Infrastructure](https://databricks.com/company/careers/open-positions/job?gh_jid=8527117002) | databricks | Mountain View, California; San Francisco, California | — | greenhouse |
 | 71 | [Senior Software Engineer - Backend](https://databricks.com/company/careers/open-positions/job?gh_jid=4799387002) | databricks | San Francisco, California | — | greenhouse |
+| 68 | [Senior Software Engineer II](https://www.arbeitnow.co.uk/jobs/companies/prolific/remote-senior-software-engineer-ii-222936) | prolific | Remote | — | arbeitnow |
 | 68 | [Senior Data Engineer (f/m/d)_metrify](https://www.arbeitnow.com/jobs/companies/enpal/senior-data-engineer-metrify-berlin-61854) | Enpal | Berlin | — | arbeitnow |
 | 68 | [Senior Software Engineer (f/m/x)](https://www.arbeitnow.com/jobs/companies/enpal/senior-software-engineer-berlin-237624) | Enpal | Berlin | — | arbeitnow |
 | 68 | [Platform Data Engineer - Cardiff](https://www.arbeitnow.co.uk/jobs/companies/rocketsciencegg/platform-data-engineer-cardiff-474975) | Rocketsciencegg | Cardiff, Wales, UK | — | arbeitnow |
@@ -43,4 +44,3 @@
 | 68 | [Senior Software Engineer, Simple Trade Experience](https://www.coinbase.com/careers/positions/8103569?gh_jid=8103569) | coinbase | Remote - USA | — | greenhouse |
 | 68 | [Senior Software Engineer](https://www.arbeitnow.co.uk/jobs/companies/fanduel/senior-software-engineer-edinburgh-58395) | Fanduel | Edinburgh | — | arbeitnow |
 | 68 | [Senior Software Engineer - Core Marketing Platforms](https://www.arbeitnow.co.uk/jobs/companies/fanduel/senior-software-engineer-core-marketing-platforms-edinburgh-284822) | Fanduel | Edinburgh | — | arbeitnow |
-| 68 | [(Senior) Backend Engineer, Maps](https://www.arbeitnow.co.uk/jobs/companies/wheely/senior-backend-engineer-maps-london-495117) | Wheely | London | — | arbeitnow |
