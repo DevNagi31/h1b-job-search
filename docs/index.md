@@ -26,6 +26,7 @@
 | 71 | [Senior Software Engineer, Training & Experimentation](https://www.arbeitnow.co.uk/jobs/companies/lightningai/senior-software-engineer-training-experimentation-london-new-york-new-york-united-states-san-francisco-california-united-states-207359) | Lightningai | London; New York, New York, United States; San Francisco, California, United States | — | arbeitnow |
 | 71 | [Full Stack Engineer: Retail Media](https://www.arbeitnow.co.uk/jobs/companies/constructor/remote-full-stack-engineer-retail-media-84755) | Constructor | Remote - EMEA | — | arbeitnow |
 | 71 | [Senior Software Engineer, GenAI Platform](https://job-boards.greenhouse.io/reddit/jobs/7753480) | reddit | Remote - United States | — | greenhouse |
+| 71 | [Software Engineer, Backend](https://boards.greenhouse.io/robinhood/jobs/7263592?t=gh_src=&gh_jid=7263592) | robinhood | Menlo Park, CA; New York, NY | — | greenhouse |
 | 71 | [Senior Software Engineer, Compute Infrastructure](https://databricks.com/company/careers/open-positions/job?gh_jid=8527117002) | databricks | Mountain View, California; San Francisco, California | — | greenhouse |
 | 71 | [Senior Software Engineer - Backend](https://databricks.com/company/careers/open-positions/job?gh_jid=4799387002) | databricks | San Francisco, California | — | greenhouse |
 | 68 | [Senior Data Engineer (f/m/d)_metrify](https://www.arbeitnow.com/jobs/companies/enpal/senior-data-engineer-metrify-berlin-61854) | Enpal | Berlin | — | arbeitnow |
@@ -43,4 +44,3 @@
 | 68 | [Senior Software Engineer](https://www.arbeitnow.co.uk/jobs/companies/fanduel/senior-software-engineer-edinburgh-58395) | Fanduel | Edinburgh | — | arbeitnow |
 | 68 | [Senior Software Engineer - Core Marketing Platforms](https://www.arbeitnow.co.uk/jobs/companies/fanduel/senior-software-engineer-core-marketing-platforms-edinburgh-284822) | Fanduel | Edinburgh | — | arbeitnow |
 | 68 | [(Senior) Backend Engineer, Maps](https://www.arbeitnow.co.uk/jobs/companies/wheely/senior-backend-engineer-maps-london-495117) | Wheely | London | — | arbeitnow |
-| 68 | [(Senior) Backend Engineer, Marketplace](https://www.arbeitnow.co.uk/jobs/companies/wheely/senior-backend-engineer-marketplace-london-297644) | Wheely | London | — | arbeitnow |
