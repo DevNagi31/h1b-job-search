@@ -1,4 +1,4 @@
-# H1B job matches — 2026-08-19
+# H1B job matches — 2026-08-20
 
 500 matches. Top 40 below.
 
@@ -18,7 +18,7 @@
 | 74 | [Senior Software Engineer](https://www.arbeitnow.com/jobs/companies/workmotion/remote-senior-software-engineer-germany-225652) | Workmotion | Germany | — | arbeitnow |
 | 74 | [Sr Software Engineer, Infrastructure](https://databricks.com/company/careers/open-positions/job?gh_jid=8493170002) | databricks | San Francisco, California | — | greenhouse |
 | 74 | [Senior Software Engineer - Infrastructure and Tools](https://databricks.com/company/careers/open-positions/job?gh_jid=6318503002) | databricks | San Francisco, California | — | greenhouse |
-| 74 | [Senior Software Engineer - Fullstack](https://databricks.com/company/careers/open-positions/job?gh_jid=7898766002) | databricks | Mountain View, California; San Francisco, California | — | greenhouse |
+| 74 | [Senior Software Engineer - Fullstack](https://databricks.com/company/careers/open-positions/job?gh_jid=5445641002) | databricks | Mountain View, California; San Francisco, California | — | greenhouse |
 | 74 | [Senior Software Engineer - Fullstack](https://databricks.com/company/careers/open-positions/job?gh_jid=6544403002) | databricks | Seattle, Washington | — | greenhouse |
 | 74 | [Software Engineer, Product Security Data Platforms](https://stripe.com/jobs/search?gh_jid=8039800) | stripe | Seattle | — | greenhouse |
 | 71 | [Software Engineer, Content Platform](https://job-boards.greenhouse.io/reddit/jobs/8139781) | reddit | Remote - United States | — | greenhouse |
@@ -28,6 +28,9 @@
 | 71 | [Senior Software Engineer, GenAI Platform](https://job-boards.greenhouse.io/reddit/jobs/7753480) | reddit | Remote - United States | — | greenhouse |
 | 71 | [Senior Software Engineer, Compute Infrastructure](https://databricks.com/company/careers/open-positions/job?gh_jid=8527117002) | databricks | Mountain View, California; San Francisco, California | — | greenhouse |
 | 71 | [Senior Software Engineer - Backend](https://databricks.com/company/careers/open-positions/job?gh_jid=4799387002) | databricks | San Francisco, California | — | greenhouse |
+| 68 | [Platform Data Engineer - Cardiff](https://www.arbeitnow.co.uk/jobs/companies/rocketsciencegg/platform-data-engineer-cardiff-474975) | Rocketsciencegg | Cardiff, Wales, UK | — | arbeitnow |
+| 68 | [Software Engineer-II  Backend](https://www.arbeitnow.co.uk/jobs/companies/socure/software-engineer-ii-backend-london-205275) | Socure | Hybrid - London | — | arbeitnow |
+| 68 | [Senior Software Engineer (m/f/d)](https://www.arbeitnow.com/jobs/companies/flix/senior-software-engineer-berlin-333695) | Flix | Berlin, Berlin, Germany | — | arbeitnow |
 | 68 | [Senior Backend Engineer - MarTech](https://www.arbeitnow.com/jobs/companies/sumup/senior-backend-engineer-martech-berlin-129688) | SumUp | Berlin, Germany | — | arbeitnow |
 | 68 | [Software Engineer](https://www.arbeitnow.co.uk/jobs/companies/letly/software-engineer-london-375270) | Letly | London | — | arbeitnow |
 | 68 | [Senior Backend Engineer - MarTech](https://www.arbeitnow.com/jobs/companies/sumup/senior-backend-engineer-martech-berlin-162073) | sumup | Berlin | — | arbeitnow |
@@ -41,6 +44,3 @@
 | 68 | [(Senior) Backend Engineer, Marketplace](https://www.arbeitnow.co.uk/jobs/companies/wheely/senior-backend-engineer-marketplace-london-297644) | Wheely | London | — | arbeitnow |
 | 68 | [Software Engineer, Model Deployment- ChatGPT Engineering](https://jobs.ashbyhq.com/openai/f8b84ae5-743b-41c9-8432-02dff9993d6b) | openai | London, UK | — | ashby |
 | 68 | [Founding Backend Engineer(Go)](https://www.arbeitnow.com/jobs/companies/techbiz-global-gmbh/founding-backend-engineergo-berlin-36030) | TechBiz Global GmbH | Berlin, Berlin, Germany | — | arbeitnow |
-| 68 | [Senior Backend Software Engineer (Cloud Monetization Platform)](https://www.arbeitnow.com/jobs/companies/nebius/senior-backend-software-engineer-cloud-monetization-platform-berlin-216266) | Nebius | Berlin | — | arbeitnow |
-| 68 | [Software Engineer II, Foundation](https://www.arbeitnow.co.uk/jobs/companies/chainalysis/software-engineer-ii-foundation-london-214029) | Chainalysis | London | — | arbeitnow |
-| 68 | [Senior Ruby Backend Engineer with affinity for observability (d/w/m)](https://www.arbeitnow.com/jobs/companies/hypofriend-gmbh/senior-ruby-backend-engineer-with-affinity-for-observability-berlin-497601) | Hypofriend GmbH | Berlin | — | arbeitnow |
