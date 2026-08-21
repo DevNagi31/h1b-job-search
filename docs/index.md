@@ -21,6 +21,7 @@
 | 74 | [Senior Software Engineer - Fullstack](https://databricks.com/company/careers/open-positions/job?gh_jid=7898766002) | databricks | Mountain View, California; San Francisco, California | — | greenhouse |
 | 74 | [Senior Software Engineer - Fullstack](https://databricks.com/company/careers/open-positions/job?gh_jid=6544403002) | databricks | Seattle, Washington | — | greenhouse |
 | 74 | [Software Engineer, Product Security Data Platforms](https://stripe.com/jobs/search?gh_jid=8039800) | stripe | Seattle | — | greenhouse |
+| 71 | [Full-Stack Software Engineer - Journey](https://www.arbeitnow.com/jobs/companies/ecosia/full-stack-software-engineer-journey-berlin-103466) | Ecosia | Berlin / fully remote | — | arbeitnow |
 | 71 | [Software Engineer, Content Platform](https://job-boards.greenhouse.io/reddit/jobs/8139781) | reddit | Remote - United States | — | greenhouse |
 | 71 | [Senior Software Engineer, Agents](https://www.arbeitnow.co.uk/jobs/companies/lightningai/senior-software-engineer-agents-london-new-york-new-york-united-states-san-francisco-california-united-states-357130) | Lightningai | London; New York, New York, United States; San Francisco, California, United States | — | arbeitnow |
 | 71 | [Senior Software Engineer, Training & Experimentation](https://www.arbeitnow.co.uk/jobs/companies/lightningai/senior-software-engineer-training-experimentation-london-new-york-new-york-united-states-san-francisco-california-united-states-207359) | Lightningai | London; New York, New York, United States; San Francisco, California, United States | — | arbeitnow |
@@ -43,4 +44,3 @@
 | 68 | [AI Platform Engineer](https://www.arbeitnow.com/jobs/companies/chapters-group-ag/ai-platform-engineer-cologne-428107) | CHAPTERS Group AG | Cologne | — | arbeitnow |
 | 68 | [Senior Software Engineer - Future Opportunities](https://www.arbeitnow.co.uk/jobs/companies/baringa/senior-software-engineer-future-opportunities-london-292728) | Baringa | London | — | arbeitnow |
 | 68 | [Senior Full Stack Engineer - (HawkAI)](https://www.arbeitnow.co.uk/jobs/companies/hawkeyeinnovations/senior-full-stack-engineer-hawkai-budapest-311397) | Hawkeyeinnovations | Budapest, Hungary | — | arbeitnow |
-| 68 | [Senior Software Engineer, Simple Trade Experience](https://www.coinbase.com/careers/positions/8103569?gh_jid=8103569) | coinbase | Remote - USA | — | greenhouse |
