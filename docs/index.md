@@ -1,4 +1,4 @@
-# H1B job matches — 2026-08-22
+# H1B job matches — 2026-08-23
 
 500 matches. Top 40 below.
 
@@ -30,6 +30,8 @@
 | 71 | [Software Engineer, Backend](https://boards.greenhouse.io/robinhood/jobs/7263592?t=gh_src=&gh_jid=7263592) | robinhood | Menlo Park, CA; New York, NY | — | greenhouse |
 | 71 | [Senior Software Engineer, Compute Infrastructure](https://databricks.com/company/careers/open-positions/job?gh_jid=8527117002) | databricks | Mountain View, California; San Francisco, California | — | greenhouse |
 | 71 | [Senior Software Engineer - Backend](https://databricks.com/company/careers/open-positions/job?gh_jid=4799387002) | databricks | San Francisco, California | — | greenhouse |
+| 68 | [DevOps / Platform Engineer (m/f/d)](https://www.arbeitnow.com/jobs/companies/objectway/devops-platform-engineer-ebersberg-47308) | Objectway | EBERSBERG | — | arbeitnow |
+| 68 | [Senior Backend Engineer  - Product (Remote)](https://www.arbeitnow.com/jobs/companies/finom/senior-backend-engineer-product-remote-berlin-109265) | Finom | Berlin | — | arbeitnow |
 | 68 | [Expert Backend Engineer](https://www.arbeitnow.co.uk/jobs/companies/wizinc/expert-backend-engineer-london-462220) | wizinc | London | — | arbeitnow |
 | 68 | [Senior Software Engineer, Web Development – AI](https://www.arbeitnow.co.uk/jobs/companies/roku/senior-software-engineer-web-development-ai-manchester-82235) | Roku | Manchester | — | arbeitnow |
 | 68 | [Senior Software Engineer II](https://www.arbeitnow.co.uk/jobs/companies/prolific/remote-senior-software-engineer-ii-222936) | prolific | Remote | — | arbeitnow |
@@ -42,5 +44,3 @@
 | 68 | [Software Engineer](https://www.arbeitnow.co.uk/jobs/companies/letly/software-engineer-london-375270) | Letly | London | — | arbeitnow |
 | 68 | [Senior Backend Engineer - MarTech](https://www.arbeitnow.com/jobs/companies/sumup/senior-backend-engineer-martech-berlin-162073) | sumup | Berlin | — | arbeitnow |
 | 68 | [AI Platform Engineer](https://www.arbeitnow.com/jobs/companies/chapters-group-ag/ai-platform-engineer-cologne-428107) | CHAPTERS Group AG | Cologne | — | arbeitnow |
-| 68 | [Senior Software Engineer - Future Opportunities](https://www.arbeitnow.co.uk/jobs/companies/baringa/senior-software-engineer-future-opportunities-london-292728) | Baringa | London | — | arbeitnow |
-| 68 | [Senior Full Stack Engineer - (HawkAI)](https://www.arbeitnow.co.uk/jobs/companies/hawkeyeinnovations/senior-full-stack-engineer-hawkai-budapest-311397) | Hawkeyeinnovations | Budapest, Hungary | — | arbeitnow |
