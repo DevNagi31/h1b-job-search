@@ -18,7 +18,7 @@
 | 74 | [Senior Software Engineer](https://www.arbeitnow.com/jobs/companies/workmotion/remote-senior-software-engineer-germany-225652) | Workmotion | Germany | — | arbeitnow |
 | 74 | [Sr Software Engineer, Infrastructure](https://databricks.com/company/careers/open-positions/job?gh_jid=8493170002) | databricks | San Francisco, California | — | greenhouse |
 | 74 | [Senior Software Engineer - Infrastructure and Tools](https://databricks.com/company/careers/open-positions/job?gh_jid=6318503002) | databricks | San Francisco, California | — | greenhouse |
-| 74 | [Senior Software Engineer - Fullstack](https://databricks.com/company/careers/open-positions/job?gh_jid=5445641002) | databricks | Mountain View, California; San Francisco, California | — | greenhouse |
+| 74 | [Senior Software Engineer - Fullstack](https://databricks.com/company/careers/open-positions/job?gh_jid=7898766002) | databricks | Mountain View, California; San Francisco, California | — | greenhouse |
 | 74 | [Senior Software Engineer - Fullstack](https://databricks.com/company/careers/open-positions/job?gh_jid=6544403002) | databricks | Seattle, Washington | — | greenhouse |
 | 74 | [Software Engineer, Product Security Data Platforms](https://stripe.com/jobs/search?gh_jid=8039800) | stripe | Seattle | — | greenhouse |
 | 71 | [Full-Stack Software Engineer - Journey](https://www.arbeitnow.com/jobs/companies/ecosia/full-stack-software-engineer-journey-berlin-103466) | Ecosia | Berlin / fully remote | — | arbeitnow |
