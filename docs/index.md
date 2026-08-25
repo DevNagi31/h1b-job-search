@@ -1,4 +1,4 @@
-# H1B job matches — 2026-08-24
+# H1B job matches — 2026-08-25
 
 500 matches. Top 40 below.
 
@@ -18,7 +18,7 @@
 | 74 | [Senior Software Engineer](https://www.arbeitnow.com/jobs/companies/workmotion/remote-senior-software-engineer-germany-225652) | Workmotion | Germany | — | arbeitnow |
 | 74 | [Sr Software Engineer, Infrastructure](https://databricks.com/company/careers/open-positions/job?gh_jid=8493170002) | databricks | San Francisco, California | — | greenhouse |
 | 74 | [Senior Software Engineer - Infrastructure and Tools](https://databricks.com/company/careers/open-positions/job?gh_jid=6318503002) | databricks | San Francisco, California | — | greenhouse |
-| 74 | [Senior Software Engineer - Fullstack](https://databricks.com/company/careers/open-positions/job?gh_jid=5445641002) | databricks | Mountain View, California; San Francisco, California | — | greenhouse |
+| 74 | [Senior Software Engineer - Fullstack](https://databricks.com/company/careers/open-positions/job?gh_jid=7898766002) | databricks | Mountain View, California; San Francisco, California | — | greenhouse |
 | 74 | [Senior Software Engineer - Fullstack](https://databricks.com/company/careers/open-positions/job?gh_jid=6544403002) | databricks | Seattle, Washington | — | greenhouse |
 | 74 | [Software Engineer, Product Security Data Platforms](https://stripe.com/jobs/search?gh_jid=8039800) | stripe | Seattle | — | greenhouse |
 | 71 | [(Senior) Software Engineer (M/F/D) - Tools & Automation](https://www.arbeitnow.com/jobs/companies/vmray-gmbh/remote-senior-software-engineer-tools-automation-94433) | Vmray Gmbh | Germany, Bochum or Remote (Europe) | — | arbeitnow |
@@ -31,6 +31,7 @@
 | 71 | [Software Engineer, Backend](https://boards.greenhouse.io/robinhood/jobs/7263592?t=gh_src=&gh_jid=7263592) | robinhood | Menlo Park, CA; New York, NY | — | greenhouse |
 | 71 | [Senior Software Engineer, Compute Infrastructure](https://databricks.com/company/careers/open-positions/job?gh_jid=8527117002) | databricks | Mountain View, California; San Francisco, California | — | greenhouse |
 | 71 | [Senior Software Engineer - Backend](https://databricks.com/company/careers/open-positions/job?gh_jid=4799387002) | databricks | San Francisco, California | — | greenhouse |
+| 68 | [Senior Backend Software Engineer](https://www.arbeitnow.co.uk/jobs/companies/smarkets/senior-backend-software-engineer-london-343973) | Smarkets | London | — | arbeitnow |
 | 68 | [Senior Platform Engineer](https://www.arbeitnow.co.uk/jobs/companies/9fin/senior-platform-engineer-london-337119) | 9Fin | London | — | arbeitnow |
 | 68 | [Platform Engineer](https://www.arbeitnow.co.uk/jobs/companies/9fin/platform-engineer-london-97734) | 9Fin | London | — | arbeitnow |
 | 68 | [DevOps / Platform Engineer (m/f/d)](https://www.arbeitnow.com/jobs/companies/objectway/devops-platform-engineer-ebersberg-47308) | Objectway | EBERSBERG | — | arbeitnow |
@@ -43,4 +44,3 @@
 | 68 | [Platform Data Engineer - Cardiff](https://www.arbeitnow.co.uk/jobs/companies/rocketsciencegg/platform-data-engineer-cardiff-474975) | Rocketsciencegg | Cardiff, Wales, UK | — | arbeitnow |
 | 68 | [Software Engineer-II  Backend](https://www.arbeitnow.co.uk/jobs/companies/socure/software-engineer-ii-backend-london-205275) | Socure | Hybrid - London | — | arbeitnow |
 | 68 | [Senior Software Engineer (m/f/d)](https://www.arbeitnow.com/jobs/companies/flix/senior-software-engineer-berlin-333695) | Flix | Berlin, Berlin, Germany | — | arbeitnow |
-| 68 | [Senior Backend Engineer - MarTech](https://www.arbeitnow.com/jobs/companies/sumup/senior-backend-engineer-martech-berlin-129688) | SumUp | Berlin, Germany | — | arbeitnow |
