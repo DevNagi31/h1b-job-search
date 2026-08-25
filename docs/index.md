@@ -31,6 +31,7 @@
 | 71 | [Software Engineer, Backend](https://boards.greenhouse.io/robinhood/jobs/7263592?t=gh_src=&gh_jid=7263592) | robinhood | Menlo Park, CA; New York, NY | — | greenhouse |
 | 71 | [Senior Software Engineer, Compute Infrastructure](https://databricks.com/company/careers/open-positions/job?gh_jid=8527117002) | databricks | Mountain View, California; San Francisco, California | — | greenhouse |
 | 71 | [Senior Software Engineer - Backend](https://databricks.com/company/careers/open-positions/job?gh_jid=4799387002) | databricks | San Francisco, California | — | greenhouse |
+| 68 | [Senior Fullstack Software Engineer](https://www.arbeitnow.co.uk/jobs/companies/pigment/senior-fullstack-software-engineer-london-98105) | Pigment | London | — | arbeitnow |
 | 68 | [Senior Backend Software Engineer](https://www.arbeitnow.co.uk/jobs/companies/smarkets/senior-backend-software-engineer-london-343973) | Smarkets | London | — | arbeitnow |
 | 68 | [Senior Platform Engineer](https://www.arbeitnow.co.uk/jobs/companies/9fin/senior-platform-engineer-london-337119) | 9Fin | London | — | arbeitnow |
 | 68 | [Platform Engineer](https://www.arbeitnow.co.uk/jobs/companies/9fin/platform-engineer-london-97734) | 9Fin | London | — | arbeitnow |
@@ -43,4 +44,3 @@
 | 68 | [Senior Software Engineer (f/m/x)](https://www.arbeitnow.com/jobs/companies/enpal/senior-software-engineer-berlin-237624) | Enpal | Berlin | — | arbeitnow |
 | 68 | [Platform Data Engineer - Cardiff](https://www.arbeitnow.co.uk/jobs/companies/rocketsciencegg/platform-data-engineer-cardiff-474975) | Rocketsciencegg | Cardiff, Wales, UK | — | arbeitnow |
 | 68 | [Software Engineer-II  Backend](https://www.arbeitnow.co.uk/jobs/companies/socure/software-engineer-ii-backend-london-205275) | Socure | Hybrid - London | — | arbeitnow |
-| 68 | [Senior Software Engineer (m/f/d)](https://www.arbeitnow.com/jobs/companies/flix/senior-software-engineer-berlin-333695) | Flix | Berlin, Berlin, Germany | — | arbeitnow |
