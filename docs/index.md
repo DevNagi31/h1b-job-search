@@ -33,6 +33,7 @@
 | 71 | [Software Engineer, Backend](https://boards.greenhouse.io/robinhood/jobs/7263592?t=gh_src=&gh_jid=7263592) | robinhood | Menlo Park, CA; New York, NY | — | greenhouse |
 | 71 | [Senior Software Engineer, Compute Infrastructure](https://databricks.com/company/careers/open-positions/job?gh_jid=8527117002) | databricks | Mountain View, California; San Francisco, California | — | greenhouse |
 | 71 | [Senior Software Engineer - Backend](https://databricks.com/company/careers/open-positions/job?gh_jid=4799387002) | databricks | San Francisco, California | — | greenhouse |
+| 68 | [Senior Software Engineer, Advertising Engineering](https://www.arbeitnow.co.uk/jobs/companies/roku/senior-software-engineer-advertising-engineering-manchester-367207) | Roku | Manchester | — | arbeitnow |
 | 68 | [Senior Software Engineer](https://www.arbeitnow.co.uk/jobs/companies/instil/senior-software-engineer-belfast-482953) | Instil | Belfast | — | arbeitnow |
 | 68 | [Senior Backend Engineer](https://www.arbeitnow.com/jobs/companies/trading212/senior-backend-engineer-germany-97285) | Trading212 | Germany | — | arbeitnow |
 | 68 | [Software Engineer – Mission Control Software](https://www.arbeitnow.com/jobs/companies/the-exploration-company/software-engineer-mission-control-software-munich-232683) | The Exploration Company | Munich, Germany | — | arbeitnow |
@@ -43,4 +44,3 @@
 | 68 | [Senior Platform Engineer](https://www.arbeitnow.co.uk/jobs/companies/9fin/senior-platform-engineer-london-337119) | 9Fin | London | — | arbeitnow |
 | 68 | [Platform Engineer](https://www.arbeitnow.co.uk/jobs/companies/9fin/platform-engineer-london-97734) | 9Fin | London | — | arbeitnow |
 | 68 | [DevOps / Platform Engineer (m/f/d)](https://www.arbeitnow.com/jobs/companies/objectway/devops-platform-engineer-ebersberg-47308) | Objectway | EBERSBERG | — | arbeitnow |
-| 68 | [Senior Backend Engineer  - Product (Remote)](https://www.arbeitnow.com/jobs/companies/finom/senior-backend-engineer-product-remote-berlin-109265) | Finom | Berlin | — | arbeitnow |
