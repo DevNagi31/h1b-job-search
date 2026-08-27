@@ -8,6 +8,7 @@
 | 82 | [Senior Machine Learning Software Engineer, Research](https://www.arbeitnow.co.uk/jobs/companies/physicsx/senior-machine-learning-software-engineer-research-london-388806) | Physicsx | London | — | arbeitnow |
 | 79 | [Senior Software Engineer, Chem-Bio](https://www.arbeitnow.co.uk/jobs/companies/aisi/senior-software-engineer-chem-bio-london-485374) | Aisi | London | — | arbeitnow |
 | 79 | [Fusionbox / Python + TypeScript Engineers / United States / Full-time / REMOTE (](https://news.ycombinator.com/item?id=48764770) | Fusionbox |  | — | hackernews |
+| 76 | [Forward Deployed Software Engineer](https://www.arbeitnow.co.uk/jobs/companies/physicsx/forward-deployed-software-engineer-london-274667) | Physicsx | London | — | arbeitnow |
 | 74 | [Senior Software Engineer, Media Creation](https://job-boards.greenhouse.io/reddit/jobs/8100220) | reddit | Remote - United States | — | greenhouse |
 | 74 | [Platform Boosters - Backend Engineer (m/w/d)](https://www.arbeitnow.com/jobs/companies/shopware-ag/remote-platform-boosters-backend-engineer-berlin-67421) | shopware AG | Homeoffice | — | arbeitnow |
 | 74 | [Senior Data & Python Software Engineer](https://www.arbeitnow.co.uk/jobs/companies/ceartas/remote-senior-data-python-software-engineer-235366) | Ceartas | Remote | — | arbeitnow |
@@ -22,6 +23,8 @@
 | 74 | [Senior Software Engineer - Fullstack](https://databricks.com/company/careers/open-positions/job?gh_jid=7898766002) | databricks | Mountain View, California; San Francisco, California | — | greenhouse |
 | 74 | [Senior Software Engineer - Fullstack](https://databricks.com/company/careers/open-positions/job?gh_jid=6544403002) | databricks | Seattle, Washington | — | greenhouse |
 | 74 | [Software Engineer, Product Security Data Platforms](https://stripe.com/jobs/search?gh_jid=8039800) | stripe | Seattle | — | greenhouse |
+| 71 | [Senior Software Engineer, Fullstack](https://www.arbeitnow.co.uk/jobs/companies/muckrack/remote-senior-software-engineer-fullstack-325902) | Muckrack | Remote (Bulgaria, Ireland | — | arbeitnow |
+| 71 | [Software Engineer, Infrastructure ](https://jobs.ashbyhq.com/openai/984da843-107f-4ff6-ad27-07a06700e338) | openai | San Francisco | — | ashby |
 | 71 | [Senior Full Stack Engineer (Realtime & Voice) Customer Experience Platform](https://www.arbeitnow.co.uk/jobs/companies/hopper/remote-senior-full-stack-engineer-realtime-voice-customer-experience-platform-228373) | Hopper | England - Remote | — | arbeitnow |
 | 71 | [(Senior) Software Engineer (M/F/D) - Tools & Automation](https://www.arbeitnow.com/jobs/companies/vmray-gmbh/remote-senior-software-engineer-tools-automation-94433) | Vmray Gmbh | Germany, Bochum or Remote (Europe) | — | arbeitnow |
 | 71 | [Full-Stack Software Engineer - Journey](https://www.arbeitnow.com/jobs/companies/ecosia/full-stack-software-engineer-journey-berlin-103466) | Ecosia | Berlin / fully remote | — | arbeitnow |
@@ -30,6 +33,7 @@
 | 71 | [Senior Software Engineer, Training & Experimentation](https://www.arbeitnow.co.uk/jobs/companies/lightningai/senior-software-engineer-training-experimentation-london-new-york-new-york-united-states-san-francisco-california-united-states-207359) | Lightningai | London; New York, New York, United States; San Francisco, California, United States | — | arbeitnow |
 | 71 | [Full Stack Engineer: Retail Media](https://www.arbeitnow.co.uk/jobs/companies/constructor/remote-full-stack-engineer-retail-media-84755) | Constructor | Remote - EMEA | — | arbeitnow |
 | 71 | [Senior Software Engineer, GenAI Platform](https://job-boards.greenhouse.io/reddit/jobs/7753480) | reddit | Remote - United States | — | greenhouse |
+| 71 | [Senior Software Engineer, Data Layer](https://www.coinbase.com/careers/positions/8064873?gh_jid=8064873) | coinbase | Remote - USA | — | greenhouse |
 | 71 | [Software Engineer, Backend](https://boards.greenhouse.io/robinhood/jobs/7263592?t=gh_src=&gh_jid=7263592) | robinhood | Menlo Park, CA; New York, NY | — | greenhouse |
 | 71 | [Senior Software Engineer, Compute Infrastructure](https://databricks.com/company/careers/open-positions/job?gh_jid=8527117002) | databricks | Mountain View, California; San Francisco, California | — | greenhouse |
 | 71 | [Senior Software Engineer - Backend](https://databricks.com/company/careers/open-positions/job?gh_jid=4799387002) | databricks | San Francisco, California | — | greenhouse |
@@ -40,7 +44,3 @@
 | 68 | [Senior Backend Engineer](https://www.arbeitnow.com/jobs/companies/trading212/senior-backend-engineer-germany-97285) | Trading212 | Germany | — | arbeitnow |
 | 68 | [Software Engineer – Mission Control Software](https://www.arbeitnow.com/jobs/companies/the-exploration-company/software-engineer-mission-control-software-munich-232683) | The Exploration Company | Munich, Germany | — | arbeitnow |
 | 68 | [Senior Backend Engineer](https://www.arbeitnow.co.uk/jobs/companies/trading212/senior-backend-engineer-london-361291) | Trading212 | London | — | arbeitnow |
-| 68 | [Senior Platform Engineer (d/f/m)](https://www.arbeitnow.com/jobs/companies/vivenu/remote-senior-platform-engineer-181815) | Vivenu | Remote Germany | — | arbeitnow |
-| 68 | [Senior Fullstack Software Engineer](https://www.arbeitnow.co.uk/jobs/companies/pigment/senior-fullstack-software-engineer-london-98105) | Pigment | London | — | arbeitnow |
-| 68 | [Senior Backend Software Engineer](https://www.arbeitnow.co.uk/jobs/companies/smarkets/senior-backend-software-engineer-london-343973) | Smarkets | London | — | arbeitnow |
-| 68 | [Senior Platform Engineer](https://www.arbeitnow.co.uk/jobs/companies/9fin/senior-platform-engineer-london-337119) | 9Fin | London | — | arbeitnow |
