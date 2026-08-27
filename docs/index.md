@@ -1,4 +1,4 @@
-# H1B job matches — 2026-08-26
+# H1B job matches — 2026-08-27
 
 500 matches. Top 40 below.
 
@@ -33,6 +33,8 @@
 | 71 | [Software Engineer, Backend](https://boards.greenhouse.io/robinhood/jobs/7263592?t=gh_src=&gh_jid=7263592) | robinhood | Menlo Park, CA; New York, NY | — | greenhouse |
 | 71 | [Senior Software Engineer, Compute Infrastructure](https://databricks.com/company/careers/open-positions/job?gh_jid=8527117002) | databricks | Mountain View, California; San Francisco, California | — | greenhouse |
 | 71 | [Senior Software Engineer - Backend](https://databricks.com/company/careers/open-positions/job?gh_jid=4799387002) | databricks | San Francisco, California | — | greenhouse |
+| 68 | [Backend Engineer II](https://www.arbeitnow.co.uk/jobs/companies/monzoreferrals/backend-engineer-ii-cardiff-197140) | Monzoreferrals | Cardiff | — | arbeitnow |
+| 68 | [Data Engineer - AI Pipelines & DataOps](https://www.arbeitnow.com/jobs/companies/intersnack-it-kg/data-engineer-ai-pipelines-dataops-dusseldorf-94376) | Intersnack IT KG | Düsseldorf, Nordrhein-Westfalen, Germany | — | arbeitnow |
 | 68 | [Senior Software Engineer, Advertising Engineering](https://www.arbeitnow.co.uk/jobs/companies/roku/senior-software-engineer-advertising-engineering-manchester-367207) | Roku | Manchester | — | arbeitnow |
 | 68 | [Senior Software Engineer](https://www.arbeitnow.co.uk/jobs/companies/instil/senior-software-engineer-belfast-482953) | Instil | Belfast | — | arbeitnow |
 | 68 | [Senior Backend Engineer](https://www.arbeitnow.com/jobs/companies/trading212/senior-backend-engineer-germany-97285) | Trading212 | Germany | — | arbeitnow |
@@ -42,5 +44,3 @@
 | 68 | [Senior Fullstack Software Engineer](https://www.arbeitnow.co.uk/jobs/companies/pigment/senior-fullstack-software-engineer-london-98105) | Pigment | London | — | arbeitnow |
 | 68 | [Senior Backend Software Engineer](https://www.arbeitnow.co.uk/jobs/companies/smarkets/senior-backend-software-engineer-london-343973) | Smarkets | London | — | arbeitnow |
 | 68 | [Senior Platform Engineer](https://www.arbeitnow.co.uk/jobs/companies/9fin/senior-platform-engineer-london-337119) | 9Fin | London | — | arbeitnow |
-| 68 | [Platform Engineer](https://www.arbeitnow.co.uk/jobs/companies/9fin/platform-engineer-london-97734) | 9Fin | London | — | arbeitnow |
-| 68 | [DevOps / Platform Engineer (m/f/d)](https://www.arbeitnow.com/jobs/companies/objectway/devops-platform-engineer-ebersberg-47308) | Objectway | EBERSBERG | — | arbeitnow |
