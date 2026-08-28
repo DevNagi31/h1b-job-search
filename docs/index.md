@@ -1,4 +1,4 @@
-# H1B job matches — 2026-08-27
+# H1B job matches — 2026-08-28
 
 500 matches. Top 40 below.
 
@@ -13,14 +13,13 @@
 | 74 | [Platform Boosters - Backend Engineer (m/w/d)](https://www.arbeitnow.com/jobs/companies/shopware-ag/remote-platform-boosters-backend-engineer-berlin-67421) | shopware AG | Homeoffice | — | arbeitnow |
 | 74 | [Senior Data & Python Software Engineer](https://www.arbeitnow.co.uk/jobs/companies/ceartas/remote-senior-data-python-software-engineer-235366) | Ceartas | Remote | — | arbeitnow |
 | 74 | [Fullstack Software Engineer (m/f/d) - Mid Level](https://www.arbeitnow.com/jobs/companies/beglaubigtde/fullstack-software-engineer-mid-level-munich-130496) | Beglaubigt.de | Munich | — | arbeitnow |
-| 74 | [Senior Backend Engineer, Compliance Engineering](https://job-boards.greenhouse.io/reddit/jobs/8128860) | reddit | Remote - United States | — | greenhouse |
 | 74 | [Senior Software Engineer (Rust/Go/Python)](https://www.arbeitnow.com/jobs/companies/berlitz/remote-senior-software-engineer-rust-go-python-41151) | Berlitz | Germany Remote | — | arbeitnow |
 | 74 | [Senior Software Engineer, Core Platform](https://www.arbeitnow.co.uk/jobs/companies/lightningai/senior-software-engineer-core-platform-london-new-york-new-york-united-states-san-francisco-california-united-states-44495) | Lightningai | London; New York, New York, United States; San Francisco, California, United States | — | arbeitnow |
 | 74 | [Senior Software Engineer - k6 Core / USA, EST only / Remote](https://www.arbeitnow.co.uk/jobs/companies/grafanalabs/senior-software-engineer-k6-core-usa-est-only-remote-283344) | grafanalabs | United States (Remote) | — | arbeitnow |
 | 74 | [Senior Software Engineer](https://www.arbeitnow.com/jobs/companies/workmotion/remote-senior-software-engineer-germany-225652) | Workmotion | Germany | — | arbeitnow |
 | 74 | [Sr Software Engineer, Infrastructure](https://databricks.com/company/careers/open-positions/job?gh_jid=8493170002) | databricks | San Francisco, California | — | greenhouse |
 | 74 | [Senior Software Engineer - Infrastructure and Tools](https://databricks.com/company/careers/open-positions/job?gh_jid=6318503002) | databricks | San Francisco, California | — | greenhouse |
-| 74 | [Senior Software Engineer - Fullstack](https://databricks.com/company/careers/open-positions/job?gh_jid=7898766002) | databricks | Mountain View, California; San Francisco, California | — | greenhouse |
+| 74 | [Senior Software Engineer - Fullstack](https://databricks.com/company/careers/open-positions/job?gh_jid=5445641002) | databricks | Mountain View, California; San Francisco, California | — | greenhouse |
 | 74 | [Senior Software Engineer - Fullstack](https://databricks.com/company/careers/open-positions/job?gh_jid=6544403002) | databricks | Seattle, Washington | — | greenhouse |
 | 74 | [Software Engineer, Product Security Data Platforms](https://stripe.com/jobs/search?gh_jid=8039800) | stripe | Seattle | — | greenhouse |
 | 71 | [Senior Software Engineer, Fullstack](https://www.arbeitnow.co.uk/jobs/companies/muckrack/remote-senior-software-engineer-fullstack-325902) | Muckrack | Remote (Bulgaria, Ireland | — | arbeitnow |
@@ -37,6 +36,7 @@
 | 71 | [Software Engineer, Backend](https://boards.greenhouse.io/robinhood/jobs/7263592?t=gh_src=&gh_jid=7263592) | robinhood | Menlo Park, CA; New York, NY | — | greenhouse |
 | 71 | [Senior Software Engineer, Compute Infrastructure](https://databricks.com/company/careers/open-positions/job?gh_jid=8527117002) | databricks | Mountain View, California; San Francisco, California | — | greenhouse |
 | 71 | [Senior Software Engineer - Backend](https://databricks.com/company/careers/open-positions/job?gh_jid=4799387002) | databricks | San Francisco, California | — | greenhouse |
+| 68 | [Senior Platform Engineer](https://www.arbeitnow.co.uk/jobs/companies/attio/remote-senior-platform-engineer-354020) | Attio | London | — | arbeitnow |
 | 68 | [Backend Engineer II](https://www.arbeitnow.co.uk/jobs/companies/monzoreferrals/backend-engineer-ii-cardiff-197140) | Monzoreferrals | Cardiff | — | arbeitnow |
 | 68 | [Data Engineer - AI Pipelines & DataOps](https://www.arbeitnow.com/jobs/companies/intersnack-it-kg/data-engineer-ai-pipelines-dataops-dusseldorf-94376) | Intersnack IT KG | Düsseldorf, Nordrhein-Westfalen, Germany | — | arbeitnow |
 | 68 | [Senior Software Engineer, Advertising Engineering](https://www.arbeitnow.co.uk/jobs/companies/roku/senior-software-engineer-advertising-engineering-manchester-367207) | Roku | Manchester | — | arbeitnow |
