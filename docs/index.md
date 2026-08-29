@@ -1,4 +1,4 @@
-# H1B job matches — 2026-08-28
+# H1B job matches — 2026-08-29
 
 500 matches. Top 40 below.
 
@@ -38,9 +38,9 @@
 | 71 | [Software Engineer, Backend](https://boards.greenhouse.io/robinhood/jobs/7263592?t=gh_src=&gh_jid=7263592) | robinhood | Menlo Park, CA; New York, NY | — | greenhouse |
 | 71 | [Senior Software Engineer, Compute Infrastructure](https://databricks.com/company/careers/open-positions/job?gh_jid=8527117002) | databricks | Mountain View, California; San Francisco, California | — | greenhouse |
 | 71 | [Senior Software Engineer - Backend](https://databricks.com/company/careers/open-positions/job?gh_jid=4799387002) | databricks | San Francisco, California | — | greenhouse |
+| 68 | [Software Engineer - Cloud Infrastructure](https://www.arbeitnow.com/jobs/companies/applied/software-engineer-cloud-infrastructure-munchen-477309) | Applied | Munich | — | arbeitnow |
 | 68 | [AI Augmented Software Engineer [gn] Data Intelligence Platform](https://www.arbeitnow.co.uk/jobs/companies/jobgether/ai-augmented-software-engineer-gn-data-intelligence-platform-uk-202056) | Jobgether | UK | — | arbeitnow |
 | 68 | [AI Augmented Software Engineer [gn] Data Intelligence Platform](https://www.arbeitnow.com/jobs/companies/jobgether/ai-augmented-software-engineer-gn-data-intelligence-platform-germany-413922) | Jobgether | Germany | — | arbeitnow |
 | 68 | [Senior Platform Engineer](https://www.arbeitnow.co.uk/jobs/companies/attio/remote-senior-platform-engineer-354020) | Attio | London | — | arbeitnow |
 | 68 | [Backend Engineer II](https://www.arbeitnow.co.uk/jobs/companies/monzoreferrals/backend-engineer-ii-cardiff-197140) | Monzoreferrals | Cardiff | — | arbeitnow |
 | 68 | [Data Engineer - AI Pipelines & DataOps](https://www.arbeitnow.com/jobs/companies/intersnack-it-kg/data-engineer-ai-pipelines-dataops-dusseldorf-94376) | Intersnack IT KG | Düsseldorf, Nordrhein-Westfalen, Germany | — | arbeitnow |
-| 68 | [Senior Software Engineer, Advertising Engineering](https://www.arbeitnow.co.uk/jobs/companies/roku/senior-software-engineer-advertising-engineering-manchester-367207) | Roku | Manchester | — | arbeitnow |
