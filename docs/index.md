@@ -20,9 +20,10 @@
 | 74 | [Senior Software Engineer](https://www.arbeitnow.com/jobs/companies/workmotion/remote-senior-software-engineer-germany-225652) | Workmotion | Germany | — | arbeitnow |
 | 74 | [Sr Software Engineer, Infrastructure](https://databricks.com/company/careers/open-positions/job?gh_jid=8493170002) | databricks | San Francisco, California | — | greenhouse |
 | 74 | [Senior Software Engineer - Infrastructure and Tools](https://databricks.com/company/careers/open-positions/job?gh_jid=6318503002) | databricks | San Francisco, California | — | greenhouse |
-| 74 | [Senior Software Engineer - Fullstack](https://databricks.com/company/careers/open-positions/job?gh_jid=5445641002) | databricks | Mountain View, California; San Francisco, California | — | greenhouse |
+| 74 | [Senior Software Engineer - Fullstack](https://databricks.com/company/careers/open-positions/job?gh_jid=7898766002) | databricks | Mountain View, California; San Francisco, California | — | greenhouse |
 | 74 | [Senior Software Engineer - Fullstack](https://databricks.com/company/careers/open-positions/job?gh_jid=6544403002) | databricks | Seattle, Washington | — | greenhouse |
 | 74 | [Software Engineer, Product Security Data Platforms](https://stripe.com/jobs/search?gh_jid=8039800) | stripe | Seattle | — | greenhouse |
+| 71 | [Software Engineer, Safety Engineering](https://jobs.ashbyhq.com/openai/9371f837-70ef-4387-a4b7-70f252b04aa5) | openai | San Francisco | — | ashby |
 | 71 | [Senior Software Engineer, Developer Experience (DevX)](https://boards.greenhouse.io/robinhood/jobs/8164943?t=gh_src=&gh_jid=8164943) | robinhood | Menlo Park, CA; New York, NY | — | greenhouse |
 | 71 | [Senior Software Engineer, Fullstack](https://www.arbeitnow.co.uk/jobs/companies/muckrack/remote-senior-software-engineer-fullstack-325902) | Muckrack | Remote (Bulgaria, Ireland | — | arbeitnow |
 | 71 | [Software Engineer, Infrastructure ](https://jobs.ashbyhq.com/openai/984da843-107f-4ff6-ad27-07a06700e338) | openai | San Francisco | — | ashby |
@@ -43,4 +44,3 @@
 | 68 | [Senior Platform Engineer (d/f/m)](https://www.arbeitnow.com/jobs/companies/taxfix/senior-platform-engineer-berlin-67083) | Taxfix | Berlin | — | arbeitnow |
 | 68 | [Software Engineer - Cloud Infrastructure](https://www.arbeitnow.com/jobs/companies/applied/software-engineer-cloud-infrastructure-munchen-477309) | Applied | Munich | — | arbeitnow |
 | 68 | [AI Augmented Software Engineer [gn] Data Intelligence Platform](https://www.arbeitnow.co.uk/jobs/companies/jobgether/ai-augmented-software-engineer-gn-data-intelligence-platform-uk-202056) | Jobgether | UK | — | arbeitnow |
-| 68 | [AI Augmented Software Engineer [gn] Data Intelligence Platform](https://www.arbeitnow.com/jobs/companies/jobgether/ai-augmented-software-engineer-gn-data-intelligence-platform-germany-413922) | Jobgether | Germany | — | arbeitnow |
