@@ -1,4 +1,4 @@
-# H1B job matches — 2026-08-31
+# H1B job matches — 2026-09-01
 
 500 matches. Top 40 below.
 
@@ -20,7 +20,7 @@
 | 74 | [Senior Software Engineer](https://www.arbeitnow.com/jobs/companies/workmotion/remote-senior-software-engineer-germany-225652) | Workmotion | Germany | — | arbeitnow |
 | 74 | [Sr Software Engineer, Infrastructure](https://databricks.com/company/careers/open-positions/job?gh_jid=8493170002) | databricks | San Francisco, California | — | greenhouse |
 | 74 | [Senior Software Engineer - Infrastructure and Tools](https://databricks.com/company/careers/open-positions/job?gh_jid=6318503002) | databricks | San Francisco, California | — | greenhouse |
-| 74 | [Senior Software Engineer - Fullstack](https://databricks.com/company/careers/open-positions/job?gh_jid=7898766002) | databricks | Mountain View, California; San Francisco, California | — | greenhouse |
+| 74 | [Senior Software Engineer - Fullstack](https://databricks.com/company/careers/open-positions/job?gh_jid=5445641002) | databricks | Mountain View, California; San Francisco, California | — | greenhouse |
 | 74 | [Senior Software Engineer - Fullstack](https://databricks.com/company/careers/open-positions/job?gh_jid=6544403002) | databricks | Seattle, Washington | — | greenhouse |
 | 74 | [Software Engineer, Product Security Data Platforms](https://stripe.com/jobs/search?gh_jid=8039800) | stripe | Seattle | — | greenhouse |
 | 71 | [Software Engineer, Safety Engineering](https://jobs.ashbyhq.com/openai/9371f837-70ef-4387-a4b7-70f252b04aa5) | openai | San Francisco | — | ashby |
@@ -39,8 +39,8 @@
 | 71 | [Software Engineer, Backend](https://boards.greenhouse.io/robinhood/jobs/7263592?t=gh_src=&gh_jid=7263592) | robinhood | Menlo Park, CA; New York, NY | — | greenhouse |
 | 71 | [Senior Software Engineer, Compute Infrastructure](https://databricks.com/company/careers/open-positions/job?gh_jid=8527117002) | databricks | Mountain View, California; San Francisco, California | — | greenhouse |
 | 71 | [Senior Software Engineer - Backend](https://databricks.com/company/careers/open-positions/job?gh_jid=4799387002) | databricks | San Francisco, California | — | greenhouse |
+| 68 | [Junior Software Engineer (m/w/d) — KI-gestützte Entwicklung](https://www.arbeitnow.com/jobs/companies/data-nation-gmbh/junior-software-engineer-ki-gestutzte-entwicklung-hamburg-374706) | data nation GmbH | Hamburg | — | arbeitnow |
 | 68 | [Senior Software Engineer](https://www.arbeitnow.com/jobs/companies/wolt/senior-software-engineer-berlin-33055) | wolt | Berlin | — | arbeitnow |
 | 68 | [Senior Software Engineer](https://www.arbeitnow.co.uk/jobs/companies/blp-digital-ag/senior-software-engineer-london-468751) | BLP Digital AG | UK | — | arbeitnow |
 | 68 | [Senior Platform Engineer (d/f/m)](https://www.arbeitnow.com/jobs/companies/taxfix/senior-platform-engineer-berlin-67083) | Taxfix | Berlin | — | arbeitnow |
 | 68 | [Software Engineer - Cloud Infrastructure](https://www.arbeitnow.com/jobs/companies/applied/software-engineer-cloud-infrastructure-munchen-477309) | Applied | Munich | — | arbeitnow |
-| 68 | [AI Augmented Software Engineer [gn] Data Intelligence Platform](https://www.arbeitnow.co.uk/jobs/companies/jobgether/ai-augmented-software-engineer-gn-data-intelligence-platform-uk-202056) | Jobgether | UK | — | arbeitnow |
