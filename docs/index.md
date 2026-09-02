@@ -1,4 +1,4 @@
-# H1B job matches — 2026-09-01
+# H1B job matches — 2026-09-02
 
 500 matches. Top 40 below.
 
@@ -19,6 +19,7 @@
 | 74 | [Senior Software Engineer, Core Platform](https://www.arbeitnow.co.uk/jobs/companies/lightningai/senior-software-engineer-core-platform-london-new-york-new-york-united-states-san-francisco-california-united-states-44495) | Lightningai | London; New York, New York, United States; San Francisco, California, United States | — | arbeitnow |
 | 74 | [Senior Software Engineer - k6 Core / USA, EST only / Remote](https://www.arbeitnow.co.uk/jobs/companies/grafanalabs/senior-software-engineer-k6-core-usa-est-only-remote-283344) | grafanalabs | United States (Remote) | — | arbeitnow |
 | 74 | [Senior Software Engineer](https://www.arbeitnow.com/jobs/companies/workmotion/remote-senior-software-engineer-germany-225652) | Workmotion | Germany | — | arbeitnow |
+| 71 | [Software Engineer, Data Layer ](https://www.coinbase.com/careers/positions/8029037?gh_jid=8029037) | coinbase | Remote - Singapore | — | greenhouse |
 | 71 | [Software Engineer, Safety Engineering](https://jobs.ashbyhq.com/openai/9371f837-70ef-4387-a4b7-70f252b04aa5) | openai | San Francisco | — | ashby |
 | 71 | [Senior Software Engineer, Developer Experience (DevX)](https://boards.greenhouse.io/robinhood/jobs/8164943?t=gh_src=&gh_jid=8164943) | robinhood | Menlo Park, CA; New York, NY | — | greenhouse |
 | 71 | [Senior Software Engineer, Fullstack](https://www.arbeitnow.co.uk/jobs/companies/muckrack/remote-senior-software-engineer-fullstack-325902) | Muckrack | Remote (Bulgaria, Ireland | — | arbeitnow |
@@ -43,4 +44,3 @@
 | 68 | [Senior Software Engineer](https://www.arbeitnow.co.uk/jobs/companies/blp-digital-ag/senior-software-engineer-london-468751) | BLP Digital AG | UK | — | arbeitnow |
 | 68 | [Senior Platform Engineer (d/f/m)](https://www.arbeitnow.com/jobs/companies/taxfix/senior-platform-engineer-berlin-67083) | Taxfix | Berlin | — | arbeitnow |
 | 68 | [Software Engineer - Cloud Infrastructure](https://www.arbeitnow.com/jobs/companies/applied/software-engineer-cloud-infrastructure-munchen-477309) | Applied | Munich | — | arbeitnow |
-| 68 | [AI Augmented Software Engineer [gn] Data Intelligence Platform](https://www.arbeitnow.co.uk/jobs/companies/jobgether/ai-augmented-software-engineer-gn-data-intelligence-platform-uk-202056) | Jobgether | UK | — | arbeitnow |
