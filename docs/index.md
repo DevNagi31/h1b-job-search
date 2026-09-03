@@ -9,8 +9,9 @@
 | 79 | [Senior Software Engineer, Chem-Bio](https://www.arbeitnow.co.uk/jobs/companies/aisi/senior-software-engineer-chem-bio-london-485374) | Aisi | London | — | arbeitnow |
 | 79 | [Fusionbox / Python + TypeScript Engineers / United States / Full-time / REMOTE (](https://news.ycombinator.com/item?id=48764770) | Fusionbox |  | — | hackernews |
 | 76 | [Forward Deployed Software Engineer](https://www.arbeitnow.co.uk/jobs/companies/physicsx/forward-deployed-software-engineer-london-274667) | Physicsx | London | — | arbeitnow |
+| 74 | [Lead Software Engineer GenAI-Engineering / Agentic Coding (m/w/d) - Hybrid (deut](https://www.arbeitnow.com/jobs/companies/tech-recruitingde/lead-software-engineer-genai-engineering-agentic-coding-hybrid-deutschlandweite-standorte-bielefeld-17589) | Tech-Recruiting.de | Bielefeld | — | arbeitnow |
 | 74 | [Hiya / Senior Backend Software Engineer / Seattle, WA / HYBRID / Full-time / $11](https://news.ycombinator.com/item?id=49531417) | Hiya |  | — | hackernews |
-| 74 | [Fullstack Software Engineer - Core](https://www.arbeitnow.com/jobs/companies/dataiku/remote-fullstack-software-engineer-core-437469) | dataiku | Remote | — | arbeitnow |
+| 74 | [Fullstack Software Engineer - Core](https://www.arbeitnow.co.uk/jobs/companies/dataiku/remote-fullstack-software-engineer-core-184220) | dataiku | Remote | — | arbeitnow |
 | 74 | [VersaFeed.com / SENIOR SOFTWARE ENGINEER (Python/Django + JavaScript - VueJS/Rea](https://news.ycombinator.com/item?id=49523703) | VersaFeed.com |  | — | hackernews |
 | 74 | [Software Engineer, CDP - Payment Acceptance ](https://www.coinbase.com/careers/positions/8164730?gh_jid=8164730) | coinbase | Remote - USA | — | greenhouse |
 | 74 | [Senior Software Engineer, Media Creation](https://job-boards.greenhouse.io/reddit/jobs/8100220) | reddit | Remote - United States | — | greenhouse |
@@ -29,7 +30,7 @@
 | 71 | [Senior Software Engineer, Fullstack](https://www.arbeitnow.co.uk/jobs/companies/muckrack/remote-senior-software-engineer-fullstack-325902) | Muckrack | Remote (Bulgaria, Ireland | — | arbeitnow |
 | 71 | [Software Engineer, Infrastructure ](https://jobs.ashbyhq.com/openai/984da843-107f-4ff6-ad27-07a06700e338) | openai | San Francisco | — | ashby |
 | 71 | [Senior Full Stack Engineer (Realtime & Voice) Customer Experience Platform](https://www.arbeitnow.co.uk/jobs/companies/hopper/remote-senior-full-stack-engineer-realtime-voice-customer-experience-platform-228373) | Hopper | England - Remote | — | arbeitnow |
-| 71 | [(Senior) Software Engineer (M/F/D) - Tools & Automation](https://www.arbeitnow.com/jobs/companies/vmray-gmbh/remote-senior-software-engineer-tools-automation-251844) | Vmray Gmbh | Germany, Bochum or Remote (Europe) | — | arbeitnow |
+| 71 | [(Senior) Software Engineer (M/F/D) - Tools & Automation](https://www.arbeitnow.com/jobs/companies/vmray-gmbh/remote-senior-software-engineer-tools-automation-186561) | Vmray Gmbh | Germany, Bochum or Remote (Europe) | — | arbeitnow |
 | 71 | [Full-Stack Software Engineer - Journey](https://www.arbeitnow.com/jobs/companies/ecosia/full-stack-software-engineer-journey-berlin-103466) | Ecosia | Berlin / fully remote | — | arbeitnow |
 | 71 | [Senior Software Engineer, Agents](https://www.arbeitnow.co.uk/jobs/companies/lightningai/senior-software-engineer-agents-london-new-york-new-york-united-states-san-francisco-california-united-states-357130) | Lightningai | London; New York, New York, United States; San Francisco, California, United States | — | arbeitnow |
 | 71 | [Senior Software Engineer, Training & Experimentation](https://www.arbeitnow.co.uk/jobs/companies/lightningai/senior-software-engineer-training-experimentation-london-new-york-new-york-united-states-san-francisco-california-united-states-207359) | Lightningai | London; New York, New York, United States; San Francisco, California, United States | — | arbeitnow |
@@ -38,9 +39,8 @@
 | 71 | [Senior Software Engineer, Data Layer](https://www.coinbase.com/careers/positions/8064873?gh_jid=8064873) | coinbase | Remote - USA | — | greenhouse |
 | 71 | [Software Engineer, Backend](https://boards.greenhouse.io/robinhood/jobs/7263592?t=gh_src=&gh_jid=7263592) | robinhood | Menlo Park, CA; New York, NY | — | greenhouse |
 | 71 | [Senior Software Engineer, Compute Infrastructure](https://databricks.com/company/careers/open-positions/job?gh_jid=8527117002) | databricks | Mountain View, California; San Francisco, California | — | greenhouse |
+| 68 | [Full Stack Engineer - Javascript](https://www.arbeitnow.com/jobs/companies/glassflow/full-stack-engineer-javascript-berlin-176003) | GlassFlow | Berlin | — | arbeitnow |
+| 68 | [Senior Software Engineer, Full-Stack](https://www.arbeitnow.co.uk/jobs/companies/ripple/senior-software-engineer-full-stack-london-247377) | Ripple | London | — | arbeitnow |
 | 68 | [Senzing (entity resolution SDK) / Platform Engineer / Remote (USA) / Full-time S](https://news.ycombinator.com/item?id=49539168) | Senzing (entity resolution SDK) |  | — | hackernews |
 | 68 | [Senior Backend Engineer - Identity Lifecycle](https://www.arbeitnow.com/jobs/companies/sumup/senior-backend-engineer-identity-lifecycle-berlin-110697) | sumup | Berlin | — | arbeitnow |
 | 68 | [Multiply / Python + SQL Software Engineer / On-site / Mauritius We build reprici](https://news.ycombinator.com/item?id=49532978) | Multiply |  | — | hackernews |
-| 68 | [Full Stack Engineer](https://www.arbeitnow.com/jobs/companies/glassflow/full-stack-engineer-berlin-385834) | GlassFlow | Berlin | — | arbeitnow |
-| 68 | [Data Scientist / Data Engineer](https://www.arbeitnow.com/jobs/companies/80-beats-medical-gmbh/data-scientist-data-engineer-berlin-75231) | 80 Beats Medical GmbH | Berlin | — | arbeitnow |
-| 68 | [Senior Software Engineer, Data](https://www.arbeitnow.com/jobs/companies/circonomit/senior-software-engineer-data-cologne-45873) | Circonomit | Cologne, Germany | — | arbeitnow |
