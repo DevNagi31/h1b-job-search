@@ -39,8 +39,8 @@
 | 71 | [Senior Software Engineer, Data Layer](https://www.coinbase.com/careers/positions/8064873?gh_jid=8064873) | coinbase | Remote - USA | — | greenhouse |
 | 71 | [Software Engineer, Backend](https://boards.greenhouse.io/robinhood/jobs/7263592?t=gh_src=&gh_jid=7263592) | robinhood | Menlo Park, CA; New York, NY | — | greenhouse |
 | 71 | [Senior Software Engineer, Compute Infrastructure](https://databricks.com/company/careers/open-positions/job?gh_jid=8527117002) | databricks | Mountain View, California; San Francisco, California | — | greenhouse |
+| 68 | [Software Engineer, Online Database Infrastructure](https://stripe.com/jobs/search?gh_jid=8177930) | stripe | Seattle, WA | — | greenhouse |
 | 68 | [Full Stack Engineer - Javascript](https://www.arbeitnow.com/jobs/companies/glassflow/full-stack-engineer-javascript-berlin-176003) | GlassFlow | Berlin | — | arbeitnow |
 | 68 | [Senior Software Engineer, Full-Stack](https://www.arbeitnow.co.uk/jobs/companies/ripple/senior-software-engineer-full-stack-london-247377) | Ripple | London | — | arbeitnow |
 | 68 | [Senzing (entity resolution SDK) / Platform Engineer / Remote (USA) / Full-time S](https://news.ycombinator.com/item?id=49539168) | Senzing (entity resolution SDK) |  | — | hackernews |
 | 68 | [Senior Backend Engineer - Identity Lifecycle](https://www.arbeitnow.com/jobs/companies/sumup/senior-backend-engineer-identity-lifecycle-berlin-110697) | sumup | Berlin | — | arbeitnow |
-| 68 | [Multiply / Python + SQL Software Engineer / On-site / Mauritius We build reprici](https://news.ycombinator.com/item?id=49532978) | Multiply |  | — | hackernews |
