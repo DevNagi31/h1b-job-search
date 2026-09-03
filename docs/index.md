@@ -24,6 +24,7 @@
 | 74 | [Senior Software Engineer](https://www.arbeitnow.com/jobs/companies/workmotion/remote-senior-software-engineer-germany-225652) | Workmotion | Germany | — | arbeitnow |
 | 74 | [Software Engineer, Data Platform](https://job-boards.greenhouse.io/discord/jobs/8396927002) | discord | San Francisco Bay Area | — | greenhouse |
 | 74 | [Sr Software Engineer, Infrastructure](https://databricks.com/company/careers/open-positions/job?gh_jid=8493170002) | databricks | San Francisco, California | — | greenhouse |
+| 71 | [Software Engineer, Native Learning Experiences](https://jobs.ashbyhq.com/openai/1098311d-3a07-40ad-8107-6245a492a0b3) | openai | San Francisco | — | ashby |
 | 71 | [Software Engineer, Data Layer ](https://www.coinbase.com/careers/positions/8029037?gh_jid=8029037) | coinbase | Remote - Singapore | — | greenhouse |
 | 71 | [Software Engineer, Safety Engineering](https://jobs.ashbyhq.com/openai/9371f837-70ef-4387-a4b7-70f252b04aa5) | openai | San Francisco | — | ashby |
 | 71 | [Senior Software Engineer, Developer Experience (DevX)](https://boards.greenhouse.io/robinhood/jobs/8164943?t=gh_src=&gh_jid=8164943) | robinhood | Menlo Park, CA; New York, NY | — | greenhouse |
@@ -43,4 +44,3 @@
 | 68 | [Full Stack Engineer - Javascript](https://www.arbeitnow.com/jobs/companies/glassflow/full-stack-engineer-javascript-berlin-176003) | GlassFlow | Berlin | — | arbeitnow |
 | 68 | [Senior Software Engineer, Full-Stack](https://www.arbeitnow.co.uk/jobs/companies/ripple/senior-software-engineer-full-stack-london-247377) | Ripple | London | — | arbeitnow |
 | 68 | [Senzing (entity resolution SDK) / Platform Engineer / Remote (USA) / Full-time S](https://news.ycombinator.com/item?id=49539168) | Senzing (entity resolution SDK) |  | — | hackernews |
-| 68 | [Senior Backend Engineer - Identity Lifecycle](https://www.arbeitnow.com/jobs/companies/sumup/senior-backend-engineer-identity-lifecycle-berlin-110697) | sumup | Berlin | — | arbeitnow |
