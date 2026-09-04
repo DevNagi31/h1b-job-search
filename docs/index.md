@@ -42,5 +42,5 @@
 | 71 | [Senior Software Engineer, Data Layer](https://www.coinbase.com/careers/positions/8064873?gh_jid=8064873) | coinbase | Remote - USA | — | greenhouse |
 | 71 | [Software Engineer, Backend](https://boards.greenhouse.io/robinhood/jobs/7263592?t=gh_src=&gh_jid=7263592) | robinhood | Menlo Park, CA; New York, NY | — | greenhouse |
 | 71 | [Senior Software Engineer, Compute Infrastructure](https://databricks.com/company/careers/open-positions/job?gh_jid=8527117002) | databricks | Mountain View, California; San Francisco, California | — | greenhouse |
+| 68 | [Senior Data Engineer](https://www.arbeitnow.co.uk/jobs/companies/zoominfo/senior-data-engineer-london-374837) | Zoominfo | London | — | arbeitnow |
 | 68 | [Software Engineer, ML Ops and Platform](https://www.arbeitnow.com/jobs/companies/tools-for-humanity/software-engineer-ml-ops-and-platform-munich-333631) | Tools for Humanity | Munich | — | arbeitnow |
-| 68 | [Software Engineer, Online Database Infrastructure](https://stripe.com/jobs/search?gh_jid=8177930) | stripe | Seattle, WA | — | greenhouse |
