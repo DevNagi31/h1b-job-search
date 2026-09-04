@@ -1,4 +1,4 @@
-# H1B job matches — 2026-09-03
+# H1B job matches — 2026-09-04
 
 500 matches. Top 40 below.
 
@@ -8,6 +8,8 @@
 | 82 | [Senior Machine Learning Software Engineer, Research](https://www.arbeitnow.co.uk/jobs/companies/physicsx/senior-machine-learning-software-engineer-research-london-388806) | Physicsx | London | — | arbeitnow |
 | 79 | [Senior Software Engineer, Chem-Bio](https://www.arbeitnow.co.uk/jobs/companies/aisi/senior-software-engineer-chem-bio-london-485374) | Aisi | London | — | arbeitnow |
 | 79 | [Fusionbox / Python + TypeScript Engineers / United States / Full-time / REMOTE (](https://news.ycombinator.com/item?id=48764770) | Fusionbox |  | — | hackernews |
+| 76 | [(Senior) Backend Engineer - Banking (f/m/x)](https://www.arbeitnow.com/jobs/companies/lemon-markets/senior-backend-engineer-banking-berlin-257486) | Lemon Markets | Germany  (Hybrid) | — | arbeitnow |
+| 76 | [(Senior) Backend Engineer - Investing (f/m/x)](https://www.arbeitnow.com/jobs/companies/lemon-markets/senior-backend-engineer-investing-berlin-52342) | Lemon Markets | Germany  (Hybrid) | — | arbeitnow |
 | 76 | [Forward Deployed Software Engineer](https://www.arbeitnow.co.uk/jobs/companies/physicsx/forward-deployed-software-engineer-london-274667) | Physicsx | London | — | arbeitnow |
 | 74 | [Lead Software Engineer GenAI-Engineering / Agentic Coding (m/w/d) - Hybrid (deut](https://www.arbeitnow.com/jobs/companies/tech-recruitingde/lead-software-engineer-genai-engineering-agentic-coding-hybrid-deutschlandweite-standorte-bielefeld-17589) | Tech-Recruiting.de | Bielefeld | — | arbeitnow |
 | 74 | [Hiya / Senior Backend Software Engineer / Seattle, WA / HYBRID / Full-time / $11](https://news.ycombinator.com/item?id=49531417) | Hiya |  | — | hackernews |
@@ -40,7 +42,5 @@
 | 71 | [Senior Software Engineer, Data Layer](https://www.coinbase.com/careers/positions/8064873?gh_jid=8064873) | coinbase | Remote - USA | — | greenhouse |
 | 71 | [Software Engineer, Backend](https://boards.greenhouse.io/robinhood/jobs/7263592?t=gh_src=&gh_jid=7263592) | robinhood | Menlo Park, CA; New York, NY | — | greenhouse |
 | 71 | [Senior Software Engineer, Compute Infrastructure](https://databricks.com/company/careers/open-positions/job?gh_jid=8527117002) | databricks | Mountain View, California; San Francisco, California | — | greenhouse |
+| 68 | [Software Engineer, ML Ops and Platform](https://www.arbeitnow.com/jobs/companies/tools-for-humanity/software-engineer-ml-ops-and-platform-munich-333631) | Tools for Humanity | Munich | — | arbeitnow |
 | 68 | [Software Engineer, Online Database Infrastructure](https://stripe.com/jobs/search?gh_jid=8177930) | stripe | Seattle, WA | — | greenhouse |
-| 68 | [Full Stack Engineer - Javascript](https://www.arbeitnow.com/jobs/companies/glassflow/full-stack-engineer-javascript-berlin-176003) | GlassFlow | Berlin | — | arbeitnow |
-| 68 | [Senior Software Engineer, Full-Stack](https://www.arbeitnow.co.uk/jobs/companies/ripple/senior-software-engineer-full-stack-london-247377) | Ripple | London | — | arbeitnow |
-| 68 | [Senzing (entity resolution SDK) / Platform Engineer / Remote (USA) / Full-time S](https://news.ycombinator.com/item?id=49539168) | Senzing (entity resolution SDK) |  | — | hackernews |
