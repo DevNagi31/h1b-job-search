@@ -1,4 +1,4 @@
-# H1B job matches — 2026-09-04
+# H1B job matches — 2026-09-05
 
 500 matches. Top 40 below.
 
@@ -43,4 +43,4 @@
 | 71 | [Senior Software Engineer, Data Layer](https://www.coinbase.com/careers/positions/8064873?gh_jid=8064873) | coinbase | Remote - USA | — | greenhouse |
 | 71 | [Software Engineer, Backend](https://boards.greenhouse.io/robinhood/jobs/7263592?t=gh_src=&gh_jid=7263592) | robinhood | Menlo Park, CA; New York, NY | — | greenhouse |
 | 71 | [Senior Software Engineer, Compute Infrastructure](https://databricks.com/company/careers/open-positions/job?gh_jid=8527117002) | databricks | Mountain View, California; San Francisco, California | — | greenhouse |
-| 68 | [Senior Data Engineer](https://www.arbeitnow.co.uk/jobs/companies/zoominfo/senior-data-engineer-london-374837) | Zoominfo | London | — | arbeitnow |
+| 68 | [Data Platform Engineer](https://www.arbeitnow.co.uk/jobs/companies/lendable/data-platform-engineer-london-230787) | Lendable | London | — | arbeitnow |
