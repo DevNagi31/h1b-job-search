@@ -1,4 +1,4 @@
-# H1B job matches — 2026-09-08
+# H1B job matches — 2026-09-09
 
 500 matches. Top 40 below.
 
@@ -42,5 +42,5 @@
 | 71 | [Senior Software Engineer, GenAI Platform](https://job-boards.greenhouse.io/reddit/jobs/7753480) | reddit | Remote - United States | — | greenhouse |
 | 71 | [Senior Software Engineer, Data Layer](https://www.coinbase.com/careers/positions/8064873?gh_jid=8064873) | coinbase | Remote - USA | — | greenhouse |
 | 71 | [Senior Software Engineer, Compute Infrastructure](https://databricks.com/company/careers/open-positions/job?gh_jid=8527117002) | databricks | Mountain View, California; San Francisco, California | — | greenhouse |
+| 68 | [Software Engineer, AI for Chip Design](https://jobs.ashbyhq.com/openai/56d541d3-02b5-44d8-b40b-4df72cdd0405) | openai | San Francisco | — | ashby |
 | 68 | [AI Platform Engineer (f/m/d)](https://www.arbeitnow.com/jobs/companies/idnow/ai-platform-engineer-berlin-berlin-munchen-bavaria-278031) | idnow | Berlin, Berlin; München, Bavaria | — | arbeitnow |
-| 68 | [Stage Software Engineer - Paris - H/F/X](https://www.arbeitnow.fr/jobs/companies/artefact/stage-software-engineer-paris-9th-arrondissement-of-paris-75009-paris-30251) | Artefact | 9th arrondissement of Paris, 75009, Paris | — | arbeitnow |
