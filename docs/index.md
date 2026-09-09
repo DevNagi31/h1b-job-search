@@ -42,5 +42,5 @@
 | 71 | [Senior Software Engineer, GenAI Platform](https://job-boards.greenhouse.io/reddit/jobs/7753480) | reddit | Remote - United States | — | greenhouse |
 | 71 | [Senior Software Engineer, Data Layer](https://www.coinbase.com/careers/positions/8064873?gh_jid=8064873) | coinbase | Remote - USA | — | greenhouse |
 | 71 | [Senior Software Engineer, Compute Infrastructure](https://databricks.com/company/careers/open-positions/job?gh_jid=8527117002) | databricks | Mountain View, California; San Francisco, California | — | greenhouse |
+| 68 | [Senior Software Engineer, Cloud Platform](https://www.arbeitnow.com/jobs/companies/rivianvwtech/senior-software-engineer-cloud-platform-berlin-123705) | Rivianvw.tech | Berlin | — | arbeitnow |
 | 68 | [Embedded Data Engineer - ML](https://www.arbeitnow.co.uk/jobs/companies/trainline/embedded-data-engineer-ml-london-455252) | Trainline | London | — | arbeitnow |
-| 68 | [Senior Backend Engineer (Python & TypeScript, Microservices & Data Pipelines)](https://www.arbeitnow.com/jobs/companies/equimatch-gmbh/senior-backend-engineer-python-typescript-microservices-data-pipelines-berlin-484090) | EquiMatch GmbH | Berlin | — | arbeitnow |
