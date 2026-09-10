@@ -27,6 +27,7 @@
 | 74 | [Software Engineer, Data Platform](https://job-boards.greenhouse.io/discord/jobs/8396927002) | discord | San Francisco Bay Area | — | greenhouse |
 | 74 | [Sr Software Engineer, Infrastructure](https://databricks.com/company/careers/open-positions/job?gh_jid=8493170002) | databricks | San Francisco, California | — | greenhouse |
 | 74 | [Software Engineer, Product Security Data Platforms](https://stripe.com/jobs/search?gh_jid=8039800) | stripe | Seattle | — | greenhouse |
+| 71 | [Senior Software Engineer, Tokenization](https://boards.greenhouse.io/robinhood/jobs/8189057?t=gh_src=&gh_jid=8189057) | robinhood | Menlo Park, CA; New York, NY | — | greenhouse |
 | 71 | [Software Engineer, Native Learning Experiences](https://jobs.ashbyhq.com/openai/1098311d-3a07-40ad-8107-6245a492a0b3) | openai | San Francisco | — | ashby |
 | 71 | [Software Engineer, Data Layer ](https://www.coinbase.com/careers/positions/8029037?gh_jid=8029037) | coinbase | Remote - Singapore | — | greenhouse |
 | 71 | [Software Engineer, Safety Engineering](https://jobs.ashbyhq.com/openai/9371f837-70ef-4387-a4b7-70f252b04aa5) | openai | San Francisco | — | ashby |
@@ -42,5 +43,4 @@
 | 71 | [Senior Software Engineer, GenAI Platform](https://job-boards.greenhouse.io/reddit/jobs/7753480) | reddit | Remote - United States | — | greenhouse |
 | 71 | [Senior Software Engineer, Data Layer](https://www.coinbase.com/careers/positions/8064873?gh_jid=8064873) | coinbase | Remote - USA | — | greenhouse |
 | 71 | [Senior Software Engineer, Compute Infrastructure](https://databricks.com/company/careers/open-positions/job?gh_jid=8527117002) | databricks | Mountain View, California; San Francisco, California | — | greenhouse |
-| 68 | [Senior Software Engineer, Cloud Platform](https://www.arbeitnow.com/jobs/companies/rivianvwtech/senior-software-engineer-cloud-platform-berlin-123705) | Rivianvw.tech | Berlin | — | arbeitnow |
-| 68 | [Embedded Data Engineer - ML](https://www.arbeitnow.co.uk/jobs/companies/trainline/embedded-data-engineer-ml-london-455252) | Trainline | London | — | arbeitnow |
+| 68 | [Software Engineer, Tokenization](https://boards.greenhouse.io/robinhood/jobs/8189005?t=gh_src=&gh_jid=8189005) | robinhood | Menlo Park, CA; New York, NY | — | greenhouse |
