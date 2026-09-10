@@ -43,4 +43,4 @@
 | 71 | [Senior Software Engineer, GenAI Platform](https://job-boards.greenhouse.io/reddit/jobs/7753480) | reddit | Remote - United States | — | greenhouse |
 | 71 | [Senior Software Engineer, Data Layer](https://www.coinbase.com/careers/positions/8064873?gh_jid=8064873) | coinbase | Remote - USA | — | greenhouse |
 | 71 | [Senior Software Engineer, Compute Infrastructure](https://databricks.com/company/careers/open-positions/job?gh_jid=8527117002) | databricks | Mountain View, California; San Francisco, California | — | greenhouse |
-| 68 | [Software Engineer, Tokenization](https://boards.greenhouse.io/robinhood/jobs/8189005?t=gh_src=&gh_jid=8189005) | robinhood | Menlo Park, CA; New York, NY | — | greenhouse |
+| 68 | [Senior Data Engineer (f/m/d)](https://www.arbeitnow.com/jobs/companies/gropyus/senior-data-engineer-berlin-berlin-131723) | gropyus | Berlin, Berlin | — | arbeitnow |
