@@ -17,7 +17,6 @@
 | 74 | [Hiya / Senior Backend Software Engineer / Seattle, WA / HYBRID / Full-time / $11](https://news.ycombinator.com/item?id=49531417) | Hiya |  | — | hackernews |
 | 74 | [Fullstack Software Engineer - Core](https://www.arbeitnow.co.uk/jobs/companies/dataiku/remote-fullstack-software-engineer-core-184220) | dataiku | Remote | — | arbeitnow |
 | 74 | [VersaFeed.com / SENIOR SOFTWARE ENGINEER (Python/Django + JavaScript - VueJS/Rea](https://news.ycombinator.com/item?id=49523703) | VersaFeed.com |  | — | hackernews |
-| 74 | [Software Engineer, CDP - Payment Acceptance ](https://www.coinbase.com/careers/positions/8164730?gh_jid=8164730) | coinbase | Remote - USA | — | greenhouse |
 | 74 | [Platform Boosters - Backend Engineer (m/w/d)](https://www.arbeitnow.com/jobs/companies/shopware-ag/remote-platform-boosters-backend-engineer-berlin-67421) | shopware AG | Homeoffice | — | arbeitnow |
 | 74 | [Senior Data & Python Software Engineer](https://www.arbeitnow.co.uk/jobs/companies/ceartas/remote-senior-data-python-software-engineer-235366) | Ceartas | Remote | — | arbeitnow |
 | 74 | [Fullstack Software Engineer (m/f/d) - Mid Level](https://www.arbeitnow.com/jobs/companies/beglaubigtde/fullstack-software-engineer-mid-level-munich-130496) | Beglaubigt.de | Munich | — | arbeitnow |
@@ -44,3 +43,4 @@
 | 71 | [Full Stack Engineer: Retail Media](https://www.arbeitnow.co.uk/jobs/companies/constructor/remote-full-stack-engineer-retail-media-84755) | Constructor | Remote - EMEA | — | arbeitnow |
 | 71 | [Senior Software Engineer, GenAI Platform](https://job-boards.greenhouse.io/reddit/jobs/7753480) | reddit | Remote - United States | — | greenhouse |
 | 71 | [Senior Software Engineer, Compute Infrastructure](https://databricks.com/company/careers/open-positions/job?gh_jid=8527117002) | databricks | Mountain View, California; San Francisco, California | — | greenhouse |
+| 68 | [Lead Platform Engineer](https://www.arbeitnow.co.uk/jobs/companies/kraken/lead-platform-engineer-london-340675) | Kraken | London, UK | — | arbeitnow |
