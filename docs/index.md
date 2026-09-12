@@ -43,4 +43,4 @@
 | 71 | [Full Stack Engineer: Retail Media](https://www.arbeitnow.co.uk/jobs/companies/constructor/remote-full-stack-engineer-retail-media-84755) | Constructor | Remote - EMEA | — | arbeitnow |
 | 71 | [Senior Software Engineer, GenAI Platform](https://job-boards.greenhouse.io/reddit/jobs/7753480) | reddit | Remote - United States | — | greenhouse |
 | 71 | [Senior Software Engineer, Compute Infrastructure](https://databricks.com/company/careers/open-positions/job?gh_jid=8527117002) | databricks | Mountain View, California; San Francisco, California | — | greenhouse |
-| 68 | [Lead Platform Engineer](https://www.arbeitnow.co.uk/jobs/companies/kraken/lead-platform-engineer-london-340675) | Kraken | London, UK | — | arbeitnow |
+| 68 | [Senior Software Engineer - Node.js/TypeScript (x/f/m)](https://www.arbeitnow.com/jobs/companies/doctolib/senior-software-engineer-nodejs-typescript-berlin-berlin-383924) | Doctolib | Berlin, Berlin | — | arbeitnow |
