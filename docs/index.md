@@ -1,4 +1,4 @@
-# H1B job matches — 2026-09-12
+# H1B job matches — 2026-09-13
 
 500 matches. Top 40 below.
 
@@ -43,4 +43,4 @@
 | 71 | [Full Stack Engineer: Retail Media](https://www.arbeitnow.co.uk/jobs/companies/constructor/remote-full-stack-engineer-retail-media-84755) | Constructor | Remote - EMEA | — | arbeitnow |
 | 71 | [Senior Software Engineer, GenAI Platform](https://job-boards.greenhouse.io/reddit/jobs/7753480) | reddit | Remote - United States | — | greenhouse |
 | 71 | [Senior Software Engineer, Compute Infrastructure](https://databricks.com/company/careers/open-positions/job?gh_jid=8527117002) | databricks | Mountain View, California; San Francisco, California | — | greenhouse |
-| 68 | [Senior Software Engineer - Node.js/TypeScript (x/f/m)](https://www.arbeitnow.com/jobs/companies/doctolib/senior-software-engineer-nodejs-typescript-berlin-berlin-383924) | Doctolib | Berlin, Berlin | — | arbeitnow |
+| 68 | [Software Engineer - Backend (Java)](https://www.arbeitnow.co.uk/jobs/companies/legal-counsel-12-month-ftc-at-rightmove-greenhouse/software-engineer-backend-java-london-109329) | Legal Counsel - 12 month FTC at Rightmove Greenhouse | London | — | arbeitnow |
