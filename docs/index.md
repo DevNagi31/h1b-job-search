@@ -17,6 +17,7 @@
 | 74 | [Hiya / Senior Backend Software Engineer / Seattle, WA / HYBRID / Full-time / $11](https://news.ycombinator.com/item?id=49531417) | Hiya |  | — | hackernews |
 | 74 | [Fullstack Software Engineer - Core](https://www.arbeitnow.co.uk/jobs/companies/dataiku/remote-fullstack-software-engineer-core-184220) | dataiku | Remote | — | arbeitnow |
 | 74 | [VersaFeed.com / SENIOR SOFTWARE ENGINEER (Python/Django + JavaScript - VueJS/Rea](https://news.ycombinator.com/item?id=49523703) | VersaFeed.com |  | — | hackernews |
+| 74 | [Senior Software Engineer, Media Creation](https://job-boards.greenhouse.io/reddit/jobs/8100220) | reddit | Remote - United States | — | greenhouse |
 | 74 | [Platform Boosters - Backend Engineer (m/w/d)](https://www.arbeitnow.com/jobs/companies/shopware-ag/remote-platform-boosters-backend-engineer-berlin-67421) | shopware AG | Homeoffice | — | arbeitnow |
 | 74 | [Senior Data & Python Software Engineer](https://www.arbeitnow.co.uk/jobs/companies/ceartas/remote-senior-data-python-software-engineer-235366) | Ceartas | Remote | — | arbeitnow |
 | 74 | [Fullstack Software Engineer (m/f/d) - Mid Level](https://www.arbeitnow.com/jobs/companies/beglaubigtde/fullstack-software-engineer-mid-level-munich-130496) | Beglaubigt.de | Munich | — | arbeitnow |
@@ -31,7 +32,6 @@
 | 71 | [Senior Software Engineer, Tokenization](https://boards.greenhouse.io/robinhood/jobs/8189057?t=gh_src=&gh_jid=8189057) | robinhood | Menlo Park, CA; New York, NY | — | greenhouse |
 | 71 | [Software Engineer, Native Learning Experiences](https://jobs.ashbyhq.com/openai/1098311d-3a07-40ad-8107-6245a492a0b3) | openai | San Francisco | — | ashby |
 | 71 | [Software Engineer, Data Layer ](https://www.coinbase.com/careers/positions/8029037?gh_jid=8029037) | coinbase | Remote - Singapore | — | greenhouse |
-| 71 | [Software Engineer, Safety Engineering](https://jobs.ashbyhq.com/openai/9371f837-70ef-4387-a4b7-70f252b04aa5) | openai | San Francisco | — | ashby |
 | 71 | [Senior Software Engineer, Developer Experience (DevX)](https://boards.greenhouse.io/robinhood/jobs/8164943?t=gh_src=&gh_jid=8164943) | robinhood | Menlo Park, CA; New York, NY | — | greenhouse |
 | 71 | [Senior Software Engineer, Fullstack](https://www.arbeitnow.co.uk/jobs/companies/muckrack/remote-senior-software-engineer-fullstack-325902) | Muckrack | Remote (Bulgaria, Ireland | — | arbeitnow |
 | 71 | [Software Engineer, Infrastructure ](https://jobs.ashbyhq.com/openai/984da843-107f-4ff6-ad27-07a06700e338) | openai | San Francisco | — | ashby |
