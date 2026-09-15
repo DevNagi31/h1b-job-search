@@ -28,6 +28,7 @@
 | 74 | [Software Engineer, Data Platform](https://job-boards.greenhouse.io/discord/jobs/8396927002) | discord | San Francisco Bay Area | — | greenhouse |
 | 74 | [Sr Software Engineer, Infrastructure](https://databricks.com/company/careers/open-positions/job?gh_jid=8493170002) | databricks | San Francisco, California | — | greenhouse |
 | 74 | [Software Engineer, Product Security Data Platforms](https://stripe.com/jobs/search?gh_jid=8039800) | stripe | Seattle | — | greenhouse |
+| 71 | [Senior Software Engineer, Backend (Institutional - Exchange)](https://www.coinbase.com/careers/positions/8203429?gh_jid=8203429) | coinbase | Remote - USA | — | greenhouse |
 | 71 | [Software Engineer, Applied Emerging Talent (2027)](https://jobs.ashbyhq.com/openai/55150071-fce8-48f5-aea4-14ed78b83511) | openai | San Francisco | — | ashby |
 | 71 | [Senior Software Engineer - Data Platform ](https://www.coinbase.com/careers/positions/7812407?gh_jid=7812407) | coinbase | Remote - USA | — | greenhouse |
 | 71 | [Senior Software Engineer, Tokenization](https://boards.greenhouse.io/robinhood/jobs/8189057?t=gh_src=&gh_jid=8189057) | robinhood | Menlo Park, CA; New York, NY | — | greenhouse |
@@ -43,4 +44,3 @@
 | 71 | [Senior Software Engineer, Training & Experimentation](https://www.arbeitnow.co.uk/jobs/companies/lightningai/senior-software-engineer-training-experimentation-london-new-york-new-york-united-states-san-francisco-california-united-states-207359) | Lightningai | London; New York, New York, United States; San Francisco, California, United States | — | arbeitnow |
 | 71 | [Full Stack Engineer: Retail Media](https://www.arbeitnow.co.uk/jobs/companies/constructor/remote-full-stack-engineer-retail-media-84755) | Constructor | Remote - EMEA | — | arbeitnow |
 | 71 | [Senior Software Engineer, GenAI Platform](https://job-boards.greenhouse.io/reddit/jobs/7753480) | reddit | Remote - United States | — | greenhouse |
-| 71 | [Senior Software Engineer, Compute Infrastructure](https://databricks.com/company/careers/open-positions/job?gh_jid=8527117002) | databricks | Mountain View, California; San Francisco, California | — | greenhouse |
