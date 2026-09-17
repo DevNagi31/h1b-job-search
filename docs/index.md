@@ -32,7 +32,6 @@
 | 71 | [Software Engineer, Applied Emerging Talent (2027)](https://jobs.ashbyhq.com/openai/55150071-fce8-48f5-aea4-14ed78b83511) | openai | San Francisco | — | ashby |
 | 71 | [Senior Software Engineer - Data Platform ](https://www.coinbase.com/careers/positions/7812407?gh_jid=7812407) | coinbase | Remote - USA | — | greenhouse |
 | 71 | [Senior Software Engineer, Tokenization](https://boards.greenhouse.io/robinhood/jobs/8189057?t=gh_src=&gh_jid=8189057) | robinhood | Menlo Park, CA; New York, NY | — | greenhouse |
-| 71 | [Software Engineer, Native Learning Experiences](https://jobs.ashbyhq.com/openai/1098311d-3a07-40ad-8107-6245a492a0b3) | openai | San Francisco | — | ashby |
 | 71 | [Software Engineer, Data Layer ](https://www.coinbase.com/careers/positions/8029037?gh_jid=8029037) | coinbase | Remote - Singapore | — | greenhouse |
 | 71 | [Senior Software Engineer, Developer Experience (DevX)](https://boards.greenhouse.io/robinhood/jobs/8164943?t=gh_src=&gh_jid=8164943) | robinhood | Menlo Park, CA; New York, NY | — | greenhouse |
 | 71 | [Senior Software Engineer, Fullstack](https://www.arbeitnow.co.uk/jobs/companies/muckrack/remote-senior-software-engineer-fullstack-325902) | Muckrack | Remote (Bulgaria, Ireland | — | arbeitnow |
@@ -44,3 +43,4 @@
 | 71 | [Senior Software Engineer, Training & Experimentation](https://www.arbeitnow.co.uk/jobs/companies/lightningai/senior-software-engineer-training-experimentation-london-new-york-new-york-united-states-san-francisco-california-united-states-207359) | Lightningai | London; New York, New York, United States; San Francisco, California, United States | — | arbeitnow |
 | 71 | [Full Stack Engineer: Retail Media](https://www.arbeitnow.co.uk/jobs/companies/constructor/remote-full-stack-engineer-retail-media-84755) | Constructor | Remote - EMEA | — | arbeitnow |
 | 71 | [Senior Software Engineer, GenAI Platform](https://job-boards.greenhouse.io/reddit/jobs/7753480) | reddit | Remote - United States | — | greenhouse |
+| 71 | [Senior Software Engineer](https://www.coinbase.com/careers/positions/7961318?gh_jid=7961318) | coinbase | Remote - USA | — | greenhouse |
