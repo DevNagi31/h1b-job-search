@@ -1,4 +1,4 @@
-# H1B job matches — 2026-09-20
+# H1B job matches — 2026-09-21
 
 500 matches. Top 40 below.
 
@@ -11,6 +11,7 @@
 | 76 | [(Senior) Backend Engineer - Banking (f/m/x)](https://www.arbeitnow.com/jobs/companies/lemon-markets/senior-backend-engineer-banking-berlin-257486) | Lemon Markets | Germany  (Hybrid) | — | arbeitnow |
 | 76 | [(Senior) Backend Engineer - Investing (f/m/x)](https://www.arbeitnow.com/jobs/companies/lemon-markets/senior-backend-engineer-investing-berlin-52342) | Lemon Markets | Germany  (Hybrid) | — | arbeitnow |
 | 76 | [Forward Deployed Software Engineer](https://www.arbeitnow.co.uk/jobs/companies/physicsx/forward-deployed-software-engineer-london-274667) | Physicsx | London | — | arbeitnow |
+| 74 | [Senior Software Engineer – IT Risk & Pricing (m/f/d)](https://www.arbeitnow.com/jobs/companies/auxmoney-gmbh/remote-senior-software-engineer-it-risk-pricing-89515) | Auxmoney Gmbh | Remote / Düsseldorf | — | arbeitnow |
 | 74 | [Backend Engineer - Agentic AI (m/w/d)](https://www.arbeitnow.com/jobs/companies/getpress-gmbh/remote-backend-engineer-agentic-ai-berlin-107711) | Getpress Gmbh | Berlin | — | arbeitnow |
 | 74 | [Senior Full Stack Software Engineer](https://www.arbeitnow.co.uk/jobs/companies/octopus-energy-group/remote-senior-full-stack-software-engineer-329869) | Octopus Energy Group | Remote (UK) | — | arbeitnow |
 | 74 | [Software Engineer, Consumer Engineering](https://job-boards.greenhouse.io/reddit/jobs/8172457) | reddit | Remote - United States | — | greenhouse |
@@ -43,4 +44,3 @@
 | 71 | [Full-Stack Software Engineer - Journey](https://www.arbeitnow.com/jobs/companies/ecosia/full-stack-software-engineer-journey-berlin-103466) | Ecosia | Berlin / fully remote | — | arbeitnow |
 | 71 | [Senior Software Engineer, Agents](https://www.arbeitnow.co.uk/jobs/companies/lightningai/senior-software-engineer-agents-london-new-york-new-york-united-states-san-francisco-california-united-states-357130) | Lightningai | London; New York, New York, United States; San Francisco, California, United States | — | arbeitnow |
 | 71 | [Senior Software Engineer, Training & Experimentation](https://www.arbeitnow.co.uk/jobs/companies/lightningai/senior-software-engineer-training-experimentation-london-new-york-new-york-united-states-san-francisco-california-united-states-207359) | Lightningai | London; New York, New York, United States; San Francisco, California, United States | — | arbeitnow |
-| 71 | [Full Stack Engineer: Retail Media](https://www.arbeitnow.co.uk/jobs/companies/constructor/remote-full-stack-engineer-retail-media-84755) | Constructor | Remote - EMEA | — | arbeitnow |
