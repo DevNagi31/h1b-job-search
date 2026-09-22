@@ -35,6 +35,8 @@
 | 74 | [Senior Software Engineer - Fullstack](https://databricks.com/company/careers/open-positions/job?gh_jid=5445641002) | databricks | Mountain View, California; San Francisco, California | — | greenhouse |
 | 74 | [Senior Software Engineer - Fullstack](https://databricks.com/company/careers/open-positions/job?gh_jid=6544403002) | databricks | Seattle, Washington | — | greenhouse |
 | 74 | [Software Engineer, Product Security Data Platforms](https://stripe.com/jobs/search?gh_jid=8039800) | stripe | Seattle | — | greenhouse |
+| 71 | [Senior C++ Software Engineer](https://www.arbeitnow.co.uk/jobs/companies/reactive-markets/senior-c-software-engineer-united-kingdom-307489) | Reactive Markets | Remote, UK | — | arbeitnow |
+| 71 | [C++ Software Engineer](https://www.arbeitnow.co.uk/jobs/companies/reactive-markets/c-software-engineer-united-kingdom-232323) | Reactive Markets | Remote, UK | — | arbeitnow |
 | 71 | [Senior Software Engineer, Backend (Institutional - Exchange)](https://www.coinbase.com/careers/positions/8203429?gh_jid=8203429) | coinbase | Remote - USA | — | greenhouse |
 | 71 | [Software Engineer, Applied Emerging Talent (2027)](https://jobs.ashbyhq.com/openai/55150071-fce8-48f5-aea4-14ed78b83511) | openai | San Francisco | — | ashby |
 | 71 | [Senior Software Engineer - Data Platform ](https://www.coinbase.com/careers/positions/7812407?gh_jid=7812407) | coinbase | Remote - USA | — | greenhouse |
@@ -42,5 +44,3 @@
 | 71 | [Software Engineer, Data Layer ](https://www.coinbase.com/careers/positions/8029037?gh_jid=8029037) | coinbase | Remote - Singapore | — | greenhouse |
 | 71 | [Senior Software Engineer, Developer Experience (DevX)](https://boards.greenhouse.io/robinhood/jobs/8164943?t=gh_src=&gh_jid=8164943) | robinhood | Menlo Park, CA; New York, NY | — | greenhouse |
 | 71 | [Senior Software Engineer, Fullstack](https://www.arbeitnow.co.uk/jobs/companies/muckrack/remote-senior-software-engineer-fullstack-325902) | Muckrack | Remote (Bulgaria, Ireland | — | arbeitnow |
-| 71 | [Software Engineer, Infrastructure ](https://jobs.ashbyhq.com/openai/984da843-107f-4ff6-ad27-07a06700e338) | openai | San Francisco | — | ashby |
-| 71 | [Senior Full Stack Engineer (Realtime & Voice) Customer Experience Platform](https://www.arbeitnow.co.uk/jobs/companies/hopper/remote-senior-full-stack-engineer-realtime-voice-customer-experience-platform-228373) | Hopper | England - Remote | — | arbeitnow |
