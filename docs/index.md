@@ -28,6 +28,7 @@
 | 74 | [Senior Software Engineer, Core Platform](https://www.arbeitnow.co.uk/jobs/companies/lightningai/senior-software-engineer-core-platform-london-new-york-new-york-united-states-san-francisco-california-united-states-44495) | Lightningai | London; New York, New York, United States; San Francisco, California, United States | — | arbeitnow |
 | 74 | [Senior Software Engineer - k6 Core / USA, EST only / Remote](https://www.arbeitnow.co.uk/jobs/companies/grafanalabs/senior-software-engineer-k6-core-usa-est-only-remote-283344) | grafanalabs | United States (Remote) | — | arbeitnow |
 | 74 | [Senior Software Engineer](https://www.arbeitnow.com/jobs/companies/workmotion/remote-senior-software-engineer-germany-225652) | Workmotion | Germany | — | arbeitnow |
+| 74 | [Senior Software Engineer - DevX](https://job-boards.greenhouse.io/reddit/jobs/7950520) | reddit | Remote - United States | — | greenhouse |
 | 74 | [Software Engineer, Data Platform](https://job-boards.greenhouse.io/discord/jobs/8396927002) | discord | San Francisco Bay Area | — | greenhouse |
 | 74 | [Senior Software Engineer, Core AI Infrastructure](https://www.coinbase.com/careers/positions/7847431?gh_jid=7847431) | coinbase | Remote - USA | — | greenhouse |
 | 74 | [Sr Software Engineer, Infrastructure](https://databricks.com/company/careers/open-positions/job?gh_jid=8493170002) | databricks | San Francisco, California | — | greenhouse |
@@ -43,4 +44,3 @@
 | 71 | [C++ Software Engineer](https://www.arbeitnow.co.uk/jobs/companies/reactive-markets/c-software-engineer-united-kingdom-232323) | Reactive Markets | Remote, UK | — | arbeitnow |
 | 71 | [Senior Software Engineer, Backend (Institutional - Exchange)](https://www.coinbase.com/careers/positions/8203429?gh_jid=8203429) | coinbase | Remote - USA | — | greenhouse |
 | 71 | [Senior Software Engineer - Data Platform ](https://www.coinbase.com/careers/positions/7812407?gh_jid=7812407) | coinbase | Remote - USA | — | greenhouse |
-| 71 | [Senior Software Engineer, Tokenization](https://boards.greenhouse.io/robinhood/jobs/8189057?t=gh_src=&gh_jid=8189057) | robinhood | Menlo Park, CA; New York, NY | — | greenhouse |
