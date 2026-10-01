@@ -1,4 +1,4 @@
-# H1B job matches — 2026-09-30
+# H1B job matches — 2026-10-01
 
 500 matches. Top 40 below.
 
@@ -14,7 +14,6 @@
 | 74 | [Senior Software Engineer – IT Risk & Pricing (m/f/d)](https://www.arbeitnow.com/jobs/companies/auxmoney-gmbh/remote-senior-software-engineer-it-risk-pricing-162821) | Auxmoney Gmbh | Remote / Düsseldorf | — | arbeitnow |
 | 74 | [Backend Engineer - Agentic AI (m/w/d)](https://www.arbeitnow.com/jobs/companies/getpress-gmbh/remote-backend-engineer-agentic-ai-berlin-386347) | Getpress Gmbh | Berlin | — | arbeitnow |
 | 74 | [Senior Full Stack Software Engineer](https://www.arbeitnow.co.uk/jobs/companies/octopus-energy-group/remote-senior-full-stack-software-engineer-329869) | Octopus Energy Group | Remote (UK) | — | arbeitnow |
-| 74 | [Software Engineer, Consumer Engineering](https://job-boards.greenhouse.io/reddit/jobs/8172457) | reddit | Remote - United States | — | greenhouse |
 | 74 | [Senior Software Engineer, Product Velocity](https://stripe.com/jobs/search?gh_jid=8194328) | stripe | Seattle, WA | — | greenhouse |
 | 74 | [Senior Software Engineer](https://www.arbeitnow.com/jobs/companies/nucs-ai/remote-senior-software-engineer-berlin-462841) | Nucs AI | Remote job | — | arbeitnow |
 | 74 | [Lead Software Engineer GenAI-Engineering / Agentic Coding (m/w/d) - Hybrid (deut](https://www.arbeitnow.com/jobs/companies/tech-recruitingde/lead-software-engineer-genai-engineering-agentic-coding-hybrid-deutschlandweite-standorte-bielefeld-17589) | Tech-Recruiting.de | Bielefeld | — | arbeitnow |
@@ -44,3 +43,4 @@
 | 71 | [Senior Software Engineer, Backend (Institutional - Exchange)](https://www.coinbase.com/careers/positions/8203429?gh_jid=8203429) | coinbase | Remote - USA | — | greenhouse |
 | 71 | [Senior Software Engineer - Data Platform ](https://www.coinbase.com/careers/positions/7812407?gh_jid=7812407) | coinbase | Remote - USA | — | greenhouse |
 | 71 | [Senior Software Engineer, Tokenization](https://boards.greenhouse.io/robinhood/jobs/8189057?t=gh_src=&gh_jid=8189057) | robinhood | Menlo Park, CA; New York, NY | — | greenhouse |
+| 71 | [Software Engineer, Data Layer ](https://www.coinbase.com/careers/positions/8029037?gh_jid=8029037) | coinbase | Remote - Singapore | — | greenhouse |
