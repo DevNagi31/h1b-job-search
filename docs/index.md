@@ -1,4 +1,4 @@
-# H1B job matches — 2026-10-03
+# H1B job matches — 2026-10-04
 
 500 matches. Top 40 below.
 
@@ -15,7 +15,7 @@
 | 74 | [Software Engineer](https://job-boards.greenhouse.io/reddit/jobs/8243443) | reddit | San Francisco, CA | — | greenhouse |
 | 74 | [Full Stack Software Engineer (Angular/Python)](https://www.arbeitnow.com/jobs/companies/lobster-data-gmbh/remote-full-stack-software-engineer-angular-python-239791) | Lobster Data Gmbh | Remote Germany | — | arbeitnow |
 | 74 | [Erfahrener Software Engineer / ML Engineer (m/w/x) im Bildungsumfeld / Remote](https://www.arbeitnow.com/jobs/companies/gfn-gmbh/erfahrener-software-engineer-ml-engineer-im-bildungsumfeld-remote-heidelberg-77114) | GFN GmbH | Heidelberg | — | arbeitnow |
-| 74 | [Senior Software Engineer – IT Risk & Pricing (m/f/d)](https://www.arbeitnow.com/jobs/companies/auxmoney-gmbh/remote-senior-software-engineer-it-risk-pricing-162821) | Auxmoney Gmbh | Remote / Düsseldorf | — | arbeitnow |
+| 74 | [Senior Software Engineer – IT Risk & Pricing (m/f/d)](https://www.arbeitnow.com/jobs/companies/auxmoney-gmbh/remote-senior-software-engineer-it-risk-pricing-494487) | Auxmoney Gmbh | Remote / Düsseldorf | — | arbeitnow |
 | 74 | [Backend Engineer - Agentic AI (m/w/d)](https://www.arbeitnow.com/jobs/companies/getpress-gmbh/remote-backend-engineer-agentic-ai-berlin-371659) | Getpress Gmbh | Berlin | — | arbeitnow |
 | 74 | [Senior Full Stack Software Engineer](https://www.arbeitnow.co.uk/jobs/companies/octopus-energy-group/remote-senior-full-stack-software-engineer-329869) | Octopus Energy Group | Remote (UK) | — | arbeitnow |
 | 74 | [Software Engineer, Consumer Engineering](https://job-boards.greenhouse.io/reddit/jobs/8172457) | reddit | Remote - United States | — | greenhouse |
