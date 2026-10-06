@@ -1,4 +1,4 @@
-# H1B job matches — 2026-10-05
+# H1B job matches — 2026-10-06
 
 500 matches. Top 40 below.
 
