@@ -38,9 +38,9 @@
 | 74 | [Senior Software Engineer, Ads](https://job-boards.greenhouse.io/reddit/jobs/6909091) | reddit | Remote - United States | — | greenhouse |
 | 74 | [Software Engineer, Data Platform](https://job-boards.greenhouse.io/discord/jobs/8396927002) | discord | San Francisco Bay Area | — | greenhouse |
 | 74 | [Senior Software Engineer, Core AI Infrastructure](https://www.coinbase.com/careers/positions/7847431?gh_jid=7847431) | coinbase | Remote - USA | — | greenhouse |
+| 74 | [Sr Software Engineer, Infrastructure](https://databricks.com/company/careers/open-positions/job?gh_jid=8493170002) | databricks | San Francisco, California | — | greenhouse |
 | 74 | [Software Engineer, Product Security Data Platforms](https://stripe.com/jobs/search?gh_jid=8039800) | stripe | Seattle | — | greenhouse |
 | 71 | [Senior Software Engineer (Institutional, Financing)](https://www.coinbase.com/careers/positions/8248766?gh_jid=8248766) | coinbase | Remote - USA | — | greenhouse |
 | 71 | [Senior Software Engineer — Backend (Files Team)](https://databricks.com/company/careers/open-positions/job?gh_jid=8864368002) | databricks | San Francisco, California | — | greenhouse |
 | 71 | [Senior software engineer - 6 month O/IR35](https://www.arbeitnow.co.uk/jobs/companies/seccl/senior-software-engineer-6-month-o-ir35-london-235653) | Seccl | Remote | — | arbeitnow |
 | 71 | [Software Engineer, Product Velocity](https://jobs.ashbyhq.com/openai/9909555b-3dc4-4ba2-859e-43eae7c97a34) | openai | San Francisco | — | ashby |
-| 71 | [Software Engineer, DevOps](https://jobs.ashbyhq.com/openai/a5dd77a2-9ab1-4165-98aa-c7bb0260985b) | openai | San Francisco | — | ashby |
