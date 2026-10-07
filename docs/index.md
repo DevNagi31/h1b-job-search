@@ -36,11 +36,11 @@
 | 74 | [Senior Software Engineer](https://www.arbeitnow.com/jobs/companies/workmotion/remote-senior-software-engineer-germany-225652) | Workmotion | Germany | — | arbeitnow |
 | 74 | [Software Engineer, Ads](https://job-boards.greenhouse.io/reddit/jobs/6469397) | reddit | Remote - United States | — | greenhouse |
 | 74 | [Senior Software Engineer - DevX](https://job-boards.greenhouse.io/reddit/jobs/7950520) | reddit | Remote - United States | — | greenhouse |
+| 74 | [Senior Software Engineer, Core Platform](https://job-boards.greenhouse.io/reddit/jobs/8022446) | reddit | San Francisco, CA | — | greenhouse |
+| 74 | [Senior Software Engineer, Core Platform](https://job-boards.greenhouse.io/reddit/jobs/8022449) | reddit | New York City, NY | — | greenhouse |
+| 74 | [Senior Software Engineer, Core Platform](https://job-boards.greenhouse.io/reddit/jobs/8022441) | reddit | Remote - United States | — | greenhouse |
 | 74 | [Senior Software Engineer, Ads](https://job-boards.greenhouse.io/reddit/jobs/6909091) | reddit | Remote - United States | — | greenhouse |
 | 74 | [Software Engineer, Data Platform](https://job-boards.greenhouse.io/discord/jobs/8396927002) | discord | San Francisco Bay Area | — | greenhouse |
 | 74 | [Senior Software Engineer, Core AI Infrastructure](https://www.coinbase.com/careers/positions/7847431?gh_jid=7847431) | coinbase | Remote - USA | — | greenhouse |
 | 74 | [Sr Software Engineer, Infrastructure](https://databricks.com/company/careers/open-positions/job?gh_jid=8493170002) | databricks | San Francisco, California | — | greenhouse |
 | 74 | [Software Engineer, Product Security Data Platforms](https://stripe.com/jobs/search?gh_jid=8039800) | stripe | Seattle | — | greenhouse |
-| 71 | [Senior Software Engineer (Institutional, Financing)](https://www.coinbase.com/careers/positions/8248766?gh_jid=8248766) | coinbase | Remote - USA | — | greenhouse |
-| 71 | [Senior Software Engineer — Backend (Files Team)](https://databricks.com/company/careers/open-positions/job?gh_jid=8864368002) | databricks | San Francisco, California | — | greenhouse |
-| 71 | [Senior software engineer - 6 month O/IR35](https://www.arbeitnow.co.uk/jobs/companies/seccl/senior-software-engineer-6-month-o-ir35-london-235653) | Seccl | Remote | — | arbeitnow |
