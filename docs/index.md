@@ -10,6 +10,7 @@
 | 76 | [(Senior) Backend Engineer - Banking (f/m/x)](https://www.arbeitnow.com/jobs/companies/lemon-markets/senior-backend-engineer-banking-berlin-257486) | Lemon Markets | Germany  (Hybrid) | — | arbeitnow |
 | 76 | [(Senior) Backend Engineer - Investing (f/m/x)](https://www.arbeitnow.com/jobs/companies/lemon-markets/senior-backend-engineer-investing-berlin-52342) | Lemon Markets | Germany  (Hybrid) | — | arbeitnow |
 | 76 | [Forward Deployed Software Engineer](https://www.arbeitnow.co.uk/jobs/companies/physicsx/forward-deployed-software-engineer-london-274667) | Physicsx | London | — | arbeitnow |
+| 74 | [Senior CX Platform Engineer](https://job-boards.greenhouse.io/gitlab/jobs/8871406002) | gitlab | Remote | — | greenhouse |
 | 74 | [Hiring: AI, Data, DevOps & Full Stack Engineers / Remote — Americas We’re hiring](https://news.ycombinator.com/item?id=49925696) | Hiring: AI, Data, DevOps & Full Stack Engineers |  | — | hackernews |
 | 74 | [Senior Software Engineer (Rust) (m/f/d)](https://www.arbeitnow.com/jobs/companies/berlitz/remote-senior-software-engineer-rust-388605) | Berlitz | Germany Remote | — | arbeitnow |
 | 74 | [Software Engineer](https://job-boards.greenhouse.io/reddit/jobs/8243443) | reddit | San Francisco, CA | — | greenhouse |
@@ -25,7 +26,7 @@
 | 74 | [Lead Software Engineer GenAI-Engineering / Agentic Coding (m/w/d) - Hybrid (deut](https://www.arbeitnow.com/jobs/companies/tech-recruitingde/lead-software-engineer-genai-engineering-agentic-coding-hybrid-deutschlandweite-standorte-bielefeld-17589) | Tech-Recruiting.de | Bielefeld | — | arbeitnow |
 | 74 | [Fullstack Software Engineer - Core](https://www.arbeitnow.co.uk/jobs/companies/dataiku/remote-fullstack-software-engineer-core-184220) | dataiku | Remote | — | arbeitnow |
 | 74 | [Senior Software Engineer, Media Creation](https://job-boards.greenhouse.io/reddit/jobs/8100220) | reddit | Remote - United States | — | greenhouse |
-| 74 | [Platform Boosters - Backend Engineer (m/w/d)](https://www.arbeitnow.com/jobs/companies/shopware-ag/remote-platform-boosters-backend-engineer-berlin-67421) | shopware AG | Homeoffice | — | arbeitnow |
+| 74 | [Platform Boosters - Backend Engineer (m/w/d)](https://www.arbeitnow.com/jobs/companies/shopware-ag/remote-platform-boosters-backend-engineer-berlin-232578) | shopware AG | Homeoffice | — | arbeitnow |
 | 74 | [Senior Data & Python Software Engineer](https://www.arbeitnow.co.uk/jobs/companies/ceartas/remote-senior-data-python-software-engineer-235366) | Ceartas | Remote | — | arbeitnow |
 | 74 | [Fullstack Software Engineer (m/f/d) - Mid Level](https://www.arbeitnow.com/jobs/companies/beglaubigtde/fullstack-software-engineer-mid-level-munich-130496) | Beglaubigt.de | Munich | — | arbeitnow |
 | 74 | [Senior Backend Engineer, Compliance Engineering](https://job-boards.greenhouse.io/reddit/jobs/8128860) | reddit | Remote - United States | — | greenhouse |
@@ -43,4 +44,3 @@
 | 71 | [Senior Software Engineer (Institutional, Financing)](https://www.coinbase.com/careers/positions/8248766?gh_jid=8248766) | coinbase | Remote - USA | — | greenhouse |
 | 71 | [Senior Software Engineer — Backend (Files Team)](https://databricks.com/company/careers/open-positions/job?gh_jid=8864368002) | databricks | San Francisco, California | — | greenhouse |
 | 71 | [Senior software engineer - 6 month O/IR35](https://www.arbeitnow.co.uk/jobs/companies/seccl/senior-software-engineer-6-month-o-ir35-london-235653) | Seccl | Remote | — | arbeitnow |
-| 71 | [Software Engineer, Product Velocity](https://jobs.ashbyhq.com/openai/9909555b-3dc4-4ba2-859e-43eae7c97a34) | openai | San Francisco | — | ashby |
