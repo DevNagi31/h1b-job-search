@@ -10,6 +10,8 @@
 | 76 | [(Senior) Backend Engineer - Banking (f/m/x)](https://www.arbeitnow.com/jobs/companies/lemon-markets/senior-backend-engineer-banking-berlin-257486) | Lemon Markets | Germany  (Hybrid) | — | arbeitnow |
 | 76 | [(Senior) Backend Engineer - Investing (f/m/x)](https://www.arbeitnow.com/jobs/companies/lemon-markets/senior-backend-engineer-investing-berlin-52342) | Lemon Markets | Germany  (Hybrid) | — | arbeitnow |
 | 76 | [Forward Deployed Software Engineer](https://www.arbeitnow.co.uk/jobs/companies/physicsx/forward-deployed-software-engineer-london-274667) | Physicsx | London | — | arbeitnow |
+| 74 | [Software Engineer, Clinical AI Devices](https://www.arbeitnow.fr/jobs/companies/deephealth/remote-software-engineer-clinical-ai-devices-paris-321935) | DeepHealth | Remote job | — | arbeitnow |
+| 74 | [Software Engineer](https://www.coinbase.com/careers/positions/8003605?gh_jid=8003605) | coinbase | Remote - USA | — | greenhouse |
 | 74 | [Senior Software Engineer (m/w/d)](https://www.arbeitnow.com/jobs/companies/pflegia/senior-software-engineer-berlin-355454) | Pflegia | Berlin | — | arbeitnow |
 | 74 | [Senior CX Platform Engineer](https://job-boards.greenhouse.io/gitlab/jobs/8871406002) | gitlab | Remote | — | greenhouse |
 | 74 | [Hiring: AI, Data, DevOps & Full Stack Engineers / Remote — Americas We’re hiring](https://news.ycombinator.com/item?id=49925696) | Hiring: AI, Data, DevOps & Full Stack Engineers |  | — | hackernews |
@@ -42,5 +44,3 @@
 | 74 | [Senior Software Engineer, Core Platform](https://job-boards.greenhouse.io/reddit/jobs/8022441) | reddit | Remote - United States | — | greenhouse |
 | 74 | [Senior Software Engineer, Ads](https://job-boards.greenhouse.io/reddit/jobs/6909091) | reddit | Remote - United States | — | greenhouse |
 | 74 | [Software Engineer, Data Platform](https://job-boards.greenhouse.io/discord/jobs/8396927002) | discord | San Francisco Bay Area | — | greenhouse |
-| 74 | [Senior Software Engineer, Core AI Infrastructure](https://www.coinbase.com/careers/positions/7847431?gh_jid=7847431) | coinbase | Remote - USA | — | greenhouse |
-| 74 | [Sr Software Engineer, Infrastructure](https://databricks.com/company/careers/open-positions/job?gh_jid=8493170002) | databricks | San Francisco, California | — | greenhouse |
