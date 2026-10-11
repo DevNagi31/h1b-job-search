@@ -1,4 +1,4 @@
-# H1B job matches — 2026-10-10
+# H1B job matches — 2026-10-11
 
 500 matches. Top 40 below.
 
@@ -10,6 +10,7 @@
 | 76 | [(Senior) Backend Engineer - Banking (f/m/x)](https://www.arbeitnow.com/jobs/companies/lemon-markets/senior-backend-engineer-banking-berlin-257486) | Lemon Markets | Germany  (Hybrid) | — | arbeitnow |
 | 76 | [(Senior) Backend Engineer - Investing (f/m/x)](https://www.arbeitnow.com/jobs/companies/lemon-markets/senior-backend-engineer-investing-berlin-52342) | Lemon Markets | Germany  (Hybrid) | — | arbeitnow |
 | 76 | [Forward Deployed Software Engineer](https://www.arbeitnow.co.uk/jobs/companies/physicsx/forward-deployed-software-engineer-london-274667) | Physicsx | London | — | arbeitnow |
+| 74 | [Senior Data Platform Engineer](https://www.arbeitnow.co.uk/jobs/companies/akersystems/remote-senior-data-platform-engineer-206793) | Akersystems | Remote/Home Based | — | arbeitnow |
 | 74 | [Software Engineer, Clinical AI Devices](https://www.arbeitnow.fr/jobs/companies/deephealth/remote-software-engineer-clinical-ai-devices-paris-321935) | DeepHealth | Remote job | — | arbeitnow |
 | 74 | [Software Engineer](https://www.coinbase.com/careers/positions/8003605?gh_jid=8003605) | coinbase | Remote - USA | — | greenhouse |
 | 74 | [Senior Software Engineer (m/w/d)](https://www.arbeitnow.com/jobs/companies/pflegia/senior-software-engineer-berlin-355454) | Pflegia | Berlin | — | arbeitnow |
@@ -20,7 +21,7 @@
 | 74 | [Full Stack Software Engineer (Angular/Python)](https://www.arbeitnow.com/jobs/companies/lobster-data-gmbh/remote-full-stack-software-engineer-angular-python-239791) | Lobster Data Gmbh | Remote Germany | — | arbeitnow |
 | 74 | [Erfahrener Software Engineer / ML Engineer (m/w/x) im Bildungsumfeld / Remote](https://www.arbeitnow.com/jobs/companies/gfn-gmbh/erfahrener-software-engineer-ml-engineer-im-bildungsumfeld-remote-heidelberg-77114) | GFN GmbH | Heidelberg | — | arbeitnow |
 | 74 | [Senior Software Engineer – IT Risk & Pricing (m/f/d)](https://www.arbeitnow.com/jobs/companies/auxmoney-gmbh/remote-senior-software-engineer-it-risk-pricing-494487) | Auxmoney Gmbh | Remote / Düsseldorf | — | arbeitnow |
-| 74 | [Backend Engineer - Agentic AI (m/w/d)](https://www.arbeitnow.com/jobs/companies/getpress-gmbh/remote-backend-engineer-agentic-ai-berlin-371659) | Getpress Gmbh | Berlin | — | arbeitnow |
+| 74 | [Backend Engineer - Agentic AI (m/w/d)](https://www.arbeitnow.com/jobs/companies/getpress-gmbh/remote-backend-engineer-agentic-ai-berlin-376827) | Getpress Gmbh | Berlin | — | arbeitnow |
 | 74 | [Senior Full Stack Software Engineer](https://www.arbeitnow.co.uk/jobs/companies/octopus-energy-group/remote-senior-full-stack-software-engineer-329869) | Octopus Energy Group | Remote (UK) | — | arbeitnow |
 | 74 | [Software Engineer, Consumer Engineering](https://job-boards.greenhouse.io/reddit/jobs/8172457) | reddit | Remote - United States | — | greenhouse |
 | 74 | [Senior Software Engineer, Consumer Engineering](https://job-boards.greenhouse.io/reddit/jobs/8187247) | reddit | Remote - United States | — | greenhouse |
@@ -43,4 +44,3 @@
 | 74 | [Senior Software Engineer, Core Platform](https://job-boards.greenhouse.io/reddit/jobs/8022449) | reddit | New York City, NY | — | greenhouse |
 | 74 | [Senior Software Engineer, Core Platform](https://job-boards.greenhouse.io/reddit/jobs/8022441) | reddit | Remote - United States | — | greenhouse |
 | 74 | [Senior Software Engineer, Ads](https://job-boards.greenhouse.io/reddit/jobs/6909091) | reddit | Remote - United States | — | greenhouse |
-| 74 | [Software Engineer, Data Platform](https://job-boards.greenhouse.io/discord/jobs/8396927002) | discord | San Francisco Bay Area | — | greenhouse |
