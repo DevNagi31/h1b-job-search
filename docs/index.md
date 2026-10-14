@@ -1,11 +1,11 @@
-# H1B job matches — 2026-10-13
+# H1B job matches — 2026-10-14
 
 500 matches. Top 40 below.
 
 | Score | Role | Company | Location | H1B history | Source |
 |---:|---|---|---|---|---|
 | 82 | [Machine Learning Software Engineer, Research](https://www.arbeitnow.co.uk/jobs/companies/physicsx/machine-learning-software-engineer-research-london-181340) | Physicsx | London | — | arbeitnow |
-| 79 | [Senior Software Engineer, Chem-Bio](https://www.arbeitnow.co.uk/jobs/companies/aisi/senior-software-engineer-chem-bio-london-485374) | Aisi | London | — | arbeitnow |
+| 79 | [Senior Software Engineer, Chem-Bio](https://www.arbeitnow.co.uk/jobs/companies/aisi/senior-software-engineer-chem-bio-london-304737) | Aisi | London | — | arbeitnow |
 | 79 | [Fusionbox / Python + TypeScript Engineers / United States / Full-time / REMOTE (](https://news.ycombinator.com/item?id=48764770) | Fusionbox |  | — | hackernews |
 | 76 | [(Senior) Backend Engineer - Banking (f/m/x)](https://www.arbeitnow.com/jobs/companies/lemon-markets/senior-backend-engineer-banking-berlin-257486) | Lemon Markets | Germany  (Hybrid) | — | arbeitnow |
 | 76 | [(Senior) Backend Engineer - Investing (f/m/x)](https://www.arbeitnow.com/jobs/companies/lemon-markets/senior-backend-engineer-investing-berlin-52342) | Lemon Markets | Germany  (Hybrid) | — | arbeitnow |
@@ -29,6 +29,7 @@
 | 74 | [Senior Software Engineer](https://www.arbeitnow.com/jobs/companies/nucs-ai/remote-senior-software-engineer-berlin-462841) | Nucs AI | Remote job | — | arbeitnow |
 | 74 | [Lead Software Engineer GenAI-Engineering / Agentic Coding (m/w/d) - Hybrid (deut](https://www.arbeitnow.com/jobs/companies/tech-recruitingde/lead-software-engineer-genai-engineering-agentic-coding-hybrid-deutschlandweite-standorte-bielefeld-17589) | Tech-Recruiting.de | Bielefeld | — | arbeitnow |
 | 74 | [Fullstack Software Engineer - Core](https://www.arbeitnow.co.uk/jobs/companies/dataiku/remote-fullstack-software-engineer-core-184220) | dataiku | Remote | — | arbeitnow |
+| 74 | [Software Engineer, CDP - Payment Acceptance ](https://www.coinbase.com/careers/positions/8164730?gh_jid=8164730) | coinbase | Remote - USA | — | greenhouse |
 | 74 | [Senior Software Engineer, Media Creation](https://job-boards.greenhouse.io/reddit/jobs/8100220) | reddit | Remote - United States | — | greenhouse |
 | 74 | [Platform Boosters - Backend Engineer (m/w/d)](https://www.arbeitnow.com/jobs/companies/shopware-ag/remote-platform-boosters-backend-engineer-berlin-232578) | shopware AG | Homeoffice | — | arbeitnow |
 | 74 | [Senior Data & Python Software Engineer](https://www.arbeitnow.co.uk/jobs/companies/ceartas/remote-senior-data-python-software-engineer-235366) | Ceartas | Remote | — | arbeitnow |
@@ -43,4 +44,3 @@
 | 74 | [Senior Software Engineer, Core Platform](https://job-boards.greenhouse.io/reddit/jobs/8022446) | reddit | San Francisco, CA | — | greenhouse |
 | 74 | [Senior Software Engineer, Core Platform](https://job-boards.greenhouse.io/reddit/jobs/8022449) | reddit | New York City, NY | — | greenhouse |
 | 74 | [Senior Software Engineer, Core Platform](https://job-boards.greenhouse.io/reddit/jobs/8022441) | reddit | Remote - United States | — | greenhouse |
-| 74 | [Senior Software Engineer, Ads](https://job-boards.greenhouse.io/reddit/jobs/6909091) | reddit | Remote - United States | — | greenhouse |
