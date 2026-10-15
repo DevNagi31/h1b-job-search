@@ -7,6 +7,7 @@
 | 82 | [Machine Learning Software Engineer, Research](https://www.arbeitnow.co.uk/jobs/companies/physicsx/machine-learning-software-engineer-research-london-181340) | Physicsx | London | — | arbeitnow |
 | 79 | [Senior Software Engineer, Chem-Bio](https://www.arbeitnow.co.uk/jobs/companies/aisi/senior-software-engineer-chem-bio-london-304737) | Aisi | London | — | arbeitnow |
 | 79 | [Fusionbox / Python + TypeScript Engineers / United States / Full-time / REMOTE (](https://news.ycombinator.com/item?id=48764770) | Fusionbox |  | — | hackernews |
+| 76 | [Backend Engineer (f/m/x)](https://www.arbeitnow.com/jobs/companies/lemon-markets/backend-engineer-berlin-359228) | Lemon Markets | Germany  (Hybrid) | — | arbeitnow |
 | 76 | [(Senior) Backend Engineer - Banking (f/m/x)](https://www.arbeitnow.com/jobs/companies/lemon-markets/senior-backend-engineer-banking-berlin-257486) | Lemon Markets | Germany  (Hybrid) | — | arbeitnow |
 | 76 | [(Senior) Backend Engineer - Investing (f/m/x)](https://www.arbeitnow.com/jobs/companies/lemon-markets/senior-backend-engineer-investing-berlin-52342) | Lemon Markets | Germany  (Hybrid) | — | arbeitnow |
 | 76 | [Forward Deployed Software Engineer](https://www.arbeitnow.co.uk/jobs/companies/physicsx/forward-deployed-software-engineer-london-274667) | Physicsx | London | — | arbeitnow |
@@ -43,4 +44,3 @@
 | 74 | [Software Engineer, Ads](https://job-boards.greenhouse.io/reddit/jobs/6469397) | reddit | Remote - United States | — | greenhouse |
 | 74 | [Senior Software Engineer - DevX](https://job-boards.greenhouse.io/reddit/jobs/7950520) | reddit | Remote - United States | — | greenhouse |
 | 74 | [Senior Software Engineer, Core Platform](https://job-boards.greenhouse.io/reddit/jobs/8022446) | reddit | San Francisco, CA | — | greenhouse |
-| 74 | [Senior Software Engineer, Core Platform](https://job-boards.greenhouse.io/reddit/jobs/8022449) | reddit | New York City, NY | — | greenhouse |
