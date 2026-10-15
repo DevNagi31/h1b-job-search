@@ -1,4 +1,4 @@
-# H1B job matches — 2026-10-14
+# H1B job matches — 2026-10-15
 
 500 matches. Top 40 below.
 
@@ -10,6 +10,7 @@
 | 76 | [(Senior) Backend Engineer - Banking (f/m/x)](https://www.arbeitnow.com/jobs/companies/lemon-markets/senior-backend-engineer-banking-berlin-257486) | Lemon Markets | Germany  (Hybrid) | — | arbeitnow |
 | 76 | [(Senior) Backend Engineer - Investing (f/m/x)](https://www.arbeitnow.com/jobs/companies/lemon-markets/senior-backend-engineer-investing-berlin-52342) | Lemon Markets | Germany  (Hybrid) | — | arbeitnow |
 | 76 | [Forward Deployed Software Engineer](https://www.arbeitnow.co.uk/jobs/companies/physicsx/forward-deployed-software-engineer-london-274667) | Physicsx | London | — | arbeitnow |
+| 74 | [Client Platform Engineer](https://jobs.ashbyhq.com/openai/329fe50f-7701-4f07-982d-a4e10cbec236) | openai | San Francisco | — | ashby |
 | 74 | [Senior Data Platform Engineer](https://www.arbeitnow.co.uk/jobs/companies/akersystems/remote-senior-data-platform-engineer-206793) | Akersystems | Remote/Home Based | — | arbeitnow |
 | 74 | [Software Engineer, Clinical AI Devices](https://www.arbeitnow.fr/jobs/companies/deephealth/remote-software-engineer-clinical-ai-devices-paris-321935) | DeepHealth | Remote job | — | arbeitnow |
 | 74 | [Software Engineer](https://www.coinbase.com/careers/positions/8003605?gh_jid=8003605) | coinbase | Remote - USA | — | greenhouse |
@@ -43,4 +44,3 @@
 | 74 | [Senior Software Engineer - DevX](https://job-boards.greenhouse.io/reddit/jobs/7950520) | reddit | Remote - United States | — | greenhouse |
 | 74 | [Senior Software Engineer, Core Platform](https://job-boards.greenhouse.io/reddit/jobs/8022446) | reddit | San Francisco, CA | — | greenhouse |
 | 74 | [Senior Software Engineer, Core Platform](https://job-boards.greenhouse.io/reddit/jobs/8022449) | reddit | New York City, NY | — | greenhouse |
-| 74 | [Senior Software Engineer, Core Platform](https://job-boards.greenhouse.io/reddit/jobs/8022441) | reddit | Remote - United States | — | greenhouse |
